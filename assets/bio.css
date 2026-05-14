@@ -1,0 +1,63 @@
+/* ===== Biographies — single-bio panel layout (overrides) ===== */
+.bio-layout {
+  grid-template-columns: 320px minmax(0, 1fr);
+  max-width: 1320px;
+}
+.bio-sidebar h2 { margin-bottom: 12px; }
+.bio-search {
+  display: block; width: 100%; margin-bottom: 14px;
+  padding: 9px 12px; font-size: 13px;
+  background: var(--surface, #fff);
+  border: 1px solid var(--line); border-radius: 8px;
+  font-family: inherit; color: var(--ink);
+  box-sizing: border-box;
+}
+.bio-search:focus { outline: none; border-color: var(--accent); }
+.bio-group { margin-bottom: 18px; }
+.bio-group-title {
+  font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 14px 0 6px 4px; font-weight: 600;
+}
+.bio-list { gap: 2px; }
+.bio-list a {
+  padding: 8px 12px; font-size: 14px;
+  display: flex; flex-direction: column; gap: 1px;
+}
+.bio-link-name { font-weight: 500; color: var(--ink); }
+.bio-link-dates { font-size: 11px; color: var(--ink-soft); }
+.bio-list a:hover .bio-link-name,
+.bio-list a.active .bio-link-name { color: var(--accent); }
+
+/* Single-bio visibility */
+.bio { display: none; margin-bottom: 0; padding-top: 0; border-top: none; }
+.bio.is-shown { display: block; }
+.bio-header { gap: 28px; margin-bottom: 28px; }
+.bio-portrait {
+  width: 180px; height: 230px;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.bio-portrait img { object-position: center top; }
+.bio-name { font-size: 32px; }
+.bio-dates { margin-bottom: 4px; }
+.bio-era { font-size: 12px; color: var(--accent); text-transform: uppercase; letter-spacing: 0.12em; margin-top: 4px; }
+.bio-summary {
+  font-style: italic; color: var(--ink-soft); font-size: 15px; line-height: 1.6;
+  margin-bottom: 22px; padding: 14px 18px;
+  background: var(--accent-soft); border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+}
+.bio-text p:first-of-type::first-letter { font-size: 48px; }
+
+@media (max-width: 900px) {
+  .bio-layout { grid-template-columns: 1fr; }
+  .bio-sidebar { position: static; height: auto; padding-right: 0; max-height: 340px; }
+  .bio-search { margin-bottom: 10px; }
+  .bio-group { margin-bottom: 10px; }
+  .bio-group-title { margin-top: 8px; }
+  .bio-list { flex-direction: column; gap: 1px; }
+  .bio-list a { border-radius: 6px; }
+  .bio-portrait { width: 130px; height: 170px; }
+  .bio-name { font-size: 24px; }
+  .bio-header { gap: 18px; }
+}
