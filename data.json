@@ -1,0 +1,7364 @@
+[
+  {
+    "id": "animals",
+    "en": "Animals",
+    "ct": "Ayvanlar",
+    "ru": "Животные",
+    "uk": "Тварини",
+    "words": [
+      {
+        "en": "Bear",
+        "ct": "Ayuv",
+        "ru": "Медведь",
+        "uk": "Ведмідь",
+        "img": "images/r0002.png"
+      },
+      {
+        "en": "Camel",
+        "ct": "Deve",
+        "ru": "Верблюд",
+        "uk": "Верблюд",
+        "img": "images/r0003.jpeg"
+      },
+      {
+        "en": "Cat",
+        "ct": "Mışıq",
+        "ru": "Кот",
+        "uk": "Кішка",
+        "img": "images/r0004.jpeg"
+      },
+      {
+        "en": "Chimpanzee",
+        "ct": "Şimpanze",
+        "ru": "Шимпанзе",
+        "uk": "Шимпанзе",
+        "img": "images/r0005.jpeg"
+      },
+      {
+        "en": "Cow",
+        "ct": "Sığır",
+        "ru": "Корова",
+        "uk": "Корова",
+        "img": "images/r0006.png"
+      },
+      {
+        "en": "Crocodile",
+        "ct": "Timsah",
+        "ru": "Крокодил",
+        "uk": "Крокодил",
+        "img": "images/r0007.jpeg"
+      },
+      {
+        "en": "Deer",
+        "ct": "Sığın",
+        "ru": "Олень",
+        "uk": "Олень",
+        "img": "images/r0008.jpeg"
+      },
+      {
+        "en": "Dog",
+        "ct": "Köpek, it",
+        "ru": "Собака",
+        "uk": "Собака",
+        "img": "images/r0009.png"
+      },
+      {
+        "en": "Puppy",
+        "ct": "Küçelek",
+        "ru": "Щенок",
+        "uk": "Щеня",
+        "img": "images/r0010.png"
+      },
+      {
+        "en": "Elephant",
+        "ct": "Fil",
+        "ru": "Слон",
+        "uk": "Слон",
+        "img": "images/r0011.jpeg"
+      },
+      {
+        "en": "Fox",
+        "ct": "Tilki",
+        "ru": "Лиса",
+        "uk": "Лисиця",
+        "img": "images/r0012.jpeg"
+      },
+      {
+        "en": "Frog",
+        "ct": "Baqa",
+        "ru": "Лягушка",
+        "uk": "Жаба",
+        "img": "images/r0013.jpeg"
+      },
+      {
+        "en": "Giraffe",
+        "ct": "Zurafe",
+        "ru": "Жираф",
+        "uk": "Жираф",
+        "img": "images/r0014.jpeg"
+      },
+      {
+        "en": "Goat",
+        "ct": "Eçki",
+        "ru": "Козёл",
+        "uk": "Коза",
+        "img": "images/r0015.jpeg"
+      },
+      {
+        "en": "Hamster",
+        "ct": "Yerbuçıq",
+        "ru": "Хомяк",
+        "uk": "Хом'як",
+        "img": "images/r0016.jpeg"
+      },
+      {
+        "en": "Horse",
+        "ct": "At, alaşa",
+        "ru": "Лошадь",
+        "uk": "Кінь",
+        "img": "images/r0017.png"
+      },
+      {
+        "en": "Lion",
+        "ct": "Arslan",
+        "ru": "Лев",
+        "uk": "Лев",
+        "img": "images/r0018.png"
+      },
+      {
+        "en": "Monkey",
+        "ct": "Maymun",
+        "ru": "Обезьяна",
+        "uk": "Мавпа",
+        "img": "images/r0019.jpeg"
+      },
+      {
+        "en": "Turtle",
+        "ct": "Qaplı baqa",
+        "ru": "Черепаха",
+        "uk": "Черепаха",
+        "img": "images/r0020.png"
+      },
+      {
+        "en": "Snail",
+        "ct": "Çıqçıq balaban",
+        "ru": "Улитка",
+        "uk": "Равлик",
+        "img": "images/r0021.jpeg"
+      },
+      {
+        "en": "Snake",
+        "ct": "Yılan",
+        "ru": "Змея",
+        "uk": "Змія",
+        "img": "images/r0022.png"
+      },
+      {
+        "en": "Wolf",
+        "ct": "Qaşqır, börü",
+        "ru": "Волк",
+        "uk": "Вовк",
+        "img": "images/r0023.png"
+      },
+      {
+        "en": "Panda",
+        "ct": "Panda",
+        "ru": "Панда",
+        "uk": "Панда",
+        "img": "images/r0024.png"
+      },
+      {
+        "en": "Pig",
+        "ct": "Domuz, çoçqa, hınzır",
+        "ru": "Свинья",
+        "uk": "Свиня",
+        "img": "images/r0025.jpeg"
+      },
+      {
+        "en": "Squirrel",
+        "ct": "Sansar",
+        "ru": "Белка",
+        "uk": "Білка",
+        "img": "images/r0026.png"
+      },
+      {
+        "en": "Rabbit",
+        "ct": "Qoyan",
+        "ru": "Кролик",
+        "uk": "Кролик",
+        "img": "images/r0027.jpeg"
+      },
+      {
+        "en": "Rat",
+        "ct": "Sıçavul, küşül",
+        "ru": "Крыса",
+        "uk": "Щур",
+        "img": "images/r0028.jpeg"
+      },
+      {
+        "en": "Tiger",
+        "ct": "Qaplan",
+        "ru": "Тигр",
+        "uk": "Тигр",
+        "img": "images/r0029.png"
+      },
+      {
+        "en": "Zebra",
+        "ct": "Zebra, qaşqalı at",
+        "ru": "Зебра",
+        "uk": "Зебра",
+        "img": "images/r0030.png"
+      },
+      {
+        "en": "Sheep",
+        "ct": "Qoy, qoyun",
+        "ru": "Овца",
+        "uk": "Овець",
+        "img": "images/r0031.png"
+      }
+    ]
+  },
+  {
+    "id": "birds",
+    "en": "Birds",
+    "ct": "Quşlar",
+    "ru": "Птицы",
+    "uk": "Птахи",
+    "words": [
+      {
+        "en": "Magpie",
+        "ct": "Savusqan",
+        "ru": "Сорока",
+        "uk": "Сорока",
+        "img": "images/r0032.jpeg"
+      },
+      {
+        "en": "Seagull",
+        "ct": "Çağala",
+        "ru": "Чайка",
+        "uk": "Чайка",
+        "img": "images/r0033.jpeg"
+      },
+      {
+        "en": "Swan",
+        "ct": "Aqquş",
+        "ru": "Лебедь",
+        "uk": "Лебідь",
+        "img": "images/r0034.jpeg"
+      },
+      {
+        "en": "Stork",
+        "ct": "Leylek",
+        "ru": "Аист",
+        "uk": "Лелека",
+        "img": "images/r0035.png"
+      },
+      {
+        "en": "Blackbird",
+        "ct": "Qara tavuq",
+        "ru": "Дрозд",
+        "uk": "Дрізд",
+        "img": "images/r0036.jpeg"
+      },
+      {
+        "en": "Bullfinch",
+        "ct": "Qarquş",
+        "ru": "Снегирь",
+        "uk": "Снігур",
+        "img": "images/r0037.jpeg"
+      },
+      {
+        "en": "Crow",
+        "ct": "Qarğa",
+        "ru": "Ворона",
+        "uk": "Ворона",
+        "img": "images/r0038.jpeg"
+      },
+      {
+        "en": "Cuckoo",
+        "ct": "Kukuquş",
+        "ru": "Кукушка",
+        "uk": "Зозуля",
+        "img": "images/r0039.jpeg"
+      },
+      {
+        "en": "Eagle",
+        "ct": "Qartal",
+        "ru": "Орел",
+        "uk": "Орел",
+        "img": "images/r0040.png"
+      },
+      {
+        "en": "Falcon",
+        "ct": "Şain, toğan qırğıy",
+        "ru": "Сокол",
+        "uk": "Сокіл",
+        "img": "images/r0041.png"
+      },
+      {
+        "en": "Hawk",
+        "ct": "Qırğıy",
+        "ru": "Ястреб",
+        "uk": "Яструб",
+        "img": "images/r0042.png"
+      },
+      {
+        "en": "Lark",
+        "ct": "Boztorğay, çoçamiy",
+        "ru": "Жаворонок",
+        "uk": "Жайворонок",
+        "img": "images/r0043.png"
+      },
+      {
+        "en": "Sparrow",
+        "ct": "Torğay",
+        "ru": "Воробей",
+        "uk": "Горобець",
+        "img": "images/r0044.jpeg"
+      },
+      {
+        "en": "Great tit",
+        "ct": "Balaban baştan qara ===большая синица",
+        "ru": "Большая синица",
+        "uk": "Велика синиця",
+        "img": "images/r0045.jpeg"
+      },
+      {
+        "en": "Pigeon, dove",
+        "ct": "Gögercin",
+        "ru": "Голубь",
+        "uk": "Голуб, голуб",
+        "img": "images/r0046.png"
+      },
+      {
+        "en": "Owl",
+        "ct": "Bayquş",
+        "ru": "Сова",
+        "uk": "Сова",
+        "img": "images/r0047.png"
+      },
+      {
+        "en": "Jackdaw",
+        "ct": "Çavke",
+        "ru": "Галка",
+        "uk": "Галка",
+        "img": "images/r0048.jpeg"
+      },
+      {
+        "en": "Starling",
+        "ct": "Sığırçıq",
+        "ru": "Скворец",
+        "uk": "Шпак",
+        "img": "images/r0049.jpeg"
+      },
+      {
+        "en": "Nightingale",
+        "ct": "Bülbül",
+        "ru": "Соловей",
+        "uk": "Соловейко",
+        "img": "images/r0050.jpeg"
+      },
+      {
+        "en": "Woodpecker",
+        "ct": "Taq-taq quş",
+        "ru": "Дятел",
+        "uk": "Дятел",
+        "img": "images/r0051.png"
+      },
+      {
+        "en": "Chicken",
+        "ct": "Tavuq, ferik",
+        "ru": "Курица",
+        "uk": "Курка",
+        "img": "images/r0052.jpeg"
+      },
+      {
+        "en": "Rooster",
+        "ct": "Horaz",
+        "ru": "Петух",
+        "uk": "Півень",
+        "img": "images/r0053.jpeg"
+      },
+      {
+        "en": "Chick",
+        "ct": "Çipçe",
+        "ru": "Цыплёнок",
+        "uk": "Чик",
+        "img": "images/r0054.jpeg"
+      },
+      {
+        "en": "Bird's egg",
+        "ct": "Quş yımırtası",
+        "ru": "Птичье яйцо",
+        "uk": "Пташине яйце",
+        "img": "images/r0055.png"
+      },
+      {
+        "en": "Bill, beak",
+        "ct": "Ğağa",
+        "ru": "Клюв",
+        "uk": "Білл, дзьоб",
+        "img": "images/r0056.jpeg"
+      },
+      {
+        "en": "Duck",
+        "ct": "Papiy",
+        "ru": "Утка",
+        "uk": "Качка",
+        "img": "images/r0057.png"
+      },
+      {
+        "en": "Bird house",
+        "ct": "Sığırçıq yuvası",
+        "ru": "Скворечник",
+        "uk": "Будинок для птахів",
+        "img": "images/r0058.jpeg"
+      },
+      {
+        "en": "Goose",
+        "ct": "Qaz",
+        "ru": "Гусь",
+        "uk": "Гусак",
+        "img": "images/r0059.png"
+      },
+      {
+        "en": "Bird's nest",
+        "ct": "Quş yuvası",
+        "ru": "Птичье гнездо",
+        "uk": "Пташине гніздо",
+        "img": "images/r0060.png"
+      },
+      {
+        "en": "Feather",
+        "ct": "Tük",
+        "ru": "Перо",
+        "uk": "Перо",
+        "img": "images/r0061.jpeg"
+      },
+      {
+        "en": "Wing",
+        "ct": "Qanat",
+        "ru": "Крыло",
+        "uk": "Крило",
+        "img": "images/r0062.png"
+      },
+      {
+        "en": "Nail, claw",
+        "ct": "Tırnaq",
+        "ru": "Коготь",
+        "uk": "Цвях, кіготь",
+        "img": "images/r0063.png"
+      },
+      {
+        "en": "Swallow",
+        "ct": "Qırılğaç",
+        "ru": "Ласточка",
+        "uk": "Ластівка",
+        "img": "images/r0064.png"
+      }
+    ]
+  },
+  {
+    "id": "sea_creatures",
+    "en": "Sea creatures",
+    "ct": "Deniz Ayvanları",
+    "ru": "Морские существа",
+    "uk": "Морські істоти",
+    "words": [
+      {
+        "en": "Whale",
+        "ct": "Kit, balina",
+        "ru": "Кит",
+        "uk": "Кит",
+        "img": "images/r0065.png"
+      },
+      {
+        "en": "Flounder",
+        "ct": "Qambala",
+        "ru": "Камбала",
+        "uk": "Камбала",
+        "img": "images/r0066.png"
+      },
+      {
+        "en": "Fish tail",
+        "ct": "Balıq quyruğı",
+        "ru": "Рыбий хвост",
+        "uk": "Риб'ячий хвіст",
+        "img": "images/r0067.png"
+      },
+      {
+        "en": "Jellyfish",
+        "ct": "Cılavuq",
+        "ru": "Медуза",
+        "uk": "Медузи",
+        "img": "images/r0068.png"
+      },
+      {
+        "en": "Starfish",
+        "ct": "Denizyıldızı",
+        "ru": "Морская звезда",
+        "uk": "Морська зірка",
+        "img": "images/r0069.jpeg"
+      },
+      {
+        "en": "Gills",
+        "ct": "Nefeslik",
+        "ru": "Жабры",
+        "uk": "Зябра",
+        "img": "images/r0070.png"
+      },
+      {
+        "en": "Salmon",
+        "ct": "Losos",
+        "ru": "Лосось",
+        "uk": "Лосось",
+        "img": "images/r0071.jpeg"
+      },
+      {
+        "en": "Eel",
+        "ct": "Yılan balığı",
+        "ru": "Угорь",
+        "uk": "Вугор",
+        "img": "images/r0072.jpeg"
+      },
+      {
+        "en": "Float",
+        "ct": "Yaldavuq",
+        "ru": "Поплавок",
+        "uk": "Поплавок",
+        "img": "images/r0073.jpeg"
+      },
+      {
+        "en": "Fishing net",
+        "ct": "Balıq ağı",
+        "ru": "Рыболовная сеть",
+        "uk": "Рибальська сітка",
+        "img": "images/r0074.jpeg"
+      },
+      {
+        "en": "Crab",
+        "ct": "Yengeç, pavra",
+        "ru": "Краб",
+        "uk": "Краб",
+        "img": "images/r0075.png"
+      },
+      {
+        "en": "Crayfish, crawfish",
+        "ct": "Qısqaç",
+        "ru": "Раки, раки",
+        "uk": "Раки, лангусти",
+        "img": "images/r0076.png"
+      },
+      {
+        "en": "Shark",
+        "ct": "Köpek balığı",
+        "ru": "Акула",
+        "uk": "Акула",
+        "img": "images/r0077.png"
+      },
+      {
+        "en": "Octopus",
+        "ct": "Sekizayaq, ahtapot",
+        "ru": "Осьминог",
+        "uk": "Восьминіг",
+        "img": "images/r0078.png"
+      },
+      {
+        "en": "Dolphin",
+        "ct": "Yunus balığı",
+        "ru": "Дельфин",
+        "uk": "Дельфін",
+        "img": "images/r0079.png"
+      }
+    ]
+  },
+  {
+    "id": "insects",
+    "en": "Insects",
+    "ct": "Böcekler",
+    "ru": "Насекомые",
+    "uk": "Комахи",
+    "words": [
+      {
+        "en": "Ant",
+        "ct": "Qarınca",
+        "ru": "Муравей",
+        "uk": "Мураха",
+        "img": "images/r0080.png"
+      },
+      {
+        "en": "Bee",
+        "ct": "Balqurt",
+        "ru": "Пчела",
+        "uk": "Бджола",
+        "img": "images/r0081.png"
+      },
+      {
+        "en": "Beetle",
+        "ct": "Qoñuz, böcek",
+        "ru": "Жук",
+        "uk": "Жук",
+        "img": "images/r0082.png"
+      },
+      {
+        "en": "Butterfly",
+        "ct": "Köbelek",
+        "ru": "Бабочка",
+        "uk": "Метелик",
+        "img": "images/r0083.jpeg"
+      },
+      {
+        "en": "Caterpillar",
+        "ct": "Tırtır",
+        "ru": "Гусеница",
+        "uk": "Гусениця",
+        "img": "images/r0084.jpeg"
+      },
+      {
+        "en": "Centipede",
+        "ct": "Qırqayaq",
+        "ru": "Сороконожка",
+        "uk": "Сороконіжка",
+        "img": "images/r0085.jpeg"
+      },
+      {
+        "en": "Cockroach",
+        "ct": "Fırın böcegi",
+        "ru": "Таракан",
+        "uk": "Тарган",
+        "img": "images/r0086.jpeg"
+      },
+      {
+        "en": "Dragonfly",
+        "ct": "Qız böcegi",
+        "ru": "Стрекоза",
+        "uk": "Бабка",
+        "img": "images/r0087.png"
+      },
+      {
+        "en": "Flea",
+        "ct": "Pire, bürçe",
+        "ru": "Блоха",
+        "uk": "Блоха",
+        "img": "images/r0088.png"
+      },
+      {
+        "en": "Fly",
+        "ct": "Sinek, çibin",
+        "ru": "Муха",
+        "uk": "Літати",
+        "img": "images/r0089.jpeg"
+      },
+      {
+        "en": "Grasshopper",
+        "ct": "Çegertki",
+        "ru": "Кузнечик",
+        "uk": "Коник",
+        "img": "images/r0090.jpeg"
+      },
+      {
+        "en": "Grub",
+        "ct": "Qurtçıq",
+        "ru": "Личинка",
+        "uk": "Груб",
+        "img": "images/r0091.jpeg"
+      },
+      {
+        "en": "Ladybug",
+        "ct": "Sırlı böcek",
+        "ru": "Божья коровка",
+        "uk": "Сонечко",
+        "img": "images/r0092.jpeg"
+      },
+      {
+        "en": "Mosquito",
+        "ct": "Sivrisenek, kanar",
+        "ru": "Комар",
+        "uk": "Комар",
+        "img": "images/r0093.jpeg"
+      },
+      {
+        "en": "Moth",
+        "ct": "Güve",
+        "ru": "Моль",
+        "uk": "Моль",
+        "img": "images/r0094.jpeg"
+      },
+      {
+        "en": "Praying mantis",
+        "ct": "Şeytan atı",
+        "ru": "Богомол",
+        "uk": "Богомол",
+        "img": "images/r0095.jpeg"
+      },
+      {
+        "en": "Scorpion",
+        "ct": "Aqrep",
+        "ru": "Скорпион",
+        "uk": "Скорпіон",
+        "img": "images/r0096.jpeg"
+      },
+      {
+        "en": "Wasp",
+        "ct": "Kiyik qurt, yaban qurt",
+        "ru": "Оса",
+        "uk": "Оса",
+        "img": "images/r0097.jpeg"
+      },
+      {
+        "en": "Spider",
+        "ct": "Örümçek, biy",
+        "ru": "Паук",
+        "uk": "Павук",
+        "img": "images/r0098.png"
+      },
+      {
+        "en": "Tick",
+        "ct": "Qasartqı",
+        "ru": "Клещ",
+        "uk": "Галочка",
+        "img": "images/r0099.png"
+      }
+    ]
+  },
+  {
+    "id": "flowers",
+    "en": "Flowers",
+    "ct": "Çiçekler",
+    "ru": "Цветы",
+    "uk": "квіти",
+    "words": [
+      {
+        "en": "Carnation",
+        "ct": "Qaranfil",
+        "ru": "Гвоздика",
+        "uk": "Гвоздика",
+        "img": "images/r0100.jpeg"
+      },
+      {
+        "en": "Aster",
+        "ct": "Çuva çiçegi",
+        "ru": "Астра",
+        "uk": "Айстра",
+        "img": "images/r0101.png"
+      },
+      {
+        "en": "Thistle",
+        "ct": "Qara yandıq",
+        "ru": "Чертополох",
+        "uk": "Розторопша",
+        "img": "images/r0102.jpeg"
+      },
+      {
+        "en": "Rose",
+        "ct": "Gül",
+        "ru": "Роза",
+        "uk": "Роза",
+        "img": "images/r0103.jpeg"
+      },
+      {
+        "en": "Lily of the valley",
+        "ct": "Peyğamber dögmesi",
+        "ru": "Ландыш",
+        "uk": "Конвалія",
+        "img": "images/r0104.png"
+      },
+      {
+        "en": "Bud",
+        "ct": "Gönce",
+        "ru": "Бутон",
+        "uk": "Буд",
+        "img": "images/r0105.jpeg"
+      },
+      {
+        "en": "Clover",
+        "ct": "Yonca",
+        "ru": "Клевер",
+        "uk": "Конюшина",
+        "img": "images/r0106.png"
+      },
+      {
+        "en": "Narcissus",
+        "ct": "Nargüz",
+        "ru": "Нарцисс",
+        "uk": "Нарцис",
+        "img": "images/r0107.jpeg"
+      },
+      {
+        "en": "Crocus",
+        "ct": "Aynısefa",
+        "ru": "Крокус",
+        "uk": "Крокус",
+        "img": "images/r0108.jpeg"
+      },
+      {
+        "en": "Lilac",
+        "ct": "Erılğan",
+        "ru": "Сирень",
+        "uk": "Бузок",
+        "img": "images/r0109.png"
+      },
+      {
+        "en": "Tulip",
+        "ct": "Lâle",
+        "ru": "Тюльпан",
+        "uk": "Тюльпан",
+        "img": "images/r0110.jpeg"
+      },
+      {
+        "en": "Hyacinth",
+        "ct": "Sümbül",
+        "ru": "Гиацинт",
+        "uk": "Гіацинт",
+        "img": "images/r0111.jpeg"
+      },
+      {
+        "en": "Begonia",
+        "ct": "Balqaymaq",
+        "ru": "Бегония",
+        "uk": "Бегонія",
+        "img": "images/r0112.png"
+      },
+      {
+        "en": "Nettle",
+        "ct": "Qıcıtqan",
+        "ru": "Крапива",
+        "uk": "Кропива",
+        "img": "images/r0113.png"
+      },
+      {
+        "en": "Cornflower",
+        "ct": "Peyğamber çiçegi, kelin çiçek",
+        "ru": "Василёк",
+        "uk": "Волошка",
+        "img": "images/r0114.png"
+      },
+      {
+        "en": "Bouquet, bunch of flowers",
+        "ct": "Demet, güldeste",
+        "ru": "Букет цветов",
+        "uk": "Букет, букет квітів",
+        "img": "images/r0115.png"
+      }
+    ]
+  },
+  {
+    "id": "trees_and_berries",
+    "en": "Trees and Berries",
+    "ct": "Ağaçlar ve Yemiş",
+    "ru": "Деревья и Ягоды",
+    "uk": "Дерева і ягоди",
+    "words": [
+      {
+        "en": "Mushroom",
+        "ct": "Mantar",
+        "ru": "Гриб",
+        "uk": "Гриб",
+        "img": "images/r0116.jpeg"
+      },
+      {
+        "en": "Red amanita",
+        "ct": "Çibin mantarı",
+        "ru": "Красный мухомор",
+        "uk": "Мухомор червоний",
+        "img": "images/r0117.png"
+      },
+      {
+        "en": "Lily",
+        "ct": "Zambaq",
+        "ru": "Лилия",
+        "uk": "Лілія",
+        "img": "images/r0118.png"
+      },
+      {
+        "en": "Cactus",
+        "ct": "Kaktus",
+        "ru": "Кактус",
+        "uk": "Кактус",
+        "img": "images/r0119.jpeg"
+      },
+      {
+        "en": "Moss",
+        "ct": "Yosun",
+        "ru": "Мох",
+        "uk": "Мох",
+        "img": "images/r0120.jpeg"
+      },
+      {
+        "en": "Water lily",
+        "ct": "Nilüfer",
+        "ru": "Водяная лилия",
+        "uk": "Латаття",
+        "img": "images/r0121.jpeg"
+      },
+      {
+        "en": "Grass",
+        "ct": "Ot",
+        "ru": "Трава",
+        "uk": "Трава",
+        "img": "images/r0122.jpeg"
+      },
+      {
+        "en": "Coltsfoot",
+        "ct": "Tüye taban",
+        "ru": "Мать-и-мачеха",
+        "uk": "Мати-мачуха",
+        "img": "images/r0123.jpeg"
+      },
+      {
+        "en": "Dandelion",
+        "ct": "Mamateke",
+        "ru": "Одуванчик",
+        "uk": "Кульбаба",
+        "img": "images/r0124.jpeg"
+      },
+      {
+        "en": "Ox-eye daisy",
+        "ct": "Papadiye",
+        "ru": "Ромашка",
+        "uk": "Ромашка волове око",
+        "img": "images/r0125.jpeg"
+      },
+      {
+        "en": "Tree",
+        "ct": "Terek, ağaç",
+        "ru": "Дерево",
+        "uk": "Дерево",
+        "img": "images/r0126.png"
+      },
+      {
+        "en": "Pine",
+        "ct": "Çam",
+        "ru": "Сосна",
+        "uk": "Сосна",
+        "img": "images/r0127.png"
+      },
+      {
+        "en": "Alder",
+        "ct": "Qızılağaç",
+        "ru": "Ольха",
+        "uk": "Вільха",
+        "img": "images/r0128.jpeg"
+      },
+      {
+        "en": "Beech",
+        "ct": "Bik",
+        "ru": "Бук",
+        "uk": "Бук",
+        "img": "images/r0129.jpeg"
+      },
+      {
+        "en": "Oak",
+        "ct": "Emen, meşe",
+        "ru": "Дуб",
+        "uk": "Дуб",
+        "img": "images/r0130.png"
+      },
+      {
+        "en": "Birch",
+        "ct": "Qayın, aqqayın",
+        "ru": "Берёза",
+        "uk": "Береза",
+        "img": "images/r0131.png"
+      },
+      {
+        "en": "Rosehip",
+        "ct": "Kuşburnu",
+        "ru": "Шиповник",
+        "uk": "Шипшина",
+        "img": "images/r0132.jpeg"
+      },
+      {
+        "en": "Cherry",
+        "ct": "Vişne",
+        "ru": "Вишня",
+        "uk": "Вишня",
+        "img": "images/r0133.jpeg"
+      },
+      {
+        "en": "Chestnut",
+        "ct": "Kestane",
+        "ru": "Каштан",
+        "uk": "Каштановий",
+        "img": "images/r0134.jpeg"
+      },
+      {
+        "en": "Cowberry",
+        "ct": "Narat cilegi",
+        "ru": "Брусника",
+        "uk": "Брусниця",
+        "img": "images/r0135.jpeg"
+      },
+      {
+        "en": "Gooseberry",
+        "ct": "Frenk yüzümi",
+        "ru": "Крыжовник",
+        "uk": "Агрус",
+        "img": "images/r0136.png"
+      },
+      {
+        "en": "Hazelnut",
+        "ct": "Fındıq",
+        "ru": "Фундук",
+        "uk": "Фундук",
+        "img": "images/r0137.jpeg"
+      },
+      {
+        "en": "Juniper",
+        "ct": "Ardıç",
+        "ru": "Можжевельник",
+        "uk": "Ялівець",
+        "img": "images/r0138.jpeg"
+      },
+      {
+        "en": "Berries",
+        "ct": "Yemişler",
+        "ru": "Ягоды",
+        "uk": "Ягоди",
+        "img": "images/r0139.jpeg"
+      },
+      {
+        "en": "Raspberry",
+        "ct": "Ahudut, malina",
+        "ru": "Малина",
+        "uk": "Малина",
+        "img": "images/r0140.jpeg"
+      },
+      {
+        "en": "Rowanberry",
+        "ct": "Yüvez",
+        "ru": "Рябина",
+        "uk": "Горобина",
+        "img": "images/r0141.png"
+      },
+      {
+        "en": "Blackcurrant",
+        "ct": "Torğay yüzümi",
+        "ru": "Черная смородина",
+        "uk": "Чорна смородина",
+        "img": "images/r0142.jpeg"
+      },
+      {
+        "en": "Plum",
+        "ct": "Erik",
+        "ru": "Слива",
+        "uk": "Слива",
+        "img": "images/r0143.png"
+      },
+      {
+        "en": "Pear",
+        "ct": "Armut",
+        "ru": "Груша",
+        "uk": "Груша",
+        "img": "images/r0144.jpeg"
+      },
+      {
+        "en": "Apple",
+        "ct": "Alma",
+        "ru": "Яблоко",
+        "uk": "Яблуко",
+        "img": "images/r0145.jpeg"
+      },
+      {
+        "en": "Trunk",
+        "ct": "Kevde",
+        "ru": "Ствол",
+        "uk": "Багажник",
+        "img": "images/r0146.jpeg"
+      },
+      {
+        "en": "Branch",
+        "ct": "Dal",
+        "ru": "Ветвь",
+        "uk": "Відділення",
+        "img": "images/r0147.png"
+      },
+      {
+        "en": "Twig",
+        "ct": "Pıtaq",
+        "ru": "Веточка",
+        "uk": "Гілочка",
+        "img": "images/r0148.jpeg"
+      },
+      {
+        "en": "Leaf",
+        "ct": "Yapraq",
+        "ru": "Лист",
+        "uk": "Листок",
+        "img": "images/r0149.jpeg"
+      },
+      {
+        "en": "Root",
+        "ct": "Tamır",
+        "ru": "Корень",
+        "uk": "Корінь",
+        "img": "images/r0150.png"
+      },
+      {
+        "en": "Bark",
+        "ct": "Qabuq",
+        "ru": "Кора",
+        "uk": "Кора",
+        "img": "images/r0151.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "colors",
+    "en": "Colors",
+    "ct": "Renkler",
+    "ru": "Цвета",
+    "uk": "Кольори",
+    "words": [
+      {
+        "en": "Red",
+        "ct": "Qırmızı, qızıl",
+        "ru": "Красный",
+        "uk": "Червоний",
+        "img": null
+      },
+      {
+        "en": "Orange",
+        "ct": "Portaqal tüs",
+        "ru": "Оранжевый",
+        "uk": "Помаранчевий",
+        "img": null
+      },
+      {
+        "en": "Yellow",
+        "ct": "Sarı",
+        "ru": "Жёлтый",
+        "uk": "Жовтий",
+        "img": null
+      },
+      {
+        "en": "Green",
+        "ct": "Yeşil",
+        "ru": "Зеленый",
+        "uk": "Зелений",
+        "img": null
+      },
+      {
+        "en": "Brown",
+        "ct": "Qave renki",
+        "ru": "Коричневый",
+        "uk": "Коричневий",
+        "img": null
+      },
+      {
+        "en": "Blue",
+        "ct": "Mavı, kök renk",
+        "ru": "Синий",
+        "uk": "Синій",
+        "img": null
+      },
+      {
+        "en": "Pink",
+        "ct": "Gülgüli, pempe",
+        "ru": "Розовый",
+        "uk": "Рожевий",
+        "img": null
+      },
+      {
+        "en": "Black",
+        "ct": "Qara, siya",
+        "ru": "Черный",
+        "uk": "Чорний",
+        "img": null
+      },
+      {
+        "en": "White",
+        "ct": "Beyaz, aq",
+        "ru": "Белый",
+        "uk": "Білий",
+        "img": null
+      },
+      {
+        "en": "Purple",
+        "ct": "Mor",
+        "ru": "Фиолетовый",
+        "uk": "Фіолетовий",
+        "img": null
+      },
+      {
+        "en": "Zero, ought",
+        "ct": "Sıfır",
+        "ru": "Ноль",
+        "uk": "Нуль, треба",
+        "img": null
+      }
+    ]
+  },
+  {
+    "id": "numbers",
+    "en": "Numbers",
+    "ct": "Rakamlar",
+    "ru": "Цифры",
+    "uk": "Числа",
+    "words": [
+      {
+        "en": "One",
+        "ct": "Bir",
+        "ru": "Один",
+        "uk": "Один",
+        "img": null
+      },
+      {
+        "en": "Two",
+        "ct": "Eki",
+        "ru": "Два",
+        "uk": "Два",
+        "img": null
+      },
+      {
+        "en": "Three",
+        "ct": "Üç",
+        "ru": "Три",
+        "uk": "Три",
+        "img": null
+      },
+      {
+        "en": "Four",
+        "ct": "Dört",
+        "ru": "Четыре",
+        "uk": "Чотири",
+        "img": null
+      },
+      {
+        "en": "Five",
+        "ct": "Beş",
+        "ru": "Пять",
+        "uk": "П'ять",
+        "img": null
+      },
+      {
+        "en": "Six",
+        "ct": "Altı",
+        "ru": "Шесть",
+        "uk": "Шість",
+        "img": null
+      },
+      {
+        "en": "Seven",
+        "ct": "Yedi",
+        "ru": "Семь",
+        "uk": "Сім",
+        "img": null
+      },
+      {
+        "en": "Eight",
+        "ct": "Sekiz",
+        "ru": "Восемь",
+        "uk": "Вісім",
+        "img": null
+      },
+      {
+        "en": "Nine",
+        "ct": "Doquz",
+        "ru": "Девять",
+        "uk": "Дев'ять",
+        "img": null
+      },
+      {
+        "en": "Ten",
+        "ct": "On",
+        "ru": "Десять",
+        "uk": "Десять",
+        "img": null
+      },
+      {
+        "en": "Eleven",
+        "ct": "On bir",
+        "ru": "Одиннадцать",
+        "uk": "Одинадцять",
+        "img": null
+      },
+      {
+        "en": "Twelve",
+        "ct": "On eki",
+        "ru": "Двенадцать",
+        "uk": "Дванадцять",
+        "img": null
+      },
+      {
+        "en": "Thirteen",
+        "ct": "On üç",
+        "ru": "Тринадцать",
+        "uk": "Тринадцять",
+        "img": null
+      },
+      {
+        "en": "Fourteen",
+        "ct": "On dört",
+        "ru": "Четырнадцать",
+        "uk": "Чотирнадцять",
+        "img": null
+      },
+      {
+        "en": "Fifteen",
+        "ct": "On beş",
+        "ru": "Пятнадцать",
+        "uk": "П'ятнадцять",
+        "img": null
+      },
+      {
+        "en": "Sixteen",
+        "ct": "On altı",
+        "ru": "Шестнадцать",
+        "uk": "Шістнадцять",
+        "img": null
+      },
+      {
+        "en": "Seventeen",
+        "ct": "On yedi",
+        "ru": "Семнадцать",
+        "uk": "Сімнадцять",
+        "img": null
+      },
+      {
+        "en": "Eighteen",
+        "ct": "On sekiz",
+        "ru": "Восемнадцать",
+        "uk": "Вісімнадцять",
+        "img": null
+      },
+      {
+        "en": "Nineteen",
+        "ct": "On doquz",
+        "ru": "Девятнадцать",
+        "uk": "Дев'ятнадцять",
+        "img": null
+      },
+      {
+        "en": "Twenty",
+        "ct": "Yigirmi",
+        "ru": "Двадцать",
+        "uk": "Двадцять",
+        "img": null
+      },
+      {
+        "en": "Thirty",
+        "ct": "Otuz",
+        "ru": "Тридцать",
+        "uk": "Тридцять",
+        "img": null
+      },
+      {
+        "en": "Forty",
+        "ct": "Qırq",
+        "ru": "Сорок",
+        "uk": "Сорок",
+        "img": null
+      },
+      {
+        "en": "Fifty",
+        "ct": "Elli",
+        "ru": "Пятьдесят",
+        "uk": "П'ятдесят",
+        "img": null
+      },
+      {
+        "en": "Sixty",
+        "ct": "Altmış",
+        "ru": "Шестьдесят",
+        "uk": "Шістдесят",
+        "img": null
+      },
+      {
+        "en": "Seventy",
+        "ct": "Yetmiş",
+        "ru": "Семьдесят",
+        "uk": "Сімдесят",
+        "img": null
+      },
+      {
+        "en": "Eighty",
+        "ct": "Seksen",
+        "ru": "Восемьдесят",
+        "uk": "Вісімдесят",
+        "img": null
+      },
+      {
+        "en": "Ninety",
+        "ct": "Doqsan",
+        "ru": "Девяносто",
+        "uk": "Дев'яносто",
+        "img": null
+      },
+      {
+        "en": "One hundred",
+        "ct": "Yüz",
+        "ru": "Сто",
+        "uk": "Сто",
+        "img": null
+      },
+      {
+        "en": "One thousand",
+        "ct": "Biñ",
+        "ru": "Одна тысяча",
+        "uk": "Одна тисяча",
+        "img": null
+      },
+      {
+        "en": "Ten thousand",
+        "ct": "On biñ",
+        "ru": "Десять тысяч",
+        "uk": "Десять тисяч",
+        "img": null
+      },
+      {
+        "en": "One hundred thousand",
+        "ct": "Yüz biñ",
+        "ru": "Сто тысяч",
+        "uk": "Сто тисяч",
+        "img": null
+      },
+      {
+        "en": "One million",
+        "ct": "Bir million",
+        "ru": "Один миллион",
+        "uk": "Один мільйон",
+        "img": null
+      }
+    ]
+  },
+  {
+    "id": "groceries",
+    "en": "Groceries",
+    "ct": "Yeyecek, aş",
+    "ru": "Продовольственные товары",
+    "uk": "Бакалія",
+    "words": [
+      {
+        "en": "Lettuce",
+        "ct": "Salat",
+        "ru": "Салат",
+        "uk": "Листя салату",
+        "img": "images/r0195.jpeg"
+      },
+      {
+        "en": "Asparagus",
+        "ct": "Sparja",
+        "ru": "Спаржа",
+        "uk": "Спаржа",
+        "img": "images/r0196.jpeg"
+      },
+      {
+        "en": "Avocado",
+        "ct": "Avokado",
+        "ru": "Авокадо",
+        "uk": "Авокадо",
+        "img": "images/r0197.png"
+      },
+      {
+        "en": "Bacon",
+        "ct": "Domuz pastırması",
+        "ru": "Бекон",
+        "uk": "Бекон",
+        "img": "images/r0198.jpeg"
+      },
+      {
+        "en": "Ice cream",
+        "ct": "Dondurma",
+        "ru": "Мороженое",
+        "uk": "Морозиво",
+        "img": "images/r0199.jpeg"
+      },
+      {
+        "en": "Beets",
+        "ct": "Çükündir",
+        "ru": "Свекла",
+        "uk": "Буряк",
+        "img": "images/r0200.jpeg"
+      },
+      {
+        "en": "Biscuit, cracker",
+        "ct": "Peçenye, qurabiye",
+        "ru": "Печенье, крекер",
+        "uk": "Бісквіт, крекер",
+        "img": "images/r0201.png"
+      },
+      {
+        "en": "Bread",
+        "ct": "Ötmek",
+        "ru": "Хлеб",
+        "uk": "Хліб",
+        "img": "images/r0202.jpeg"
+      },
+      {
+        "en": "Broccoli",
+        "ct": "Brokoli",
+        "ru": "Брокколи",
+        "uk": "Брокколі",
+        "img": "images/r0203.jpeg"
+      },
+      {
+        "en": "Cheese",
+        "ct": "Penir, qaşqaval",
+        "ru": "Сыр",
+        "uk": "Сир",
+        "img": "images/r0204.jpeg"
+      },
+      {
+        "en": "Bun",
+        "ct": "Bulkaçıq",
+        "ru": "Булочка",
+        "uk": "Булочка",
+        "img": "images/r0205.png"
+      },
+      {
+        "en": "Butter",
+        "ct": "Yağ, may",
+        "ru": "Масло",
+        "uk": "Вершкове масло",
+        "img": "images/r0206.jpeg"
+      },
+      {
+        "en": "Cabbage",
+        "ct": "Qapısta",
+        "ru": "Капуста",
+        "uk": "Капуста",
+        "img": "images/r0207.jpeg"
+      },
+      {
+        "en": "Pepper",
+        "ct": "Biber",
+        "ru": "Перец, паприка",
+        "uk": "Перець",
+        "img": "images/r0208.jpeg"
+      },
+      {
+        "en": "Carrot",
+        "ct": "Markof, havuç",
+        "ru": "Морковь",
+        "uk": "Морква",
+        "img": "images/r0209.jpeg"
+      },
+      {
+        "en": "Cashier, checker",
+        "ct": "Kassacı, kassir",
+        "ru": "Кассир, контролер",
+        "uk": "Касир, перевіряльник",
+        "img": "images/r0210.jpeg"
+      },
+      {
+        "en": "Cauliflower",
+        "ct": "Karnabahar",
+        "ru": "Цветная капуста",
+        "uk": "Цвітна капуста",
+        "img": "images/r0211.jpeg"
+      },
+      {
+        "en": "Celery",
+        "ct": "Kereviz",
+        "ru": "Сельдерей",
+        "uk": "Селера",
+        "img": "images/r0212.jpeg"
+      },
+      {
+        "en": "Chocolate",
+        "ct": "Şokolad",
+        "ru": "Шоколад",
+        "uk": "Шоколад",
+        "img": "images/r0213.jpeg"
+      },
+      {
+        "en": "Citrus fruit",
+        "ct": "Tsitrus",
+        "ru": "Цитрусовые",
+        "uk": "Цитрусові",
+        "img": "images/r0214.jpeg"
+      },
+      {
+        "en": "Chips",
+        "ct": "Çips",
+        "ru": "Чипсы",
+        "uk": "Чіпси",
+        "img": "images/r0215.jpeg"
+      },
+      {
+        "en": "Cucumber",
+        "ct": "Hıyar",
+        "ru": "Огурец",
+        "uk": "Огірок",
+        "img": "images/r0216.jpeg"
+      },
+      {
+        "en": "Ham",
+        "ct": "Islengen domuz sanı",
+        "ru": "Ветчина",
+        "uk": "Шинка",
+        "img": "images/r0217.jpeg"
+      },
+      {
+        "en": "Dill",
+        "ct": "Taraqot",
+        "ru": "Укроп",
+        "uk": "Кріп",
+        "img": "images/r0218.jpeg"
+      },
+      {
+        "en": "Egg",
+        "ct": "Yımırta",
+        "ru": "Яйцо",
+        "uk": "Яйце",
+        "img": "images/r0219.jpeg"
+      },
+      {
+        "en": "Eggplant",
+        "ct": "Morpatilcan",
+        "ru": "Баклажан",
+        "uk": "Баклажани",
+        "img": "images/r0220.png"
+      },
+      {
+        "en": "Fish",
+        "ct": "Balıq",
+        "ru": "Рыба",
+        "uk": "Риба",
+        "img": "images/r0221.jpeg"
+      },
+      {
+        "en": "Meat",
+        "ct": "Et",
+        "ru": "Мясо",
+        "uk": "М'ясо",
+        "img": "images/r0222.jpeg"
+      },
+      {
+        "en": "Food",
+        "ct": "Aş, yemek, ğıda",
+        "ru": "Еда",
+        "uk": "Харчування",
+        "img": "images/r0223.jpeg"
+      },
+      {
+        "en": "Fruit",
+        "ct": "Meyva, yemiş",
+        "ru": "Фрукты",
+        "uk": "Фрукти",
+        "img": "images/r0224.jpeg"
+      },
+      {
+        "en": "Garlic",
+        "ct": "Sarımsaq",
+        "ru": "Чеснок",
+        "uk": "Часник",
+        "img": "images/r0225.jpeg"
+      },
+      {
+        "en": "Grapes",
+        "ct": "Yüzüm",
+        "ru": "Виноград",
+        "uk": "Виноград",
+        "img": "images/r0226.jpeg"
+      },
+      {
+        "en": "Grapefruit",
+        "ct": "Greypfrut",
+        "ru": "Грейпфрут",
+        "uk": "Грейпфрут",
+        "img": "images/r0227.jpeg"
+      },
+      {
+        "en": "Head of cabbage",
+        "ct": "Qapısta başı",
+        "ru": "Кочан капусты",
+        "uk": "Качан капусти",
+        "img": "images/r0228.jpeg"
+      },
+      {
+        "en": "Ice",
+        "ct": "Buz",
+        "ru": "Лед",
+        "uk": "Лід",
+        "img": "images/r0229.png"
+      },
+      {
+        "en": "Kiwi",
+        "ct": "Kivi",
+        "ru": "Киви",
+        "uk": "Ківі",
+        "img": "images/r0230.jpeg"
+      },
+      {
+        "en": "Leek",
+        "ct": "Yeşil soğan",
+        "ru": "Лук-порей",
+        "uk": "Цибуля-порей",
+        "img": "images/r0231.jpeg"
+      },
+      {
+        "en": "Lemon",
+        "ct": "Limon",
+        "ru": "Лимон",
+        "uk": "Лимон",
+        "img": "images/r0232.jpeg"
+      },
+      {
+        "en": "Lobster",
+        "ct": "Omar",
+        "ru": "Омар",
+        "uk": "Лобстер",
+        "img": "images/r0233.jpeg"
+      },
+      {
+        "en": "Lollipop, sucker",
+        "ct": "Nebet şekeri",
+        "ru": "Леденец",
+        "uk": "Льодяник, присоска",
+        "img": "images/r0234.jpeg"
+      },
+      {
+        "en": "Margarine",
+        "ct": "Margarin",
+        "ru": "Маргарин",
+        "uk": "Маргарин",
+        "img": "images/r0235.png"
+      },
+      {
+        "en": "Meatball",
+        "ct": "Kotlet, küfte",
+        "ru": "Фрикаделька",
+        "uk": "Тефтелі",
+        "img": "images/r0236.jpeg"
+      },
+      {
+        "en": "Melon",
+        "ct": "Qavun",
+        "ru": "Дыня",
+        "uk": "Диня",
+        "img": "images/r0237.jpeg"
+      },
+      {
+        "en": "Milk",
+        "ct": "Süt",
+        "ru": "Молоко",
+        "uk": "Молоко",
+        "img": "images/r0238.jpeg"
+      },
+      {
+        "en": "Ground meat",
+        "ct": "Qıyma",
+        "ru": "Фарш",
+        "uk": "Фарш",
+        "img": "images/r0239.jpeg"
+      },
+      {
+        "en": "Onion",
+        "ct": "Soğan",
+        "ru": "Лук",
+        "uk": "Цибуля",
+        "img": "images/r0240.jpeg"
+      },
+      {
+        "en": "Orange",
+        "ct": "Portaqal",
+        "ru": "Апельсин",
+        "uk": "Помаранчевий",
+        "img": "images/r0241.jpeg"
+      },
+      {
+        "en": "Oyster",
+        "ct": "Üteki",
+        "ru": "Устрица",
+        "uk": "Устриця",
+        "img": "images/r0242.jpeg"
+      },
+      {
+        "en": "Parsley",
+        "ct": "Mağdanoz",
+        "ru": "Петрушка",
+        "uk": "Петрушка",
+        "img": "images/r0243.jpeg"
+      },
+      {
+        "en": "Peanut",
+        "ct": "Yer fıstığı, arahis",
+        "ru": "Арахис",
+        "uk": "Арахіс",
+        "img": "images/r0244.jpeg"
+      },
+      {
+        "en": "Pineapple",
+        "ct": "Ananas",
+        "ru": "Ананас",
+        "uk": "Ананас",
+        "img": "images/r0245.jpeg"
+      },
+      {
+        "en": "Popcorn",
+        "ct": "Patlamış mısır, popkorn",
+        "ru": "Попкорн",
+        "uk": "Попкорн",
+        "img": "images/r0246.jpeg"
+      },
+      {
+        "en": "Potato",
+        "ct": "Qartop",
+        "ru": "Картофель",
+        "uk": "Картопля",
+        "img": "images/r0247.jpeg"
+      },
+      {
+        "en": "Radish",
+        "ct": "Aylıq turup",
+        "ru": "Редиска",
+        "uk": "Редька",
+        "img": "images/r0248.jpeg"
+      },
+      {
+        "en": "Rissole",
+        "ct": "Kotlet, küfte",
+        "ru": "Котлета",
+        "uk": "Котлетка",
+        "img": "images/r0249.png"
+      },
+      {
+        "en": "Sausage",
+        "ct": "Sucuq, kolbas",
+        "ru": "Колбаса",
+        "uk": "Ковбаса",
+        "img": "images/r0250.jpeg"
+      },
+      {
+        "en": "Shrimp, prawn",
+        "ct": "Krivetka, karides",
+        "ru": "Креветки, креветки",
+        "uk": "Креветки, креветки",
+        "img": "images/r0251.jpeg"
+      },
+      {
+        "en": "Sour cream",
+        "ct": "Ekşi qaymaq, çiy qaymaq",
+        "ru": "Сметана",
+        "uk": "Сметана",
+        "img": "images/r0252.jpeg"
+      },
+      {
+        "en": "Spinach",
+        "ct": "Ispanaq",
+        "ru": "Шпинат",
+        "uk": "Шпинат",
+        "img": "images/r0253.jpeg"
+      },
+      {
+        "en": "Strawberry",
+        "ct": "Cilek",
+        "ru": "Клубника",
+        "uk": "Полуниця",
+        "img": "images/r0254.jpeg"
+      },
+      {
+        "en": "Banana",
+        "ct": "Muz",
+        "ru": "Банан",
+        "uk": "Банан",
+        "img": "images/r0255.jpeg"
+      },
+      {
+        "en": "Sweets, candies",
+        "ct": "Qanfet, şekerleme",
+        "ru": "Конфеты",
+        "uk": "Солодощі, цукерки",
+        "img": "images/r0256.jpeg"
+      },
+      {
+        "en": "Tomato",
+        "ct": "Pamidor, domatis",
+        "ru": "Помидор",
+        "uk": "Помідор",
+        "img": "images/r0257.jpeg"
+      },
+      {
+        "en": "Vegetable",
+        "ct": "Sebze",
+        "ru": "Овощи",
+        "uk": "Овочевий",
+        "img": "images/r0258.jpeg"
+      },
+      {
+        "en": "Waffle",
+        "ct": "Vaflya",
+        "ru": "Вафля",
+        "uk": "Вафля",
+        "img": "images/r0259.png"
+      },
+      {
+        "en": "Watermelon",
+        "ct": "Qarpız",
+        "ru": "Арбуз",
+        "uk": "Кавун",
+        "img": "images/r0260.jpeg"
+      },
+      {
+        "en": "Yeast",
+        "ct": "Ekşi hamır, maya",
+        "ru": "Дрожжи",
+        "uk": "Дріжджі",
+        "img": "images/r0261.jpeg"
+      },
+      {
+        "en": "Yogurt",
+        "ct": "Yoğurt",
+        "ru": "Йогурт",
+        "uk": "Йогурт",
+        "img": "images/r0262.jpeg"
+      },
+      {
+        "en": "Squash",
+        "ct": "Saqız qabaq",
+        "ru": "Кабачoк",
+        "uk": "Сквош",
+        "img": "images/r0263.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "kitchen_cooking_and_food",
+    "en": "Kitchen, cooking and food",
+    "ct": "Aşhane, pişirüv ve aş",
+    "ru": "Кухня, готовка  и еда",
+    "uk": "Кухня, приготування їжі та харчування",
+    "words": [
+      {
+        "en": "Chair",
+        "ct": "Skemle, kürsü, stul",
+        "ru": "Стул",
+        "uk": "Стілець",
+        "img": "images/r0264.jpeg"
+      },
+      {
+        "en": "Lid",
+        "ct": "Qapaq",
+        "ru": "Крышка",
+        "uk": "Кришка",
+        "img": "images/r0265.jpeg"
+      },
+      {
+        "en": "Bottle",
+        "ct": "Şişe",
+        "ru": "Бутылка",
+        "uk": "Пляшка",
+        "img": "images/r0266.jpeg"
+      },
+      {
+        "en": "Bottle opener",
+        "ct": "Açıcı",
+        "ru": "Открывалка для бутылок",
+        "uk": "Відкривачка для пляшок",
+        "img": "images/r0267.jpeg"
+      },
+      {
+        "en": "Bowl",
+        "ct": "Kasa, kup, tostaqay",
+        "ru": "Чаша",
+        "uk": "Чаша",
+        "img": "images/r0268.png"
+      },
+      {
+        "en": "Bread board",
+        "ct": "Ötmek tahtası",
+        "ru": "Хлебная доска",
+        "uk": "Хлібна дошка",
+        "img": "images/r0269.jpeg"
+      },
+      {
+        "en": "Bread knife",
+        "ct": "Ötmek pıçağı",
+        "ru": "Нож для хлеба",
+        "uk": "Хлібний ніж",
+        "img": "images/r0270.jpeg"
+      },
+      {
+        "en": "Breakfast",
+        "ct": "Sabalıq",
+        "ru": "Завтрак",
+        "uk": "Сніданок",
+        "img": "images/r0271.png"
+      },
+      {
+        "en": "Broth, soup",
+        "ct": "Et suvu, sorpa",
+        "ru": "Бульон",
+        "uk": "Бульйон, суп",
+        "img": "images/r0272.jpeg"
+      },
+      {
+        "en": "Can",
+        "ct": "Konserva",
+        "ru": "Консерва",
+        "uk": "Може",
+        "img": "images/r0273.jpeg"
+      },
+      {
+        "en": "Can opener",
+        "ct": "Açıcı",
+        "ru": "Открывашка",
+        "uk": "Відкривачка для банок",
+        "img": "images/r0274.jpeg"
+      },
+      {
+        "en": "Cap",
+        "ct": "Qapaq",
+        "ru": "Крышка",
+        "uk": "Кепка",
+        "img": "images/r0275.jpeg"
+      },
+      {
+        "en": "Coffee",
+        "ct": "Qave",
+        "ru": "Кофе",
+        "uk": "Кава",
+        "img": "images/r0276.jpeg"
+      },
+      {
+        "en": "Cooking oil",
+        "ct": "Yağ, may",
+        "ru": "Растительное масло",
+        "uk": "Кулінарна олія",
+        "img": "images/r0277.jpeg"
+      },
+      {
+        "en": "Cork",
+        "ct": "Tapa",
+        "ru": "Пробка",
+        "uk": "Пробка",
+        "img": "images/r0278.jpeg"
+      },
+      {
+        "en": "Corkscrew",
+        "ct": "Ştopor, tirbuşon",
+        "ru": "Штопор",
+        "uk": "Штопор",
+        "img": "images/r0279.jpeg"
+      },
+      {
+        "en": "Corn",
+        "ct": "Mısırboğday",
+        "ru": "Кукурузa",
+        "uk": "Кукурудза",
+        "img": "images/r0280.jpeg"
+      },
+      {
+        "en": "Crate, case",
+        "ct": "Qutu, sandıq",
+        "ru": "Ящик",
+        "uk": "Ящик, корпус",
+        "img": "images/r0281.jpeg"
+      },
+      {
+        "en": "Cup",
+        "ct": "Filcan",
+        "ru": "Чашка",
+        "uk": "Кубок",
+        "img": "images/r0282.jpeg"
+      },
+      {
+        "en": "Napkin",
+        "ct": "Yağbez",
+        "ru": "Салфетки",
+        "uk": "Серветка",
+        "img": "images/r0283.jpeg"
+      },
+      {
+        "en": "Desert plate",
+        "ct": "Tepsi",
+        "ru": "Десертная тарелка",
+        "uk": "Тарілка пустелі",
+        "img": "images/r0284.jpeg"
+      },
+      {
+        "en": "Oven",
+        "ct": "Ocaq",
+        "ru": "Печь",
+        "uk": "Духовка",
+        "img": "images/r0285.jpeg"
+      },
+      {
+        "en": "Drink",
+        "ct": "Içimlik, içerlik",
+        "ru": "Напиток",
+        "uk": "Пити",
+        "img": "images/r0286.jpeg"
+      },
+      {
+        "en": "Flour",
+        "ct": "Un",
+        "ru": "Мука",
+        "uk": "Борошно",
+        "img": "images/r0287.jpeg"
+      },
+      {
+        "en": "Fork",
+        "ct": "Sançqı, çatal",
+        "ru": "Вилка",
+        "uk": "Вилка",
+        "img": "images/r0288.jpeg"
+      },
+      {
+        "en": "Funnel",
+        "ct": "Hunü",
+        "ru": "Воронка",
+        "uk": "Воронка",
+        "img": "images/r0289.png"
+      },
+      {
+        "en": "Jam",
+        "ct": "Reçel",
+        "ru": "Джем",
+        "uk": "Варення",
+        "img": "images/r0290.jpeg"
+      },
+      {
+        "en": "Pitcher",
+        "ct": "Gügüm, quman, yıbrıq",
+        "ru": "Кувшин",
+        "uk": "Глечик",
+        "img": "images/r0291.jpeg"
+      },
+      {
+        "en": "Juice",
+        "ct": "Şıra, şerbet, suv",
+        "ru": "Сок",
+        "uk": "Сік",
+        "img": "images/r0292.jpeg"
+      },
+      {
+        "en": "Knife",
+        "ct": "Pıçaq",
+        "ru": "Нож",
+        "uk": "Ніж",
+        "img": "images/r0293.png"
+      },
+      {
+        "en": "Porridge",
+        "ct": "Botqa, pasta",
+        "ru": "Каша",
+        "uk": "Каші",
+        "img": "images/r0294.jpeg"
+      },
+      {
+        "en": "Macaroni",
+        "ct": "Makaron",
+        "ru": "Макароны",
+        "uk": "Макарони",
+        "img": "images/r0295.jpeg"
+      },
+      {
+        "en": "Refrigerator",
+        "ct": "Suvutqıç, buzdolap",
+        "ru": "Холодильник",
+        "uk": "Холодильник",
+        "img": "images/r0296.jpeg"
+      },
+      {
+        "en": "Mustard",
+        "ct": "Hardal",
+        "ru": "Горчица",
+        "uk": "Гірчиця",
+        "img": "images/r0297.jpeg"
+      },
+      {
+        "en": "Pepper shaker",
+        "ct": "Biber savutı",
+        "ru": "Перечница",
+        "uk": "Перечниця",
+        "img": "images/r0298.jpeg"
+      },
+      {
+        "en": "Rice",
+        "ct": "Pirinç",
+        "ru": "Рис",
+        "uk": "Рис",
+        "img": "images/r0299.jpeg"
+      },
+      {
+        "en": "Rolling pin",
+        "ct": "Oqlav",
+        "ru": "Скалка",
+        "uk": "Скачалка",
+        "img": "images/r0300.jpeg"
+      },
+      {
+        "en": "Salt",
+        "ct": "Tuz",
+        "ru": "Соль",
+        "uk": "Сіль",
+        "img": "images/r0301.jpeg"
+      },
+      {
+        "en": "Salt shaker",
+        "ct": "Tuzluq",
+        "ru": "Солонка",
+        "uk": "Сільничка",
+        "img": "images/r0302.jpeg"
+      },
+      {
+        "en": "Wineglass",
+        "ct": "Qade",
+        "ru": "Бокал",
+        "uk": "Чарка для вина",
+        "img": "images/r0303.jpeg"
+      },
+      {
+        "en": "Scissors, shears",
+        "ct": "Maqas",
+        "ru": "Ножницы",
+        "uk": "Ножиці, ножиці",
+        "img": "images/r0304.jpeg"
+      },
+      {
+        "en": "Scoop",
+        "ct": "Küreçik",
+        "ru": "Совок",
+        "uk": "Совок",
+        "img": "images/r0305.jpeg"
+      },
+      {
+        "en": "Soup bowl",
+        "ct": "Çanaq",
+        "ru": "Глубокая тарелка",
+        "uk": "Супова миска",
+        "img": "images/r0306.jpeg"
+      },
+      {
+        "en": "Spice",
+        "ct": "Baharat",
+        "ru": "Специи",
+        "uk": "Спеції",
+        "img": "images/r0307.png"
+      },
+      {
+        "en": "Spoon",
+        "ct": "Qaşıq",
+        "ru": "Ложка",
+        "uk": "Ложка",
+        "img": "images/r0308.jpeg"
+      },
+      {
+        "en": "Freezer",
+        "ct": "Dondurucu",
+        "ru": "Морозилка",
+        "uk": "Морозильна камера",
+        "img": "images/r0309.jpeg"
+      },
+      {
+        "en": "Sugar",
+        "ct": "Şeker",
+        "ru": "Сахар",
+        "uk": "Цукор",
+        "img": "images/r0310.jpeg"
+      },
+      {
+        "en": "Tea",
+        "ct": "Çay",
+        "ru": "Чай",
+        "uk": "Чай",
+        "img": "images/r0311.jpeg"
+      },
+      {
+        "en": "Tea bag",
+        "ct": "Çay paketi",
+        "ru": "Чайный пакетик",
+        "uk": "Пакетик чаю",
+        "img": "images/r0312.jpeg"
+      },
+      {
+        "en": "Teaspoon",
+        "ct": "Qave qaşığı",
+        "ru": "Чайная ложка",
+        "uk": "Чайна ложка",
+        "img": "images/r0313.png"
+      },
+      {
+        "en": "Vinegar",
+        "ct": "Sirke",
+        "ru": "Уксус",
+        "uk": "Оцет",
+        "img": "images/r0314.jpeg"
+      },
+      {
+        "en": "Wine",
+        "ct": "Şarap",
+        "ru": "Вино",
+        "uk": "Вино",
+        "img": "images/r0315.jpeg"
+      },
+      {
+        "en": "Skewer, kebab",
+        "ct": "Şiş",
+        "ru": "Вертел, шашлык",
+        "uk": "Шашлик, шашлик",
+        "img": "images/r0316.jpeg"
+      },
+      {
+        "en": "Snack",
+        "ct": "Zakuska",
+        "ru": "Закуска",
+        "uk": "Перекус",
+        "img": "images/r0317.jpeg"
+      },
+      {
+        "en": "Switch",
+        "ct": "Avuştırıcı",
+        "ru": "Переключатель",
+        "uk": "Перемикач",
+        "img": "images/r0318.jpeg"
+      },
+      {
+        "en": "Tablecloth",
+        "ct": "Sofra örtüsi, masa örtüsi",
+        "ru": "Скатерть",
+        "uk": "Скатертина",
+        "img": "images/r0319.jpeg"
+      },
+      {
+        "en": "Burner, hotplate",
+        "ct": "Ocaq, plita",
+        "ru": "Горелкa, плита",
+        "uk": "Конфорка, конфорка",
+        "img": "images/r0320.jpeg"
+      },
+      {
+        "en": "Mat, pad",
+        "ct": "Kilim",
+        "ru": "Мат, коврик",
+        "uk": "Килимок, колодка",
+        "img": "images/r0321.jpeg"
+      },
+      {
+        "en": "Baking",
+        "ct": "Pişirüv, pişirme",
+        "ru": "Выпечка",
+        "uk": "Випічка",
+        "img": "images/r0322.jpeg"
+      },
+      {
+        "en": "Barbeque",
+        "ct": "Kebap",
+        "ru": "Барбекю",
+        "uk": "Барбекю",
+        "img": "images/r0323.jpeg"
+      },
+      {
+        "en": "Cake",
+        "ct": "Tort",
+        "ru": "Торт",
+        "uk": "Торт",
+        "img": "images/r0324.png"
+      },
+      {
+        "en": "Children's chair",
+        "ct": "Bala skemlesi",
+        "ru": "Детский стул",
+        "uk": "Дитяче крісло",
+        "img": "images/r0325.jpeg"
+      },
+      {
+        "en": "Dinner",
+        "ct": "Aqşam aşı, aqşamlıq",
+        "ru": "Ужин",
+        "uk": "Вечеря",
+        "img": "images/r0326.jpeg"
+      },
+      {
+        "en": "Dough",
+        "ct": "Hamır",
+        "ru": "Тесто",
+        "uk": "Тісто",
+        "img": "images/r0327.jpeg"
+      },
+      {
+        "en": "Lunch",
+        "ct": "Üylelik, üyle aşı",
+        "ru": "Обед",
+        "uk": "Обід",
+        "img": "images/r0328.jpeg"
+      },
+      {
+        "en": "Cupboard",
+        "ct": "Dolap",
+        "ru": "Шкаф",
+        "uk": "Шафа",
+        "img": "images/r0329.jpeg"
+      },
+      {
+        "en": "Dishwasher,",
+        "ct": "Savut yuvucı maşnası",
+        "ru": "Посудомоечная машина",
+        "uk": "Посудомийна машина,",
+        "img": "images/r0330.jpeg"
+      },
+      {
+        "en": "Fried egg",
+        "ct": "Qızartılğan yımırta",
+        "ru": "Жареные яйца",
+        "uk": "Смажене яйце",
+        "img": "images/r0331.jpeg"
+      },
+      {
+        "en": "Frying pan",
+        "ct": "Qoltava",
+        "ru": "Сковорода",
+        "uk": "Сковорода",
+        "img": "images/r0332.jpeg"
+      },
+      {
+        "en": "Kettle, tea pot",
+        "ct": "Çaynik",
+        "ru": "Чайник",
+        "uk": "Чайник, чайник",
+        "img": "images/r0333.jpeg"
+      },
+      {
+        "en": "Trousers, pants",
+        "ct": "Ştan, şalvar",
+        "ru": "Брюки",
+        "uk": "Брюки, штани",
+        "img": "images/r0334.jpeg"
+      },
+      {
+        "en": "Apron",
+        "ct": "Öglük, peştimal",
+        "ru": "Фартук",
+        "uk": "Фартух",
+        "img": "images/r0335.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "clothes",
+    "en": "Clothes",
+    "ct": "Üst-baş",
+    "ru": "Одежда",
+    "uk": "Одяг",
+    "words": [
+      {
+        "en": "Ring",
+        "ct": "Yüzük",
+        "ru": "Кольцо",
+        "uk": "Кільце",
+        "img": "images/r0336.jpeg"
+      },
+      {
+        "en": "Umbrella",
+        "ct": "Şemsiye",
+        "ru": "Зонт",
+        "uk": "Парасолька",
+        "img": "images/r0337.jpeg"
+      },
+      {
+        "en": "Belt",
+        "ct": "Qayış, quşaq",
+        "ru": "Ремень, пояс",
+        "uk": "Пояс",
+        "img": "images/r0338.jpeg"
+      },
+      {
+        "en": "Blouse",
+        "ct": "Kölmek",
+        "ru": "Блузка",
+        "uk": "Блузка",
+        "img": "images/r0339.jpeg"
+      },
+      {
+        "en": "Bow tie",
+        "ct": "Köbelek boyunbağ",
+        "ru": "Галстук-бабочка",
+        "uk": "Краватка-метелик",
+        "img": "images/r0340.jpeg"
+      },
+      {
+        "en": "Briefs",
+        "ct": "Trusik",
+        "ru": "Трусы",
+        "uk": "Труси",
+        "img": "images/r0341.jpeg"
+      },
+      {
+        "en": "Button",
+        "ct": "Dögme",
+        "ru": "Пуговица",
+        "uk": "Кнопка",
+        "img": "images/r0342.png"
+      },
+      {
+        "en": "Cap",
+        "ct": "Qapaq",
+        "ru": "Шапка",
+        "uk": "Кепка",
+        "img": "images/r0343.png"
+      },
+      {
+        "en": "Clothes",
+        "ct": "Urba, kiyim, üst-baş",
+        "ru": "Одежда",
+        "uk": "Одяг",
+        "img": "images/r0344.png"
+      },
+      {
+        "en": "Clothes hanger",
+        "ct": "Asqıç, çüy",
+        "ru": "Вешалка",
+        "uk": "Вішалка для одягу",
+        "img": "images/r0345.jpeg"
+      },
+      {
+        "en": "Collar",
+        "ct": "Yaqa",
+        "ru": "Воротник",
+        "uk": "Нашийник",
+        "img": "images/r0346.jpeg"
+      },
+      {
+        "en": "Dress",
+        "ct": "Anter",
+        "ru": "Платье",
+        "uk": "Плаття",
+        "img": "images/r0347.png"
+      },
+      {
+        "en": "Jacket",
+        "ct": "Kurtka",
+        "ru": "Куртка",
+        "uk": "Піджак",
+        "img": "images/r0348.jpeg"
+      },
+      {
+        "en": "Overalls",
+        "ct": "Kombinezon",
+        "ru": "Комбинезон",
+        "uk": "Спецодяг",
+        "img": "images/r0349.jpeg"
+      },
+      {
+        "en": "Pocket",
+        "ct": "Cep",
+        "ru": "Карман",
+        "uk": "Кишеньковий",
+        "img": "images/r0350.jpeg"
+      },
+      {
+        "en": "Sandal",
+        "ct": "Sandaletler, sandallar",
+        "ru": "Сандали",
+        "uk": "Сандал",
+        "img": "images/r0351.jpeg"
+      },
+      {
+        "en": "Shirt",
+        "ct": "Kölmek",
+        "ru": "Рубашка",
+        "uk": "Сорочка",
+        "img": "images/r0352.jpeg"
+      },
+      {
+        "en": "Shoe; boot",
+        "ct": "Pötük",
+        "ru": "Ботинок",
+        "uk": "Взуття; завантаження",
+        "img": "images/r0353.jpeg"
+      },
+      {
+        "en": "Suitcase",
+        "ct": "Cemidan",
+        "ru": "Чемодан, багажник",
+        "uk": "Валіза",
+        "img": "images/r0354.jpeg"
+      },
+      {
+        "en": "Cloth",
+        "ct": "Toquma, basma",
+        "ru": "Ткань",
+        "uk": "Тканина",
+        "img": "images/r0355.jpeg"
+      },
+      {
+        "en": "Skirt",
+        "ct": "Fistan",
+        "ru": "Юбка",
+        "uk": "Спідниця",
+        "img": "images/r0356.jpeg"
+      },
+      {
+        "en": "Sleeve",
+        "ct": "Yeñ",
+        "ru": "Рукав",
+        "uk": "Рукав",
+        "img": "images/r0357.jpeg"
+      },
+      {
+        "en": "Shorts",
+        "ct": "Şort",
+        "ru": "Шорты",
+        "uk": "Шорти",
+        "img": "images/r0358.jpeg"
+      },
+      {
+        "en": "Sock, stocking",
+        "ct": "Çorap",
+        "ru": "Носок, чулок",
+        "uk": "Носок, панчоха",
+        "img": "images/r0359.jpeg"
+      },
+      {
+        "en": "Slipper",
+        "ct": "Papuçlar, çablalar",
+        "ru": "Тапочки",
+        "uk": "Тапочки",
+        "img": "images/r0360.png"
+      },
+      {
+        "en": "Stretch tights, pantyhose",
+        "ct": "Kolgotki",
+        "ru": "Колготки",
+        "uk": "Колготки стрейч, колготки",
+        "img": "images/r0361.jpeg"
+      },
+      {
+        "en": "Shoe tying, shoelaces",
+        "ct": "Ayaqqap bağı",
+        "ru": "шнурок",
+        "uk": "Зав'язування взуття, шнурки",
+        "img": "images/r0362.jpeg"
+      },
+      {
+        "en": "Underwear nderclothes",
+        "ct": "Iç çamaşır",
+        "ru": "Нижнее белье",
+        "uk": "Нижня білизна",
+        "img": "images/r0363.jpeg"
+      },
+      {
+        "en": "Undershirt",
+        "ct": "Yelek, mayka",
+        "ru": "Жилет, майкa",
+        "uk": "Нижня сорочка",
+        "img": "images/r0364.jpeg"
+      },
+      {
+        "en": "Backpack",
+        "ct": "Arqa çantası, sefer torbası",
+        "ru": "Рюкзак",
+        "uk": "Рюкзак",
+        "img": "images/r0365.jpeg"
+      },
+      {
+        "en": "Suit",
+        "ct": "Kostüm",
+        "ru": "Костюм",
+        "uk": "Костюм",
+        "img": "images/r0366.jpeg"
+      },
+      {
+        "en": "Sweater, jumper",
+        "ct": "Sviter",
+        "ru": "Свитер",
+        "uk": "Светр, джемпер",
+        "img": "images/r0367.jpeg"
+      },
+      {
+        "en": "T-shirt",
+        "ct": "Futbolka",
+        "ru": "Футболка",
+        "uk": "Футболка",
+        "img": "images/r0368.jpeg"
+      },
+      {
+        "en": "Tie",
+        "ct": "Boyunbağ",
+        "ru": "Галстук",
+        "uk": "Краватка",
+        "img": "images/r0369.jpeg"
+      },
+      {
+        "en": "Ball",
+        "ct": "Top",
+        "ru": "Мяч",
+        "uk": "М'яч",
+        "img": "images/r0370.jpeg"
+      },
+      {
+        "en": "Bathing suit",
+        "ct": "Yuvunma kostümi",
+        "ru": "Купальный костюм",
+        "uk": "Купальний костюм",
+        "img": "images/r0371.jpeg"
+      },
+      {
+        "en": "Scarf",
+        "ct": "Şarf",
+        "ru": "Шарф",
+        "uk": "Шарф",
+        "img": "images/r0372.jpeg"
+      },
+      {
+        "en": "Bracelet",
+        "ct": "Bilezlik",
+        "ru": "Браслет",
+        "uk": "Браслет",
+        "img": "images/r0373.jpeg"
+      },
+      {
+        "en": "Earring",
+        "ct": "Küpe, sırğa",
+        "ru": "Серьга",
+        "uk": "Сережка",
+        "img": "images/r0374.jpeg"
+      },
+      {
+        "en": "Fur",
+        "ct": "Kürk",
+        "ru": "Мех",
+        "uk": "Хутро",
+        "img": "images/r0375.jpeg"
+      },
+      {
+        "en": "Fur coat",
+        "ct": "Ton, kürk",
+        "ru": "Шуба",
+        "uk": "Шубка",
+        "img": "images/r0376.jpeg"
+      },
+      {
+        "en": "Glove",
+        "ct": "Qolçaq, eldiven",
+        "ru": "Перчатка",
+        "uk": "Рукавичка",
+        "img": "images/r0377.jpeg"
+      },
+      {
+        "en": "Hat",
+        "ct": "Şlâpa",
+        "ru": "Шляпа",
+        "uk": "Капелюх",
+        "img": "images/r0378.jpeg"
+      },
+      {
+        "en": "Headscarf, headpiece",
+        "ct": "Yavlıq, başörtüsü",
+        "ru": "Платок, головной убор",
+        "uk": "Хустка, головний убір",
+        "img": "images/r0379.jpeg"
+      },
+      {
+        "en": "Purse",
+        "ct": "Qadın çantası",
+        "ru": "Женская сумка",
+        "uk": "Гаманець",
+        "img": "images/r0380.jpeg"
+      },
+      {
+        "en": "Necklace",
+        "ct": "Gerdanlıq",
+        "ru": "Ожерелье",
+        "uk": "Кольє",
+        "img": "images/r0381.jpeg"
+      },
+      {
+        "en": "Pajamas",
+        "ct": "Geceliq",
+        "ru": "Ночная рубашка сорочка",
+        "uk": "Піжами",
+        "img": "images/r0382.jpeg"
+      },
+      {
+        "en": "Jewelry",
+        "ct": "Bezek, ilvan, ziynet",
+        "ru": "Украшение",
+        "uk": "Ювелірні вироби",
+        "img": "images/r0383.jpeg"
+      },
+      {
+        "en": "Wallet",
+        "ct": "Kise, para kisesi, cüzdan",
+        "ru": "Кошелек",
+        "uk": "Гаманець",
+        "img": "images/r0384.jpeg"
+      },
+      {
+        "en": "Raincoat",
+        "ct": "Yağmurlıq",
+        "ru": "Плащ",
+        "uk": "Дощовик",
+        "img": "images/r0385.jpeg"
+      },
+      {
+        "en": "Bag",
+        "ct": "Çanta, torba",
+        "ru": "Сумка",
+        "uk": "Сумка",
+        "img": "images/r0386.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "emergency_and__medicine",
+    "en": "Emergency and  Medicine",
+    "ct": "Acele yardım ve  Tıbbiyet",
+    "ru": "Скорая помощь  и Медицина",
+    "uk": "Екстрена допомога та медицина",
+    "words": [
+      {
+        "en": "Pregnancy",
+        "ct": "Ağırayaqlılıq, yüklülik",
+        "ru": "Беременность",
+        "uk": "Вагітність",
+        "img": "images/r0387.png"
+      },
+      {
+        "en": "Accident",
+        "ct": "Qaza",
+        "ru": "Авария",
+        "uk": "Дтп",
+        "img": "images/r0388.png"
+      },
+      {
+        "en": "Ambulance",
+        "ct": "Acele yardım",
+        "ru": "Скорая помощь",
+        "uk": "Швидка допомога",
+        "img": "images/r0389.jpeg"
+      },
+      {
+        "en": "Bandage, dressing",
+        "ct": "Sarğı",
+        "ru": "Бандаж, повязка",
+        "uk": "Пов'язка, перев'язка",
+        "img": "images/r0390.jpeg"
+      },
+      {
+        "en": "Blood-test, sample of blood",
+        "ct": "Qan testi qan  talili",
+        "ru": "Анализ крови",
+        "uk": "Аналіз крові, зразок крові",
+        "img": "images/r0391.png"
+      },
+      {
+        "en": "Break, fracture",
+        "ct": "Sınıq",
+        "ru": "Перелом",
+        "uk": "Розрив, перелом",
+        "img": "images/r0392.png"
+      },
+      {
+        "en": "Pharmacy, drugstore",
+        "ct": "Ilâchane, aphane",
+        "ru": "Аптека",
+        "uk": "Аптека, аптека",
+        "img": "images/r0393.jpeg"
+      },
+      {
+        "en": "Doctor, physician",
+        "ct": "Ekim, doqtur",
+        "ru": "Врач",
+        "uk": "Лікар, лікар",
+        "img": "images/r0394.jpeg"
+      },
+      {
+        "en": "Fire",
+        "ct": "Ateş, nar, alev",
+        "ru": "Огонь",
+        "uk": "Вогонь",
+        "img": "images/r0395.jpeg"
+      },
+      {
+        "en": "Fire house",
+        "ct": "Yanğıncı bölük",
+        "ru": "Пожарная часть",
+        "uk": "Пожежний будинок",
+        "img": "images/r0396.jpeg"
+      },
+      {
+        "en": "Fire engine",
+        "ct": "Yanğıncı maşnası",
+        "ru": "Пожарная машина",
+        "uk": "Пожежна машина",
+        "img": "images/r0397.jpeg"
+      },
+      {
+        "en": "Flame",
+        "ct": "Alev, yalın",
+        "ru": "Пламя",
+        "uk": "Полум'я",
+        "img": "images/r0398.jpeg"
+      },
+      {
+        "en": "Drop",
+        "ct": "Tamçı, tamla",
+        "ru": "Капля",
+        "uk": "Падіння",
+        "img": "images/r0399.jpeg"
+      },
+      {
+        "en": "Emergency",
+        "ct": "Fevqulade vaziyet",
+        "ru": "Чрезвычайнaя ситуация",
+        "uk": "Надзвичайна ситуація",
+        "img": "images/r0400.jpeg"
+      },
+      {
+        "en": "Emergency number",
+        "ct": "Acele yardım nomerası",
+        "ru": "Номер службы экстренной помощи",
+        "uk": "Номер екстреної служби",
+        "img": "images/r0401.jpeg"
+      },
+      {
+        "en": "Examination, investigation",
+        "ct": "Tedqiq, araştıruv",
+        "ru": "Исследование",
+        "uk": "Експертиза, розслідування",
+        "img": "images/r0402.jpeg"
+      },
+      {
+        "en": "Gauze bandage",
+        "ct": "Gaz bezi, marlâ",
+        "ru": "Марлевый бинт",
+        "uk": "Марлева пов'язка",
+        "img": "images/r0403.jpeg"
+      },
+      {
+        "en": "Glasses, spectacles",
+        "ct": "Közlük",
+        "ru": "Очки",
+        "uk": "Окуляри, окуляри",
+        "img": "images/r0404.jpeg"
+      },
+      {
+        "en": "Hearing aid",
+        "ct": "Eşitüv cihazı",
+        "ru": "Слуховой аппарат",
+        "uk": "Слуховий апарат",
+        "img": "images/r0405.jpeg"
+      },
+      {
+        "en": "Hospital",
+        "ct": "Hastahane",
+        "ru": "Больница",
+        "uk": "Лікарня",
+        "img": "images/r0406.png"
+      },
+      {
+        "en": "Injection",
+        "ct": "Ine uruv, sançuv",
+        "ru": "Укол",
+        "uk": "Ін'єкційний",
+        "img": "images/r0407.png"
+      },
+      {
+        "en": "Mask",
+        "ct": "Maska",
+        "ru": "Маска",
+        "uk": "Маска",
+        "img": "images/r0408.png"
+      },
+      {
+        "en": "Medicine",
+        "ct": "Tıbbiyet, tıp",
+        "ru": "Медицина",
+        "uk": "Ліки",
+        "img": "images/r0409.jpeg"
+      },
+      {
+        "en": "Nurse",
+        "ct": "Emşire",
+        "ru": "Медсестра",
+        "uk": "Медсестра",
+        "img": "images/r0410.png"
+      },
+      {
+        "en": "Operation, surgery",
+        "ct": "Ameliyat, operatsiya",
+        "ru": "Операция",
+        "uk": "Операція, хірургія",
+        "img": "images/r0411.jpeg"
+      },
+      {
+        "en": "Patient",
+        "ct": "Hasta",
+        "ru": "Пациент",
+        "uk": "Пацієнт",
+        "img": "images/r0412.jpeg"
+      },
+      {
+        "en": "Pill",
+        "ct": "Ap",
+        "ru": "Таблетка",
+        "uk": "Таблетки",
+        "img": "images/r0413.jpeg"
+      },
+      {
+        "en": "Cast",
+        "ct": "Cifsin",
+        "ru": "Гипс",
+        "uk": "Акторський склад",
+        "img": "images/r0414.png"
+      },
+      {
+        "en": "Police",
+        "ct": "Polis, politsiya",
+        "ru": "Полиция",
+        "uk": "Поліція",
+        "img": "images/r0415.jpeg"
+      },
+      {
+        "en": "Police car",
+        "ct": "Polis maşnası",
+        "ru": "Полицейская машина",
+        "uk": "Поліцейська машина",
+        "img": "images/r0416.png"
+      },
+      {
+        "en": "Salve, ointment",
+        "ct": "Melem",
+        "ru": "Мазь",
+        "uk": "Бальзам, мазь",
+        "img": "images/r0417.jpeg"
+      },
+      {
+        "en": "Scalpel",
+        "ct": "Skalpel",
+        "ru": "Скальпель",
+        "uk": "Скальпель",
+        "img": "images/r0418.jpeg"
+      },
+      {
+        "en": "Sick bed, patient bed",
+        "ct": "Hasta yatağı",
+        "ru": "Постель больного",
+        "uk": "Ліжко хворого, ліжко хворого",
+        "img": "images/r0419.jpeg"
+      },
+      {
+        "en": "Stethoscope",
+        "ct": "Stetoskop",
+        "ru": "Стетоскоп",
+        "uk": "Стетоскоп",
+        "img": "images/r0420.png"
+      },
+      {
+        "en": "Stretcher",
+        "ct": "Sediye",
+        "ru": "Носилки",
+        "uk": "Носилки",
+        "img": "images/r0421.jpeg"
+      },
+      {
+        "en": "Surgeon",
+        "ct": "Cerrah",
+        "ru": "Хирург",
+        "uk": "Хірург",
+        "img": "images/r0422.jpeg"
+      },
+      {
+        "en": "Thermometer",
+        "ct": "Sıcaq ölçer, termometr",
+        "ru": "Термометр",
+        "uk": "Термометр",
+        "img": "images/r0423.jpeg"
+      },
+      {
+        "en": "Tweezers, forceps",
+        "ct": "Cımbız",
+        "ru": "Пинцет",
+        "uk": "Пінцет, щипці",
+        "img": "images/r0424.png"
+      },
+      {
+        "en": "Wheelchair",
+        "ct": "Saqat, alil",
+        "ru": "Инвалидное кресло",
+        "uk": "Інвалідний візок",
+        "img": "images/r0425.png"
+      },
+      {
+        "en": "X-ray picture",
+        "ct": "Rentgen resmi",
+        "ru": "Рентгенограмма",
+        "uk": "Рентгенівський знімок",
+        "img": "images/r0426.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "house_and_residence",
+    "en": "House and Residence",
+    "ct": "Ev ve  Mesken",
+    "ru": "Дом и Жильё",
+    "uk": "Будинок і Резиденція",
+    "words": [
+      {
+        "en": "Door",
+        "ct": "Qapı",
+        "ru": "Двери",
+        "uk": "Двері",
+        "img": "images/r0427.jpeg"
+      },
+      {
+        "en": "Gate",
+        "ct": "Araba qapı, qapı",
+        "ru": "Ворота",
+        "uk": "Ворота",
+        "img": "images/r0428.jpeg"
+      },
+      {
+        "en": "Window",
+        "ct": "Pencere",
+        "ru": "Окно",
+        "uk": "Вікно",
+        "img": "images/r0429.png"
+      },
+      {
+        "en": "Attic",
+        "ct": "Çardaq",
+        "ru": "Чердак",
+        "uk": "Мансарда",
+        "img": "images/r0430.jpeg"
+      },
+      {
+        "en": "Balcony",
+        "ct": "Balkon",
+        "ru": "Балкон",
+        "uk": "Балкон",
+        "img": "images/r0431.jpeg"
+      },
+      {
+        "en": "Bathroom",
+        "ct": "Vannahane",
+        "ru": "Ванная комната",
+        "uk": "Ванна кімната",
+        "img": "images/r0432.jpeg"
+      },
+      {
+        "en": "Handle, knob",
+        "ct": "Tutquç",
+        "ru": "Ручка",
+        "uk": "Ручка, ручка",
+        "img": "images/r0433.jpeg"
+      },
+      {
+        "en": "Bell",
+        "ct": "Çañ",
+        "ru": "Колокол",
+        "uk": "Дзвоник",
+        "img": "images/r0434.jpeg"
+      },
+      {
+        "en": "Apartment building",
+        "ct": "Mesken ev",
+        "ru": "Жилой дом",
+        "uk": "Багатоквартирний будинок",
+        "img": "images/r0435.jpeg"
+      },
+      {
+        "en": "Cellar, basement",
+        "ct": "Mağaz, yertöle, uru",
+        "ru": "Погреб",
+        "uk": "Льох, підвал",
+        "img": "images/r0436.jpeg"
+      },
+      {
+        "en": "Chimney; funnel; smokestack",
+        "ct": "Çağaraq, ocaq, baca",
+        "ru": "Дымоход, дымовая труба",
+        "uk": "Димохід; лійка; димова труба",
+        "img": "images/r0437.jpeg"
+      },
+      {
+        "en": "Fence",
+        "ct": "Qora, isar, qalav  divar",
+        "ru": "Забор",
+        "uk": "Паркан",
+        "img": "images/r0438.jpeg"
+      },
+      {
+        "en": "Flag",
+        "ct": "Bayraq, sancaq",
+        "ru": "Флаг",
+        "uk": "Прапор",
+        "img": "images/r0439.jpeg"
+      },
+      {
+        "en": "Flagpole",
+        "ct": "Bayraq diregi",
+        "ru": "Флагшток",
+        "uk": "Флагшток",
+        "img": "images/r0440.jpeg"
+      },
+      {
+        "en": "Apartment",
+        "ct": "Kvartira, daire",
+        "ru": "Квартирa",
+        "uk": "Квартира",
+        "img": "images/r0441.jpeg"
+      },
+      {
+        "en": "Door bell",
+        "ct": "Qapı zili",
+        "ru": "Дверной звонок",
+        "uk": "Дверний дзвінок",
+        "img": "images/r0442.jpeg"
+      },
+      {
+        "en": "Trash can, garbage can",
+        "ct": "Çöplük",
+        "ru": "Корзина для мусора мусорное ведро,",
+        "uk": "Відро для сміття, відро для сміття",
+        "img": "images/r0443.jpeg"
+      },
+      {
+        "en": "Entrance",
+        "ct": "Kiriş, kirüv",
+        "ru": "Вход",
+        "uk": "Вхід",
+        "img": "images/r0444.jpeg"
+      },
+      {
+        "en": "Exit",
+        "ct": "Çıquv, çıqma, çıqış",
+        "ru": "Выход",
+        "uk": "Вихід",
+        "img": "images/r0445.jpeg"
+      },
+      {
+        "en": "Floor",
+        "ct": "Qat",
+        "ru": "Этаж",
+        "uk": "Поверх",
+        "img": "images/r0446.jpeg"
+      },
+      {
+        "en": "Garage",
+        "ct": "Garaj",
+        "ru": "Гараж",
+        "uk": "Гараж",
+        "img": "images/r0447.jpeg"
+      },
+      {
+        "en": "Veranda,",
+        "ct": "Qapı aldı, papuçlıq",
+        "ru": "Веранда",
+        "uk": "Веранда,",
+        "img": "images/r0448.jpeg"
+      },
+      {
+        "en": "Skyscraper",
+        "ct": "Yüksek bina",
+        "ru": "Высотное здание",
+        "uk": "Хмарочос",
+        "img": "images/r0449.jpeg"
+      },
+      {
+        "en": "Lawn",
+        "ct": "Çimen",
+        "ru": "Газон",
+        "uk": "Газон",
+        "img": "images/r0450.jpeg"
+      },
+      {
+        "en": "Kitchen",
+        "ct": "Aşhane",
+        "ru": "Кухня",
+        "uk": "Кухня",
+        "img": "images/r0451.jpeg"
+      },
+      {
+        "en": "House wall",
+        "ct": "Ev divarı",
+        "ru": "Стена дома",
+        "uk": "Стіна будинку",
+        "img": "images/r0452.jpeg"
+      },
+      {
+        "en": "Living room",
+        "ct": "Musafir odası, oturma odası",
+        "ru": "Гостиная",
+        "uk": "Вітальня",
+        "img": "images/r0453.jpeg"
+      },
+      {
+        "en": "Carpet",
+        "ct": "Kilim, maqat",
+        "ru": "Ковер",
+        "uk": "Килим",
+        "img": "images/r0454.jpeg"
+      },
+      {
+        "en": "Ceiling",
+        "ct": "Dam",
+        "ru": "Потолок",
+        "uk": "Стеля",
+        "img": "images/r0455.jpeg"
+      },
+      {
+        "en": "Roofing tile",
+        "ct": "Kiramet",
+        "ru": "Черепица",
+        "uk": "Покрівельна черепиця",
+        "img": "images/r0456.jpeg"
+      },
+      {
+        "en": "Room",
+        "ct": "Oda, hane",
+        "ru": "Комната",
+        "uk": "Кімната",
+        "img": "images/r0457.jpeg"
+      },
+      {
+        "en": "Shelf",
+        "ct": "Raf",
+        "ru": "Полка",
+        "uk": "Полиця",
+        "img": "images/r0458.jpeg"
+      },
+      {
+        "en": "Stairs, staircase",
+        "ct": "Merdiven",
+        "ru": "Лестница",
+        "uk": "Сходи, сходи",
+        "img": "images/r0459.jpeg"
+      },
+      {
+        "en": "Stone wall",
+        "ct": "Taş divar",
+        "ru": "Каменная стена",
+        "uk": "Кам'яна стіна",
+        "img": "images/r0460.jpeg"
+      },
+      {
+        "en": "Stone, rock",
+        "ct": "Taş",
+        "ru": "Камень",
+        "uk": "Камінь, камінь",
+        "img": "images/r0461.jpeg"
+      },
+      {
+        "en": "Tent",
+        "ct": "Çadır",
+        "ru": "Палатка",
+        "uk": "Намет",
+        "img": "images/r0462.jpeg"
+      },
+      {
+        "en": "Terrace",
+        "ct": "Sofa, terasa",
+        "ru": "Терраса",
+        "uk": "Тераса",
+        "img": "images/r0463.jpeg"
+      },
+      {
+        "en": "Toys",
+        "ct": "Oyuncaqlar",
+        "ru": "Игрушки",
+        "uk": "Іграшки",
+        "img": "images/r0464.jpeg"
+      },
+      {
+        "en": "Alarm clock",
+        "ct": "Çalar saat",
+        "ru": "Будильник",
+        "uk": "Будильник",
+        "img": "images/r0465.png"
+      },
+      {
+        "en": "Fan",
+        "ct": "Avalandırıcı",
+        "ru": "Вентилятор",
+        "uk": "Вентилятор",
+        "img": "images/r0466.jpeg"
+      },
+      {
+        "en": "Lock",
+        "ct": "Kilit",
+        "ru": "Замок",
+        "uk": "Замок",
+        "img": "images/r0467.png"
+      }
+    ]
+  },
+  {
+    "id": "bathroom",
+    "en": "Bathroom",
+    "ct": "Vannahane",
+    "ru": "Ванная",
+    "uk": "Ванна кімната",
+    "words": [
+      {
+        "en": "Shaver, electric razor",
+        "ct": "Ustura",
+        "ru": "Электробритва",
+        "uk": "Бритва, електробритва",
+        "img": "images/r0468.jpeg"
+      },
+      {
+        "en": "Chamber pot",
+        "ct": "Çölmek",
+        "ru": "Горшок",
+        "uk": "Камерний горщик",
+        "img": "images/r0469.jpeg"
+      },
+      {
+        "en": "Comb",
+        "ct": "Taraq",
+        "ru": "Гребень",
+        "uk": "Гребінець",
+        "img": "images/r0470.jpeg"
+      },
+      {
+        "en": "Brush, scrub brush",
+        "ct": "Fırçı, çötkü",
+        "ru": "Щетка",
+        "uk": "Щітка, щітка",
+        "img": "images/r0471.jpeg"
+      },
+      {
+        "en": "Shampoo",
+        "ct": "Şampun",
+        "ru": "Шампунь",
+        "uk": "Шампунь",
+        "img": "images/r0472.png"
+      },
+      {
+        "en": "Bath sponge",
+        "ct": "Sünger",
+        "ru": "Губка",
+        "uk": "Губка для ванни",
+        "img": "images/r0473.png"
+      },
+      {
+        "en": "Bathe",
+        "ct": "Yuvunmaq",
+        "ru": "Купаться",
+        "uk": "Купатися",
+        "img": "images/r0474.png"
+      },
+      {
+        "en": "Towel",
+        "ct": "Yüzbez",
+        "ru": "Полотенце",
+        "uk": "Рушник",
+        "img": "images/r0475.jpeg"
+      },
+      {
+        "en": "Toilet paper",
+        "ct": "Ayaqyol kâğıtı",
+        "ru": "Туалетная бумага",
+        "uk": "Туалетний папір",
+        "img": "images/r0476.jpeg"
+      },
+      {
+        "en": "Toothbrush",
+        "ct": "Tiş fırçısı",
+        "ru": "Зубная щетка",
+        "uk": "Зубна щітка",
+        "img": "images/r0477.jpeg"
+      },
+      {
+        "en": "Electrical outlet",
+        "ct": "Elektrik prizi",
+        "ru": "Электрическая розетка",
+        "uk": "Електрична розетка",
+        "img": "images/r0478.jpeg"
+      },
+      {
+        "en": "Glass",
+        "ct": "Cam",
+        "ru": "Стекло",
+        "uk": "Скло",
+        "img": "images/r0479.jpeg"
+      },
+      {
+        "en": "Hair brush",
+        "ct": "Saç fırçısı",
+        "ru": "Щетка для волос",
+        "uk": "Щітка для волосся",
+        "img": "images/r0480.jpeg"
+      },
+      {
+        "en": "Sink",
+        "ct": "Qaburçaq",
+        "ru": "Раковина",
+        "uk": "Раковина",
+        "img": "images/r0481.jpeg"
+      },
+      {
+        "en": "Mirror",
+        "ct": "Küzgü",
+        "ru": "Зеркало",
+        "uk": "Дзеркало",
+        "img": "images/r0482.jpeg"
+      },
+      {
+        "en": "Razor blade",
+        "ct": "Ustura",
+        "ru": "Бритва",
+        "uk": "Лезо бритви",
+        "img": "images/r0483.png"
+      },
+      {
+        "en": "Shower, showerhead",
+        "ct": "Duş",
+        "ru": "Душ",
+        "uk": "Душ, насадка для душу",
+        "img": "images/r0484.jpeg"
+      },
+      {
+        "en": "Soap",
+        "ct": "Sabun",
+        "ru": "Мыло",
+        "uk": "Мило",
+        "img": "images/r0485.jpeg"
+      },
+      {
+        "en": "Swim",
+        "ct": "Yaldamaq",
+        "ru": "Плавать",
+        "uk": "Плавати",
+        "img": "images/r0486.jpeg"
+      },
+      {
+        "en": "Tap, faucet",
+        "ct": "Qurna, musluq",
+        "ru": "Кран",
+        "uk": "Кран, кран",
+        "img": "images/r0487.jpeg"
+      },
+      {
+        "en": "Bathtub",
+        "ct": "Vanna",
+        "ru": "Ванна",
+        "uk": "Ванна",
+        "img": "images/r0488.jpeg"
+      },
+      {
+        "en": "Toilet",
+        "ct": "Ayaqyol, kenef",
+        "ru": "Туалет",
+        "uk": "Туалет",
+        "img": "images/r0489.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "living_room_bedroom",
+    "en": "Living Room, Bedroom",
+    "ct": "Musafir Odası, Yataq Odası",
+    "ru": "Гостиная, Спальня",
+    "uk": "Вітальня, Спальня",
+    "words": [
+      {
+        "en": "Arm rest",
+        "ct": "Qol dayanağı",
+        "ru": "Подлокотник",
+        "uk": "Підлокітник",
+        "img": "images/r0490.jpeg"
+      },
+      {
+        "en": "Armchair",
+        "ct": "Kreslo",
+        "ru": "Кресло",
+        "uk": "Крісло",
+        "img": "images/r0491.jpeg"
+      },
+      {
+        "en": "Bed",
+        "ct": "Kravat",
+        "ru": "Кровать",
+        "uk": "Ліжко",
+        "img": "images/r0492.jpeg"
+      },
+      {
+        "en": "Bedroom",
+        "ct": "Yataq odası",
+        "ru": "Спальня",
+        "uk": "Спальня",
+        "img": "images/r0493.jpeg"
+      },
+      {
+        "en": "Bedside table",
+        "ct": "Tumboçka",
+        "ru": "Тумбочка",
+        "uk": "Тумбочка",
+        "img": "images/r0494.jpeg"
+      },
+      {
+        "en": "Bench",
+        "ct": "Skemle",
+        "ru": "Скамья",
+        "uk": "Лава",
+        "img": "images/r0495.jpeg"
+      },
+      {
+        "en": "Bookcase, bookshelf",
+        "ct": "Kitap dolabı",
+        "ru": "Книжный шкаф книжные полки",
+        "uk": "Книжкова шафа, книжкова полиця",
+        "img": "images/r0496.jpeg"
+      },
+      {
+        "en": "Bouquet, bunch of flowers",
+        "ct": "Demet, top, güldeste",
+        "ru": "Букет",
+        "uk": "Букет, букет квітів",
+        "img": "images/r0497.jpeg"
+      },
+      {
+        "en": "Box",
+        "ct": "Qutu",
+        "ru": "Ящик, коробка",
+        "uk": "Коробка",
+        "img": "images/r0498.png"
+      },
+      {
+        "en": "Light bulb",
+        "ct": "Lampaçıq, lampoçka",
+        "ru": "Лампочка",
+        "uk": "Електрична лампочка",
+        "img": "images/r0499.jpeg"
+      },
+      {
+        "en": "Candle",
+        "ct": "Çıraq, şemma",
+        "ru": "Свеча",
+        "uk": "Свічка",
+        "img": "images/r0500.png"
+      },
+      {
+        "en": "Cloakroom",
+        "ct": "Urba dolabı",
+        "ru": "Гардероб",
+        "uk": "Гардеробна",
+        "img": "images/r0501.jpeg"
+      },
+      {
+        "en": "Curtain",
+        "ct": "Perde",
+        "ru": "Занавес",
+        "uk": "Штора",
+        "img": "images/r0502.jpeg"
+      },
+      {
+        "en": "Drawer",
+        "ct": "Çekmece",
+        "ru": "Выдвижной ящик",
+        "uk": "Шухляда",
+        "img": "images/r0503.jpeg"
+      },
+      {
+        "en": "Duvet cover",
+        "ct": "Çarşaf",
+        "ru": "Пододеяльник",
+        "uk": "Підодіяльник",
+        "img": "images/r0504.jpeg"
+      },
+      {
+        "en": "Clothes hanger",
+        "ct": "Asqıç, çüy",
+        "ru": "Вешалка для одежды",
+        "uk": "Вішалка для одягу",
+        "img": "images/r0505.jpeg"
+      },
+      {
+        "en": "Coffee table, occasional table",
+        "ct": "Qave masası, qona",
+        "ru": "Журнальный столик",
+        "uk": "Журнальний столик, журнальний столик",
+        "img": "images/r0506.jpeg"
+      },
+      {
+        "en": "Sofa; settee, couch",
+        "ct": "Divan, set",
+        "ru": "Диван; кушетка",
+        "uk": "Диван; диван, диван",
+        "img": "images/r0507.jpeg"
+      },
+      {
+        "en": "Counterpane, bedspread",
+        "ct": "Örtü",
+        "ru": "Покрывало",
+        "uk": "Покривало, покривало",
+        "img": "images/r0508.jpeg"
+      },
+      {
+        "en": "Flower",
+        "ct": "Çiçek, gül",
+        "ru": "Цветок",
+        "uk": "Квітка",
+        "img": "images/r0509.jpeg"
+      },
+      {
+        "en": "Flower pot",
+        "ct": "Çiçek çölmegi",
+        "ru": "Цветочный горшок",
+        "uk": "Квітковий горщик",
+        "img": "images/r0510.jpeg"
+      },
+      {
+        "en": "Frame",
+        "ct": "Çerçive",
+        "ru": "Рамка",
+        "uk": "Рамка",
+        "img": "images/r0511.png"
+      },
+      {
+        "en": "Furniture",
+        "ct": "Mebel, mefruşat",
+        "ru": "Мебель",
+        "uk": "Меблі",
+        "img": "images/r0512.jpeg"
+      },
+      {
+        "en": "Fuse",
+        "ct": "Qorçalayıcı",
+        "ru": "Предохранитель",
+        "uk": "Запобіжник",
+        "img": "images/r0513.png"
+      },
+      {
+        "en": "Vase",
+        "ct": "Çiçek savutı, vaza",
+        "ru": "Ваза",
+        "uk": "Ваза",
+        "img": "images/r0514.jpeg"
+      },
+      {
+        "en": "Lampstand",
+        "ct": "Şemma",
+        "ru": "Светильник",
+        "uk": "Підсвічник",
+        "img": "images/r0515.jpeg"
+      },
+      {
+        "en": "Light switch",
+        "ct": "Söndürgiç",
+        "ru": "Выключатель",
+        "uk": "Вимикач світла",
+        "img": "images/r0516.jpeg"
+      },
+      {
+        "en": "Match, matchstick",
+        "ct": "Sernik",
+        "ru": "Спички",
+        "uk": "Сірник, сірник",
+        "img": "images/r0517.jpeg"
+      },
+      {
+        "en": "Matchbox",
+        "ct": "Sernik qutusı",
+        "ru": "Спичечная коробка",
+        "uk": "Сірникова коробка",
+        "img": "images/r0518.jpeg"
+      },
+      {
+        "en": "Mattress",
+        "ct": "Töşek, minder, şilte",
+        "ru": "Матрас",
+        "uk": "Матрац",
+        "img": "images/r0519.jpeg"
+      },
+      {
+        "en": "Painting, picture",
+        "ct": "Boyalı resim, resim",
+        "ru": "Картинa, рисунок изображение",
+        "uk": "Картина, картина",
+        "img": "images/r0520.jpeg"
+      },
+      {
+        "en": "Pillow",
+        "ct": "Yastıq",
+        "ru": "Подушка",
+        "uk": "Подушка",
+        "img": "images/r0521.jpeg"
+      },
+      {
+        "en": "Pillow case",
+        "ct": "Yastıq üstü",
+        "ru": "Наволочка",
+        "uk": "Наволочка",
+        "img": "images/r0522.jpeg"
+      },
+      {
+        "en": "Reading lamp",
+        "ct": "Masa lampası",
+        "ru": "Настольная лампа",
+        "uk": "Лампа для читання",
+        "img": "images/r0523.jpeg"
+      },
+      {
+        "en": "Television, tv",
+        "ct": "Telekörüv, televizion",
+        "ru": "Телевизор, телевидение",
+        "uk": "Телебачення, телевізор",
+        "img": "images/r0524.png"
+      },
+      {
+        "en": "Teddy bear",
+        "ct": "Plüş ayuv, oyuncaq ayuv",
+        "ru": "Плюшевый мишка",
+        "uk": "Плюшевий ведмедик",
+        "img": "images/r0525.jpeg"
+      },
+      {
+        "en": "Telephone",
+        "ct": "Telefon",
+        "ru": "Телефон",
+        "uk": "Телефон",
+        "img": "images/r0526.jpeg"
+      },
+      {
+        "en": "Telephone receiver",
+        "ct": "Trubka, boruçıq",
+        "ru": "Телефонная трубка",
+        "uk": "Телефонна трубка",
+        "img": "images/r0527.png"
+      }
+    ]
+  },
+  {
+    "id": "tools",
+    "en": "Tools",
+    "ct": "Aletler",
+    "ru": "Инструменты",
+    "uk": "Інструменти",
+    "words": [
+      {
+        "en": "Bolt",
+        "ct": "Bolt",
+        "ru": "Болт",
+        "uk": "Болт",
+        "img": "images/r0528.jpeg"
+      },
+      {
+        "en": "Clamp",
+        "ct": "Qısqıç, mengene",
+        "ru": "Зажим",
+        "uk": "Затискач",
+        "img": "images/r0529.jpeg"
+      },
+      {
+        "en": "Crowbar",
+        "ct": "Qırıntı, lom",
+        "ru": "Лом",
+        "uk": "Лом",
+        "img": "images/r0530.jpeg"
+      },
+      {
+        "en": "Cutting pliers",
+        "ct": "Qısqaç",
+        "ru": "Кусачки",
+        "uk": "Кусачки",
+        "img": "images/r0531.jpeg"
+      },
+      {
+        "en": "Adjustable spanner",
+        "ct": "Anahtar",
+        "ru": "Разводной гаечный ключ",
+        "uk": "Розвідний ключ",
+        "img": "images/r0532.jpeg"
+      },
+      {
+        "en": "Awl",
+        "ct": "Biz",
+        "ru": "Шило",
+        "uk": "Шило",
+        "img": "images/r0533.jpeg"
+      },
+      {
+        "en": "Axe",
+        "ct": "Balta, nacaq",
+        "ru": "Топор",
+        "uk": "Сокира",
+        "img": "images/r0534.jpeg"
+      },
+      {
+        "en": "Pliers",
+        "ct": "Kelpeden",
+        "ru": "Щипцы, плоскогубцы",
+        "uk": "Плоскогубці",
+        "img": "images/r0535.jpeg"
+      },
+      {
+        "en": "Drill",
+        "ct": "Burğu",
+        "ru": "Дрель",
+        "uk": "Дриль",
+        "img": "images/r0536.jpeg"
+      },
+      {
+        "en": "Glue",
+        "ct": "Tutqal",
+        "ru": "Клей",
+        "uk": "Клей",
+        "img": "images/r0537.png"
+      },
+      {
+        "en": "Hammer",
+        "ct": "Çöküç",
+        "ru": "Молоток",
+        "uk": "Молоток",
+        "img": "images/r0538.png"
+      },
+      {
+        "en": "Handle of a knife",
+        "ct": "Pıçaq kolu",
+        "ru": "Ручка ножа",
+        "uk": "Ручка ножа",
+        "img": "images/r0539.png"
+      },
+      {
+        "en": "Hook",
+        "ct": "Çengel, kakura",
+        "ru": "Крюк",
+        "uk": "Гачок",
+        "img": "images/r0540.jpeg"
+      },
+      {
+        "en": "Metal",
+        "ct": "Maden",
+        "ru": "Металл",
+        "uk": "Метал",
+        "img": "images/r0541.jpeg"
+      },
+      {
+        "en": "Nail",
+        "ct": "Mıh, çüy",
+        "ru": "Гвоздь",
+        "uk": "Цвях",
+        "img": "images/r0542.jpeg"
+      },
+      {
+        "en": "Nut",
+        "ct": "Gayka",
+        "ru": "Гайка",
+        "uk": "Гайка",
+        "img": "images/r0543.jpeg"
+      },
+      {
+        "en": "Pipe, tube",
+        "ct": "Boru",
+        "ru": "Трубa",
+        "uk": "Труба, трубка",
+        "img": "images/r0544.jpeg"
+      },
+      {
+        "en": "Saw",
+        "ct": "Pıçqı",
+        "ru": "Пила",
+        "uk": "Пила",
+        "img": "images/r0545.png"
+      },
+      {
+        "en": "Screwdriver",
+        "ct": "Burğuç",
+        "ru": "Отвертка",
+        "uk": "Викрутка",
+        "img": "images/r0546.png"
+      },
+      {
+        "en": "Stick",
+        "ct": "Tayaq, sopa",
+        "ru": "Палка",
+        "uk": "Палиця",
+        "img": "images/r0547.png"
+      },
+      {
+        "en": "Thread",
+        "ct": "Yip",
+        "ru": "Нить",
+        "uk": "Нитка",
+        "img": "images/r0548.jpeg"
+      },
+      {
+        "en": "Wedge",
+        "ct": "Şına",
+        "ru": "Клин",
+        "uk": "Клин",
+        "img": "images/r0549.png"
+      },
+      {
+        "en": "Tool",
+        "ct": "Alet",
+        "ru": "Инструмент",
+        "uk": "Інструмент",
+        "img": "images/r0550.jpeg"
+      },
+      {
+        "en": "Wallpaper",
+        "ct": "Divar kâğıtı, kâğıt",
+        "ru": "Обои",
+        "uk": "Шпалери",
+        "img": "images/r0551.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "school",
+    "en": "School",
+    "ct": "Okul",
+    "ru": "Школа",
+    "uk": "Школа",
+    "words": [
+      {
+        "en": "Blackboard, board",
+        "ct": "Sınıf tahtası",
+        "ru": "Доска",
+        "uk": "Дошка, дошка",
+        "img": "images/r0552.jpeg"
+      },
+      {
+        "en": "Break",
+        "ct": "Teneffüs",
+        "ru": "Перерыв",
+        "uk": "Перерва",
+        "img": "images/r0553.jpeg"
+      },
+      {
+        "en": "Book",
+        "ct": "Kitap",
+        "ru": "Книга",
+        "uk": "Книга",
+        "img": "images/r0554.jpeg"
+      },
+      {
+        "en": "Class",
+        "ct": "Sınıf",
+        "ru": "Класс",
+        "uk": "Клас",
+        "img": "images/r0555.jpeg"
+      },
+      {
+        "en": "Classroom",
+        "ct": "Sınıf",
+        "ru": "Класс",
+        "uk": "Класна кімната",
+        "img": "images/r0556.png"
+      },
+      {
+        "en": "Copy-book, notebook",
+        "ct": "Defter",
+        "ru": "Тетрад",
+        "uk": "Зошит, зошит",
+        "img": "images/r0557.jpeg"
+      },
+      {
+        "en": "Corridor",
+        "ct": "Ayat, koridor",
+        "ru": "Коридор",
+        "uk": "Коридор",
+        "img": "images/r0558.jpeg"
+      },
+      {
+        "en": "Desk",
+        "ct": "Masa",
+        "ru": "Стол",
+        "uk": "Письмовий стіл",
+        "img": "images/r0559.png"
+      },
+      {
+        "en": "Education, training",
+        "ct": "Ögretüv, tasil , talim",
+        "ru": "Образование",
+        "uk": "Навчання, навчання",
+        "img": "images/r0560.jpeg"
+      },
+      {
+        "en": "Hall",
+        "ct": "Zal, salon",
+        "ru": "Зал",
+        "uk": "Зал",
+        "img": "images/r0561.jpeg"
+      },
+      {
+        "en": "Day-care center",
+        "ct": "Bala bağçası",
+        "ru": "Детский сад",
+        "uk": "Центр денного догляду",
+        "img": "images/r0562.jpeg"
+      },
+      {
+        "en": "Street",
+        "ct": "Soqaq",
+        "ru": "Улица",
+        "uk": "Вул",
+        "img": "images/r0563.jpeg"
+      },
+      {
+        "en": "Map",
+        "ct": "Harita",
+        "ru": "Карта",
+        "uk": "Карта",
+        "img": "images/r0564.png"
+      },
+      {
+        "en": "Movie theater, cinema",
+        "ct": "Kinoteatr",
+        "ru": "Кинотеатр",
+        "uk": "Кінотеатр, кіно",
+        "img": "images/r0565.jpeg"
+      },
+      {
+        "en": "Pavement",
+        "ct": "Qaldırım",
+        "ru": "Тротуар",
+        "uk": "Бруківка",
+        "img": "images/r0566.jpeg"
+      },
+      {
+        "en": "Student",
+        "ct": "Talebe",
+        "ru": "Ученик, студент",
+        "uk": "Студент",
+        "img": "images/r0567.jpeg"
+      },
+      {
+        "en": "Teacher",
+        "ct": "Ocapçe",
+        "ru": "Учитель",
+        "uk": "Вчитель",
+        "img": "images/r0568.jpeg"
+      },
+      {
+        "en": "Teacher's desk",
+        "ct": "Ocapçe masası",
+        "ru": "Стол учителя",
+        "uk": "Учительський стіл",
+        "img": "images/r0569.png"
+      },
+      {
+        "en": "University",
+        "ct": "Universitet",
+        "ru": "Университет",
+        "uk": "Університет",
+        "img": "images/r0570.jpeg"
+      },
+      {
+        "en": "Textbook",
+        "ct": "Derslik, ders kitabı",
+        "ru": "Учебник",
+        "uk": "Підручник",
+        "img": "images/r0571.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "city",
+    "en": "City",
+    "ct": "Şeer",
+    "ru": "Город",
+    "uk": "місто",
+    "words": [
+      {
+        "en": "Fountain",
+        "ct": "Çeşme, şardıvan",
+        "ru": "Фонтан",
+        "uk": "Фонтан",
+        "img": "images/r0572.jpeg"
+      },
+      {
+        "en": "Storage, stockroom",
+        "ct": "Anbar, mağaz",
+        "ru": "Хранение, склад",
+        "uk": "Сховище, комора",
+        "img": "images/r0573.jpeg"
+      },
+      {
+        "en": "Roundabout",
+        "ct": "Alqa",
+        "ru": "Кольцо",
+        "uk": "Карусель",
+        "img": "images/r0574.jpeg"
+      },
+      {
+        "en": "Parking sign",
+        "ct": "Yol işareti",
+        "ru": "Дорожный знак",
+        "uk": "Знак паркування",
+        "img": "images/r0575.png"
+      },
+      {
+        "en": "Bus",
+        "ct": "Avtobus",
+        "ru": "Автобус",
+        "uk": "Автобус",
+        "img": "images/r0576.jpeg"
+      },
+      {
+        "en": "Bus stop",
+        "ct": "Avtobus toqtav yeri",
+        "ru": "Автобусная остановка",
+        "uk": "Автобусна зупинка",
+        "img": "images/r0577.jpeg"
+      },
+      {
+        "en": "Cyclist",
+        "ct": "Ayaqmaşnacı",
+        "ru": "Велосипедист",
+        "uk": "Велосипедист",
+        "img": "images/r0578.jpeg"
+      },
+      {
+        "en": "Market",
+        "ct": "Bazar, çarşı",
+        "ru": "Рынок",
+        "uk": "Ринок",
+        "img": "images/r0579.jpeg"
+      },
+      {
+        "en": "Streetlight",
+        "ct": "Soqaq feneri",
+        "ru": "Уличный фонарь",
+        "uk": "Вуличний ліхтар",
+        "img": "images/r0580.jpeg"
+      },
+      {
+        "en": "Windmill",
+        "ct": "Degirmen",
+        "ru": "Ветряная мельница",
+        "uk": "Вітряк",
+        "img": "images/r0581.jpeg"
+      },
+      {
+        "en": "Tunnel",
+        "ct": "Tunnel",
+        "ru": "Туннель",
+        "uk": "Тунель",
+        "img": "images/r0582.jpeg"
+      },
+      {
+        "en": "Bank",
+        "ct": "Bank",
+        "ru": "Банк",
+        "uk": "Банк",
+        "img": "images/r0583.jpeg"
+      },
+      {
+        "en": "Park",
+        "ct": "Park, bağça",
+        "ru": "Парк",
+        "uk": "Парк",
+        "img": "images/r0584.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "car_and_bicycle",
+    "en": "Car and Bicycle",
+    "ct": "Araba ve Ayaqmaşna",
+    "ru": "Автомобиль и Велосипед",
+    "uk": "Автомобіль і велосипед",
+    "words": [
+      {
+        "en": "Taxi",
+        "ct": "Taksi",
+        "ru": "Такси",
+        "uk": "Таксі",
+        "img": "images/r0585.png"
+      },
+      {
+        "en": "Traffic light",
+        "ct": "Svetofor",
+        "ru": "Светофор",
+        "uk": "Світлофор",
+        "img": "images/r0586.jpeg"
+      },
+      {
+        "en": "Pedestrian",
+        "ct": "Piyade",
+        "ru": "Пешеход",
+        "uk": "Пішохідний",
+        "img": "images/r0587.jpeg"
+      },
+      {
+        "en": "Sailing boat",
+        "ct": "Yelkenli gemi",
+        "ru": "Парусник",
+        "uk": "Вітрильний човен",
+        "img": "images/r0588.jpeg"
+      },
+      {
+        "en": "Bridge",
+        "ct": "Köpür",
+        "ru": "Мост",
+        "uk": "Міст",
+        "img": "images/r0589.jpeg"
+      },
+      {
+        "en": "Mast",
+        "ct": "Direk",
+        "ru": "Мачта",
+        "uk": "Щогла",
+        "img": "images/r0590.jpeg"
+      },
+      {
+        "en": "Lighthouse",
+        "ct": "Deñiz feneri,",
+        "ru": "Маяк",
+        "uk": "Маяк",
+        "img": "images/r0591.jpeg"
+      },
+      {
+        "en": "Ferry boat",
+        "ct": "Parom",
+        "ru": "Паром",
+        "uk": "Паром",
+        "img": "images/r0592.jpeg"
+      },
+      {
+        "en": "Boat",
+        "ct": "Qayıq",
+        "ru": "Лодка",
+        "uk": "Човен",
+        "img": "images/r0593.png"
+      },
+      {
+        "en": "Ship",
+        "ct": "Gemi",
+        "ru": "Корабль",
+        "uk": "Корабель",
+        "img": "images/r0594.jpeg"
+      },
+      {
+        "en": "Harbor",
+        "ct": "Liman",
+        "ru": "Порт",
+        "uk": "Гавань",
+        "img": "images/r0595.jpeg"
+      },
+      {
+        "en": "Airport",
+        "ct": "Ava limanı, uçaq limanı",
+        "ru": "Аэропорт",
+        "uk": "Аеропорт",
+        "img": "images/r0596.jpeg"
+      },
+      {
+        "en": "Aircraft, plane",
+        "ct": "Uçaq",
+        "ru": "Самолет",
+        "uk": "Літак, літак",
+        "img": "images/r0597.png"
+      },
+      {
+        "en": "Propeller",
+        "ct": "Pervane",
+        "ru": "Пропеллер",
+        "uk": "Пропелер",
+        "img": "images/r0598.jpeg"
+      },
+      {
+        "en": "Helicopter",
+        "ct": "Vertolyot",
+        "ru": "Вертолет",
+        "uk": "Вертоліт",
+        "img": "images/r0599.jpeg"
+      },
+      {
+        "en": "Train",
+        "ct": "Tren",
+        "ru": "Поезд",
+        "uk": "Поїзд",
+        "img": "images/r0600.jpeg"
+      },
+      {
+        "en": "Railway station",
+        "ct": "Vokzal",
+        "ru": "Вокзал",
+        "uk": "Залізничний вокзал",
+        "img": "images/r0601.jpeg"
+      },
+      {
+        "en": "Railroad car",
+        "ct": "Vagon",
+        "ru": "Вагон",
+        "uk": "Залізничний вагон",
+        "img": "images/r0602.jpeg"
+      },
+      {
+        "en": "Train tracks",
+        "ct": "Demiryol",
+        "ru": "Железная дорога",
+        "uk": "Залізничні колії",
+        "img": "images/r0603.jpeg"
+      },
+      {
+        "en": "Trolley car, tramcar",
+        "ct": "Tramvay",
+        "ru": "Трамвай, трамвай,",
+        "uk": "Тролейбус, трамвай",
+        "img": "images/r0604.jpeg"
+      },
+      {
+        "en": "Curb",
+        "ct": "Yol çeti, yol kenarı",
+        "ru": "Обочина",
+        "uk": "Бордюр",
+        "img": "images/r0605.jpeg"
+      },
+      {
+        "en": "Lane",
+        "ct": "Yol şeridi",
+        "ru": "Полоса дороги",
+        "uk": "Пров",
+        "img": "images/r0606.jpeg"
+      },
+      {
+        "en": "Town, city",
+        "ct": "Şeer",
+        "ru": "Город",
+        "uk": "Місто, місто",
+        "img": "images/r0607.png"
+      },
+      {
+        "en": "Stamp",
+        "ct": "Müür",
+        "ru": "Печать",
+        "uk": "Штамп",
+        "img": "images/r0608.png"
+      },
+      {
+        "en": "Coin",
+        "ct": "Para, aqça",
+        "ru": "Монета",
+        "uk": "Монета",
+        "img": "images/r0609.png"
+      },
+      {
+        "en": "Copier, photocopier",
+        "ct": "Kopiya aleti, kopyaci",
+        "ru": "Копир, ксерокс",
+        "uk": "Ксерокс, ксерокс",
+        "img": "images/r0610.jpeg"
+      },
+      {
+        "en": "Credit card",
+        "ct": "Kredit kartı, ödünç kartı",
+        "ru": "Кредитная карта",
+        "uk": "Кредитна картка",
+        "img": "images/r0611.jpeg"
+      },
+      {
+        "en": "Envelope",
+        "ct": "Zarf",
+        "ru": "Конверт",
+        "uk": "Конверт",
+        "img": "images/r0612.jpeg"
+      },
+      {
+        "en": "Money",
+        "ct": "Para, aqça",
+        "ru": "Деньги",
+        "uk": "Гроші",
+        "img": "images/r0613.jpeg"
+      },
+      {
+        "en": "Piggy bank",
+        "ct": "Kumbara, kopilka",
+        "ru": "Копилка",
+        "uk": "Скарбничка",
+        "img": "images/r0614.jpeg"
+      },
+      {
+        "en": "Post office",
+        "ct": "Poçta",
+        "ru": "Почта",
+        "uk": "Поштове відділення",
+        "img": "images/r0615.jpeg"
+      },
+      {
+        "en": "Post office box",
+        "ct": "Poçta qutusı",
+        "ru": "Почтовый ящик",
+        "uk": "Поштова скринька",
+        "img": "images/r0616.jpeg"
+      },
+      {
+        "en": "Receipt",
+        "ct": "Kvitantsiya",
+        "ru": "Квитанция",
+        "uk": "Розписка",
+        "img": "images/r0617.png"
+      },
+      {
+        "en": "Avenue",
+        "ct": "Cadde",
+        "ru": "Проспект",
+        "uk": "Проспект",
+        "img": "images/r0618.jpeg"
+      },
+      {
+        "en": "Seafront, quay",
+        "ct": "Yalı kenarı",
+        "ru": "Набережная",
+        "uk": "Набережна, набережна",
+        "img": "images/r0619.jpeg"
+      },
+      {
+        "en": "Mosque",
+        "ct": "Cami, mescit",
+        "ru": "Мечеть",
+        "uk": "Мечеть",
+        "img": "images/r0620.jpeg"
+      },
+      {
+        "en": "Church",
+        "ct": "Kilse",
+        "ru": "Церковь",
+        "uk": "Церква",
+        "img": "images/r0621.jpeg"
+      },
+      {
+        "en": "Synagogue",
+        "ct": "Sinagoga",
+        "ru": "Синагога",
+        "uk": "Синагога",
+        "img": "images/r0622.jpeg"
+      },
+      {
+        "en": "Cemetery",
+        "ct": "Mezarlıq, qabristan, taşlı dair",
+        "ru": "Кладбище",
+        "uk": "Цвинтар",
+        "img": "images/r0623.jpeg"
+      },
+      {
+        "en": "Street name",
+        "ct": "Soqaq adı",
+        "ru": "Название улицы",
+        "uk": "Назва вулиці",
+        "img": "images/r0624.jpeg"
+      },
+      {
+        "en": "Airfield",
+        "ct": "Uçaq alanı, aerodrom",
+        "ru": "Аэродром",
+        "uk": "Аеродром",
+        "img": "images/r0625.jpeg"
+      },
+      {
+        "en": "Grave",
+        "ct": "Mezar, qabir",
+        "ru": "Место погребения",
+        "uk": "Могила",
+        "img": "images/r0626.jpeg"
+      },
+      {
+        "en": "Car",
+        "ct": "Araba",
+        "ru": "Автомобиль",
+        "uk": "Автомобіль",
+        "img": "images/r0627.png"
+      },
+      {
+        "en": "Automobile tire",
+        "ct": "Şına",
+        "ru": "Шинa",
+        "uk": "Автомобільна шина",
+        "img": "images/r0628.png"
+      },
+      {
+        "en": "Back seat",
+        "ct": "Arqa oturğıç",
+        "ru": "Заднее сиденье",
+        "uk": "Заднє сидіння",
+        "img": "images/r0629.jpeg"
+      },
+      {
+        "en": "Battery",
+        "ct": "Akkumulâtor",
+        "ru": "Аккумулятор",
+        "uk": "Акумулятор",
+        "img": "images/r0630.jpeg"
+      },
+      {
+        "en": "Rear lamp, taillight",
+        "ct": "Arqa feneri",
+        "ru": "Задний фонарь",
+        "uk": "Задній ліхтар, задній ліхтар",
+        "img": "images/r0631.jpeg"
+      },
+      {
+        "en": "Seatbelt",
+        "ct": "Telükesizlik quşağı",
+        "ru": "Ремень безопасности",
+        "uk": "Ремінь безпеки",
+        "img": "images/r0632.jpeg"
+      },
+      {
+        "en": "Wheel",
+        "ct": "Köpçek, teger, çarq",
+        "ru": "Колесо",
+        "uk": "Колесо",
+        "img": "images/r0633.jpeg"
+      },
+      {
+        "en": "Airbag",
+        "ct": "Ava yastığı",
+        "ru": "Воздушная подушка",
+        "uk": "Подушка безпеки",
+        "img": "images/r0634.jpeg"
+      },
+      {
+        "en": "Driver",
+        "ct": "Aydayıcı",
+        "ru": "Водитель",
+        "uk": "Водій",
+        "img": "images/r0635.png"
+      },
+      {
+        "en": "Engine, motor",
+        "ct": "Köçürici, motor",
+        "ru": "Двигатель",
+        "uk": "Двигун, мотор",
+        "img": "images/r0636.jpeg"
+      },
+      {
+        "en": "Helmet",
+        "ct": "Demir başlıq, migfer",
+        "ru": "Шлем",
+        "uk": "Шолом",
+        "img": "images/r0637.png"
+      },
+      {
+        "en": "Car hood",
+        "ct": "Kapot",
+        "ru": "Капот",
+        "uk": "Автомобільний капот",
+        "img": "images/r0638.jpeg"
+      },
+      {
+        "en": "Car door",
+        "ct": "Araba qapısı",
+        "ru": "Двери автомобиля",
+        "uk": "Двері автомобіля",
+        "img": "images/r0639.jpeg"
+      },
+      {
+        "en": "Car window",
+        "ct": "Araba penceresi",
+        "ru": "Окна автомобиля",
+        "uk": "Вікно автомобіля",
+        "img": "images/r0640.jpeg"
+      },
+      {
+        "en": "Trunk, luggage space",
+        "ct": "Yük alanı",
+        "ru": "Багажное отделение",
+        "uk": "Багажник, багажне відділення",
+        "img": "images/r0641.jpeg"
+      },
+      {
+        "en": "Pedal",
+        "ct": "Pedal",
+        "ru": "Педаль",
+        "uk": "Педаль",
+        "img": "images/r0642.jpeg"
+      },
+      {
+        "en": "Bicycle",
+        "ct": "Ayaqmaşna",
+        "ru": "Велосипед",
+        "uk": "Велосипед",
+        "img": "images/r0643.png"
+      },
+      {
+        "en": "Bicycle chain",
+        "ct": "Ayaqmaşna zıncırı",
+        "ru": "Велосипедная цепь",
+        "uk": "Велосипедний ланцюг",
+        "img": "images/r0644.png"
+      },
+      {
+        "en": "Bicycle helmet",
+        "ct": "Ayaqmaşna migferi",
+        "ru": "Велосипедный шлем",
+        "uk": "Велосипедний шолом",
+        "img": "images/r0645.jpeg"
+      },
+      {
+        "en": "Cycle handlebars",
+        "ct": "Ayaqmaşna dümeni",
+        "ru": "Руль велосипеда",
+        "uk": "Велосипедне кермо",
+        "img": "images/r0646.jpeg"
+      },
+      {
+        "en": "Bicycle pump",
+        "ct": "Ayaqmaşna pompası",
+        "ru": "Велосипедный насос",
+        "uk": "Велосипедний насос",
+        "img": "images/r0647.jpeg"
+      },
+      {
+        "en": "Bicycle seat",
+        "ct": "Ayaqmaşna oturğıcı",
+        "ru": "Сиденье велосипеда",
+        "uk": "Велосипедне сидіння",
+        "img": "images/r0648.jpeg"
+      },
+      {
+        "en": "Bicycle tyre",
+        "ct": "Ayaqmaşna şınasi",
+        "ru": "Шина велосипеда",
+        "uk": "Велосипедна шина",
+        "img": "images/r0649.jpeg"
+      },
+      {
+        "en": "Bicycle pedal",
+        "ct": "Ayaqmaşna pedalı",
+        "ru": "Педаль велосипеда",
+        "uk": "Велосипедна педаль",
+        "img": "images/r0650.png"
+      }
+    ]
+  },
+  {
+    "id": "music_and_instruments",
+    "en": "Music and Instruments",
+    "ct": "Çalğı ve Aletler",
+    "ru": "Музыка и Инструменты",
+    "uk": "Музика та інструменти",
+    "words": [
+      {
+        "en": "Instruments",
+        "ct": "Çalğı aletleri",
+        "ru": "Инструменты",
+        "uk": "Інструменти",
+        "img": "images/r0651.png"
+      },
+      {
+        "en": "Tambourine",
+        "ct": "Dare",
+        "ru": "Бубен",
+        "uk": "Бубон",
+        "img": "images/r0652.png"
+      },
+      {
+        "en": "Drum",
+        "ct": "Davul",
+        "ru": "Барабан",
+        "uk": "Барабан",
+        "img": "images/r0653.jpeg"
+      },
+      {
+        "en": "Violin, fiddle",
+        "ct": "Kemane",
+        "ru": "Скрипка",
+        "uk": "Скрипка, скрипка",
+        "img": "images/r0654.jpeg"
+      },
+      {
+        "en": "Clarinet",
+        "ct": "Klarnet",
+        "ru": "Кларнет",
+        "uk": "Кларнет",
+        "img": "images/r0655.jpeg"
+      },
+      {
+        "en": "Saxophone",
+        "ct": "Saksofon",
+        "ru": "Саксофон",
+        "uk": "Саксофон",
+        "img": "images/r0656.jpeg"
+      },
+      {
+        "en": "Flute",
+        "ct": "Fleyta",
+        "ru": "Флейта",
+        "uk": "Флейта",
+        "img": "images/r0657.jpeg"
+      },
+      {
+        "en": "Trumpet",
+        "ct": "Borazan",
+        "ru": "Труба",
+        "uk": "Труба",
+        "img": "images/r0658.jpeg"
+      },
+      {
+        "en": "Guitar",
+        "ct": "Gitara",
+        "ru": "Гитара",
+        "uk": "Гітара",
+        "img": "images/r0659.jpeg"
+      },
+      {
+        "en": "Electric guitar",
+        "ct": "Elektrogitar",
+        "ru": "Электрогитара",
+        "uk": "Електрогітара",
+        "img": "images/r0660.jpeg"
+      },
+      {
+        "en": "Harp",
+        "ct": "Arfa",
+        "ru": "Арфа",
+        "uk": "Арфа",
+        "img": "images/r0661.png"
+      },
+      {
+        "en": "Orchestra",
+        "ct": "Orkestr, çalğı taqımı",
+        "ru": "Оркестр",
+        "uk": "Оркестр",
+        "img": "images/r0662.jpeg"
+      },
+      {
+        "en": "Harmonica",
+        "ct": "Ağız garmonikası",
+        "ru": "Гармоника",
+        "uk": "Гармошка",
+        "img": "images/r0663.jpeg"
+      },
+      {
+        "en": "Accordion",
+        "ct": "Akordeon",
+        "ru": "Аккордеон",
+        "uk": "Акордеон",
+        "img": "images/r0664.jpeg"
+      },
+      {
+        "en": "Loudspeaker",
+        "ct": "Ses yañğıratqıç",
+        "ru": "Динамик",
+        "uk": "Гучномовець",
+        "img": "images/r0665.jpeg"
+      },
+      {
+        "en": "Microphone",
+        "ct": "Mikrofon",
+        "ru": "Микрофон",
+        "uk": "Мікрофон",
+        "img": "images/r0666.png"
+      },
+      {
+        "en": "Church organ",
+        "ct": "Kilse organı",
+        "ru": "Церковный орган",
+        "uk": "Церковний орган",
+        "img": "images/r0667.jpeg"
+      },
+      {
+        "en": "Grand piano",
+        "ct": "Royal",
+        "ru": "Рояль",
+        "uk": "Рояль",
+        "img": "images/r0668.jpeg"
+      },
+      {
+        "en": "Piano",
+        "ct": "Pianino",
+        "ru": "Пианино",
+        "uk": "Фортепіано",
+        "img": "images/r0669.png"
+      },
+      {
+        "en": "Pianist",
+        "ct": "Pianinocı",
+        "ru": "Пианист",
+        "uk": "Піаніст",
+        "img": "images/r0670.png"
+      },
+      {
+        "en": "Note",
+        "ct": "Nota",
+        "ru": "Нота",
+        "uk": "Примітка",
+        "img": "images/r0671.jpeg"
+      },
+      {
+        "en": "Opera",
+        "ct": "Opera",
+        "ru": "Опера",
+        "uk": "Опера",
+        "img": "images/r0672.jpeg"
+      },
+      {
+        "en": "Chorus, choir",
+        "ct": "Hor",
+        "ru": "Хор",
+        "uk": "Хор, хор",
+        "img": "images/r0673.jpeg"
+      },
+      {
+        "en": "Musician",
+        "ct": "Çalğıcı",
+        "ru": "Музыкант",
+        "uk": "Музикант",
+        "img": "images/r0674.png"
+      },
+      {
+        "en": "Sound",
+        "ct": "Ses",
+        "ru": "Звук",
+        "uk": "Звук",
+        "img": "images/r0675.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "media",
+    "en": "Media",
+    "ct": "Kütleviy Haber Vastaları",
+    "ru": "Средства Массовой Информации",
+    "uk": "ЗМІ",
+    "words": [
+      {
+        "en": "Ballpoint pen",
+        "ct": "Tükenmez qalem",
+        "ru": "Шариковая ручка",
+        "uk": "Кулькова ручка",
+        "img": "images/r0676.png"
+      },
+      {
+        "en": "Box",
+        "ct": "Qutu",
+        "ru": "Коробка",
+        "uk": "Коробка",
+        "img": "images/r0677.jpeg"
+      },
+      {
+        "en": "Camera",
+        "ct": "Kamera",
+        "ru": "Камера",
+        "uk": "Камера",
+        "img": "images/r0678.png"
+      },
+      {
+        "en": "Cartoon",
+        "ct": "Sızma filmi",
+        "ru": "Мультфильм",
+        "uk": "Мультфільм",
+        "img": "images/r0679.jpeg"
+      },
+      {
+        "en": "Cell phone",
+        "ct": "Cep telefonı",
+        "ru": "Мобильный телефон",
+        "uk": "Мобільний телефон",
+        "img": "images/r0680.png"
+      },
+      {
+        "en": "Computer",
+        "ct": "Kompyuter",
+        "ru": "Компьютер",
+        "uk": "Комп'ютер",
+        "img": "images/r0681.jpeg"
+      },
+      {
+        "en": "Diagram; chart",
+        "ct": "Grafik",
+        "ru": "Схема, график",
+        "uk": "Діаграма; діаграма",
+        "img": "images/r0682.jpeg"
+      },
+      {
+        "en": "Eraser",
+        "ct": "Silgiç",
+        "ru": "Ластик",
+        "uk": "Гумка",
+        "img": "images/r0683.jpeg"
+      },
+      {
+        "en": "Film",
+        "ct": "Film",
+        "ru": "Фильм",
+        "uk": "Плівка",
+        "img": "images/r0684.png"
+      },
+      {
+        "en": "Tape",
+        "ct": "Şerit, lenta",
+        "ru": "Лента",
+        "uk": "Стрічка",
+        "img": "images/r0685.jpeg"
+      },
+      {
+        "en": "Video camera",
+        "ct": "Video kamera",
+        "ru": "Видеокамера",
+        "uk": "Відеокамера",
+        "img": "images/r0686.jpeg"
+      },
+      {
+        "en": "Magazine",
+        "ct": "Mecmua, jurnal",
+        "ru": "Журнал",
+        "uk": "Журнал",
+        "img": "images/r0687.jpeg"
+      },
+      {
+        "en": "Newspaper",
+        "ct": "Gazeta",
+        "ru": "Газета",
+        "uk": "Газета",
+        "img": "images/r0688.jpeg"
+      },
+      {
+        "en": "Stapler",
+        "ct": "Zimba",
+        "ru": "Стэплер",
+        "uk": "Степлер",
+        "img": "images/r0689.jpeg"
+      },
+      {
+        "en": "Cord",
+        "ct": "Qaytan, sıcım, şnur",
+        "ru": "Шнур",
+        "uk": "Шнур",
+        "img": "images/r0690.jpeg"
+      },
+      {
+        "en": "Pen",
+        "ct": "Qalem",
+        "ru": "Ручка",
+        "uk": "Перо",
+        "img": "images/r0691.jpeg"
+      },
+      {
+        "en": "Pencil",
+        "ct": "Qarandaş",
+        "ru": "Карандаш",
+        "uk": "Олівець",
+        "img": "images/r0692.png"
+      },
+      {
+        "en": "Printer",
+        "ct": "Printer, yazıcı",
+        "ru": "Принтер",
+        "uk": "Принтер",
+        "img": "images/r0693.jpeg"
+      },
+      {
+        "en": "Radio",
+        "ct": "Radio",
+        "ru": "Радио",
+        "uk": "Радіо",
+        "img": "images/r0694.png"
+      },
+      {
+        "en": "Screen",
+        "ct": "Ekran",
+        "ru": "Экран",
+        "uk": "Екран",
+        "img": "images/r0695.png"
+      },
+      {
+        "en": "Letter",
+        "ct": "Mektüp",
+        "ru": "Письмо",
+        "uk": "Лист",
+        "img": "images/r0696.jpeg"
+      },
+      {
+        "en": "Page",
+        "ct": "Saife, bet",
+        "ru": "Страница",
+        "uk": "Сторінка",
+        "img": "images/r0697.jpeg"
+      },
+      {
+        "en": "Paper",
+        "ct": "Kâğıt",
+        "ru": "Бумага",
+        "uk": "Папір",
+        "img": "images/r0698.jpeg"
+      },
+      {
+        "en": "Library",
+        "ct": "Kitaphane",
+        "ru": "Библиотека",
+        "uk": "Бібліотека",
+        "img": "images/r0699.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "sport",
+    "en": "Sport",
+    "ct": "Sport",
+    "ru": "Спорт",
+    "uk": "Спорт",
+    "words": [
+      {
+        "en": "Referee",
+        "ct": "Akem",
+        "ru": "Судья",
+        "uk": "Арбітр",
+        "img": "images/r0700.jpeg"
+      },
+      {
+        "en": "Whistle",
+        "ct": "Sızğıravuq",
+        "ru": "Свисток",
+        "uk": "Свисток",
+        "img": "images/r0701.jpeg"
+      },
+      {
+        "en": "Badminton",
+        "ct": "Badminton",
+        "ru": "Бадминтон",
+        "uk": "Бадмінтон",
+        "img": "images/r0702.jpeg"
+      },
+      {
+        "en": "Basketball",
+        "ct": "Basketbol",
+        "ru": "Баскетбол",
+        "uk": "Баскетбол",
+        "img": "images/r0703.jpeg"
+      },
+      {
+        "en": "Wave",
+        "ct": "Dalğa",
+        "ru": "Волна",
+        "uk": "Хвиля",
+        "img": "images/r0704.jpeg"
+      },
+      {
+        "en": "American football",
+        "ct": "Amerikan futbol",
+        "ru": "Американский футбол",
+        "uk": "Американський футбол",
+        "img": "images/r0705.jpeg"
+      },
+      {
+        "en": "American football field",
+        "ct": "Amerikan futbol meydanı",
+        "ru": "Американское футбольное поле",
+        "uk": "Поле для американського футболу",
+        "img": "images/r0706.jpeg"
+      },
+      {
+        "en": "American football player",
+        "ct": "Amerikan futbolcı",
+        "ru": "Американский футболист",
+        "uk": "Гравець в американський футбол",
+        "img": "images/r0707.jpeg"
+      },
+      {
+        "en": "Javelin, spear",
+        "ct": "Mızraq",
+        "ru": "Копье",
+        "uk": "Спис, спис",
+        "img": "images/r0708.jpeg"
+      },
+      {
+        "en": "Skates",
+        "ct": "Konki",
+        "ru": "Коньки",
+        "uk": "Ковзани",
+        "img": "images/r0709.jpeg"
+      },
+      {
+        "en": "Ping-pong",
+        "ct": "Pin-pong",
+        "ru": "Настольный теннис",
+        "uk": "Пінг-понг",
+        "img": "images/r0710.jpeg"
+      },
+      {
+        "en": "Tennis",
+        "ct": "Tennis",
+        "ru": "Теннис",
+        "uk": "Теніс",
+        "img": "images/r0711.png"
+      },
+      {
+        "en": "Goalkeeper",
+        "ct": "Kaleci",
+        "ru": "Вратарь",
+        "uk": "Воротар",
+        "img": "images/r0712.jpeg"
+      },
+      {
+        "en": "Goal",
+        "ct": "Gol",
+        "ru": "Гол",
+        "uk": "Гол",
+        "img": "images/r0713.jpeg"
+      },
+      {
+        "en": "Handball",
+        "ct": "Gandbol",
+        "ru": "Гандбол",
+        "uk": "Гандбол",
+        "img": "images/r0714.jpeg"
+      },
+      {
+        "en": "Soccer",
+        "ct": "Futbol",
+        "ru": "Футбол",
+        "uk": "Футбол",
+        "img": "images/r0715.jpeg"
+      },
+      {
+        "en": "Ice hockey stick",
+        "ct": "Hokkey sopası",
+        "ru": "Клюшка",
+        "uk": "Хокейна ключка",
+        "img": "images/r0716.jpeg"
+      },
+      {
+        "en": "Puck",
+        "ct": "Şayba",
+        "ru": "Шайба",
+        "uk": "Шайба",
+        "img": "images/r0717.png"
+      },
+      {
+        "en": "Ice hockey",
+        "ct": "Hokkey",
+        "ru": "Хоккей на льду",
+        "uk": "Хокей на льоду",
+        "img": "images/r0718.jpeg"
+      },
+      {
+        "en": "Skateboard",
+        "ct": "Skeyt, kaykay",
+        "ru": "Скейтборд",
+        "uk": "Скейтборд",
+        "img": "images/r0719.jpeg"
+      },
+      {
+        "en": "Athletics, sport",
+        "ct": "Atletika",
+        "ru": "Легкая атлетика",
+        "uk": "Легка атлетика, спорт",
+        "img": "images/r0720.jpeg"
+      },
+      {
+        "en": "High jump",
+        "ct": "Yüksek atlama",
+        "ru": "Прыжок в высоту",
+        "uk": "Стрибок у висоту",
+        "img": "images/r0721.jpeg"
+      },
+      {
+        "en": "Runner",
+        "ct": "Çapıcı",
+        "ru": "Бегун",
+        "uk": "Бігун",
+        "img": "images/r0722.jpeg"
+      },
+      {
+        "en": "Wrestling",
+        "ct": "Küreş",
+        "ru": "Борьба",
+        "uk": "Боротьба",
+        "img": "images/r0723.jpeg"
+      },
+      {
+        "en": "Surfer",
+        "ct": "Sörfçi",
+        "ru": "Серфер",
+        "uk": "Серфер",
+        "img": "images/r0724.jpeg"
+      },
+      {
+        "en": "Sailboard",
+        "ct": "Yelkenli tahta",
+        "ru": "Доска с парусом",
+        "uk": "Вітрильна дошка",
+        "img": "images/r0725.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "nature",
+    "en": "Nature",
+    "ct": "Tabiat",
+    "ru": "Природа",
+    "uk": "Природа",
+    "words": [
+      {
+        "en": "Nature",
+        "ct": "Tabiat",
+        "ru": "Природа",
+        "uk": "Природа",
+        "img": "images/r0726.jpeg"
+      },
+      {
+        "en": "Field",
+        "ct": "Tarla",
+        "ru": "Поле",
+        "uk": "Поле",
+        "img": "images/r0727.jpeg"
+      },
+      {
+        "en": "Valley",
+        "ct": "Vadiy, dere, uva",
+        "ru": "Долина",
+        "uk": "Долина",
+        "img": "images/r0728.jpeg"
+      },
+      {
+        "en": "Slope, hillside",
+        "ct": "Cap, yamaç",
+        "ru": "Склон",
+        "uk": "Схил, пагорб",
+        "img": "images/r0729.jpeg"
+      },
+      {
+        "en": "Rapids, waterfall",
+        "ct": "Uçansuv, şelâle",
+        "ru": "Пороги, водопад",
+        "uk": "Пороги, водоспад",
+        "img": "images/r0730.jpeg"
+      },
+      {
+        "en": "Brook",
+        "ct": "Irmaq",
+        "ru": "Ручей",
+        "uk": "Брук",
+        "img": "images/r0731.jpeg"
+      },
+      {
+        "en": "River",
+        "ct": "Özen, neer",
+        "ru": "Река",
+        "uk": "Річка",
+        "img": "images/r0732.jpeg"
+      },
+      {
+        "en": "Dam",
+        "ct": "Bent, plotina",
+        "ru": "Плотина",
+        "uk": "Дамба",
+        "img": "images/r0733.jpeg"
+      },
+      {
+        "en": "Mountain",
+        "ct": "Dağ",
+        "ru": "Гора",
+        "uk": "Гора",
+        "img": "images/r0734.jpeg"
+      },
+      {
+        "en": "Ridge",
+        "ct": "Dağ sırtı",
+        "ru": "Хребет",
+        "uk": "Хребет",
+        "img": "images/r0735.jpeg"
+      },
+      {
+        "en": "Hill",
+        "ct": "Bayır",
+        "ru": "Холм",
+        "uk": "Хілл",
+        "img": "images/r0736.jpeg"
+      },
+      {
+        "en": "Pinnacle",
+        "ct": "Töpe",
+        "ru": "Вершина",
+        "uk": "Вершина",
+        "img": "images/r0737.jpeg"
+      },
+      {
+        "en": "Crag, rock",
+        "ct": "Qaya",
+        "ru": "Скала, камень",
+        "uk": "Скеля, скеля",
+        "img": "images/r0738.jpeg"
+      },
+      {
+        "en": "Globe",
+        "ct": "Yer kürresi",
+        "ru": "Глобус",
+        "uk": "Глобус",
+        "img": "images/r0739.jpeg"
+      },
+      {
+        "en": "Forest",
+        "ct": "Orman",
+        "ru": "Лес",
+        "uk": "Ліс",
+        "img": "images/r0740.jpeg"
+      },
+      {
+        "en": "Landscape",
+        "ct": "Manzara, körüniş",
+        "ru": "Пейзаж",
+        "uk": "Пейзаж",
+        "img": "images/r0741.jpeg"
+      },
+      {
+        "en": "Continent",
+        "ct": "Qıta",
+        "ru": "Континент",
+        "uk": "Континент",
+        "img": "images/r0742.png"
+      },
+      {
+        "en": "Isthmus",
+        "ct": "Boyun",
+        "ru": "Перешеек",
+        "uk": "Перешийок",
+        "img": "images/r0743.jpeg"
+      },
+      {
+        "en": "Peninsula",
+        "ct": "Yarımada",
+        "ru": "Полуостров",
+        "uk": "Півострів",
+        "img": "images/r0744.png"
+      },
+      {
+        "en": "Island",
+        "ct": "Ada",
+        "ru": "Остров",
+        "uk": "Острів",
+        "img": "images/r0745.jpeg"
+      },
+      {
+        "en": "Bog",
+        "ct": "Bataqlıq, sazlıq",
+        "ru": "Болото",
+        "uk": "Болото",
+        "img": "images/r0746.jpeg"
+      },
+      {
+        "en": "Bay",
+        "ct": "Körfez",
+        "ru": "Бухта",
+        "uk": "Затока",
+        "img": "images/r0747.jpeg"
+      },
+      {
+        "en": "Lake",
+        "ct": "Göl",
+        "ru": "Озеро",
+        "uk": "Озеро",
+        "img": "images/r0748.jpeg"
+      },
+      {
+        "en": "Pond",
+        "ct": "Tıynaq, avıt",
+        "ru": "Пруд",
+        "uk": "Ставок",
+        "img": "images/r0749.jpeg"
+      },
+      {
+        "en": "Sea, ocean",
+        "ct": "Deñiz, okean",
+        "ru": "Море, океан",
+        "uk": "Море, океан",
+        "img": "images/r0750.jpeg"
+      },
+      {
+        "en": "Beach",
+        "ct": "Plâj",
+        "ru": "Пляж",
+        "uk": "Пляж",
+        "img": "images/r0751.jpeg"
+      },
+      {
+        "en": "Sandy beach",
+        "ct": "Qumlu plâj",
+        "ru": "Песчаный пляж",
+        "uk": "Піщаний пляж",
+        "img": "images/r0752.jpeg"
+      },
+      {
+        "en": "Glacier",
+        "ct": "Buzluq",
+        "ru": "Ледник",
+        "uk": "Льодовик",
+        "img": "images/r0753.jpeg"
+      },
+      {
+        "en": "Moon",
+        "ct": "Ay",
+        "ru": "Луна",
+        "uk": "Місяць",
+        "img": "images/r0754.jpeg"
+      },
+      {
+        "en": "Sun",
+        "ct": "Küneş",
+        "ru": "Солнце",
+        "uk": "Сонце",
+        "img": "images/r0755.jpeg"
+      },
+      {
+        "en": "Star",
+        "ct": "Yıldız",
+        "ru": "Звезда",
+        "uk": "Зірка",
+        "img": "images/r0756.jpeg"
+      },
+      {
+        "en": "Crop",
+        "ct": "Bereketlilik",
+        "ru": "Урожай",
+        "uk": "Кадрування",
+        "img": "images/r0757.jpeg"
+      },
+      {
+        "en": "Farm",
+        "ct": "Çiftlik, ferma",
+        "ru": "Ферма",
+        "uk": "Ферма",
+        "img": "images/r0758.jpeg"
+      },
+      {
+        "en": "Straw",
+        "ct": "Toban",
+        "ru": "Солома",
+        "uk": "Солома",
+        "img": "images/r0759.jpeg"
+      },
+      {
+        "en": "Snow",
+        "ct": "Qar",
+        "ru": "Снег",
+        "uk": "Сніг",
+        "img": "images/r0760.jpeg"
+      },
+      {
+        "en": "Snowball",
+        "ct": "Qar topaçı",
+        "ru": "Снежок",
+        "uk": "Сніжок",
+        "img": "images/r0761.jpeg"
+      },
+      {
+        "en": "Snowman",
+        "ct": "Kardan adam",
+        "ru": "Снеговик",
+        "uk": "Сніговик",
+        "img": "images/r0762.png"
+      },
+      {
+        "en": "Power station",
+        "ct": "Elektrik stantsiya",
+        "ru": "Электростанция",
+        "uk": "Електростанція",
+        "img": "images/r0763.jpeg"
+      },
+      {
+        "en": "Factory",
+        "ct": "Zavod",
+        "ru": "Завод",
+        "uk": "Фабрика",
+        "img": "images/r0764.jpeg"
+      },
+      {
+        "en": "Smoke",
+        "ct": "Tuman, tütün",
+        "ru": "Дым",
+        "uk": "Дим",
+        "img": "images/r0765.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "body_parts",
+    "en": "Body parts",
+    "ct": "Vücut parçaları",
+    "ru": "Части тела",
+    "uk": "Частини тіла",
+    "words": [
+      {
+        "en": "Artery",
+        "ct": "Qızıl qan damarı",
+        "ru": "Артерия",
+        "uk": "Артерія",
+        "img": "images/r0766.jpeg"
+      },
+      {
+        "en": "Vein",
+        "ct": "Qara qan damarı",
+        "ru": "Вена",
+        "uk": "Вена",
+        "img": "images/r0767.jpeg"
+      },
+      {
+        "en": "Blood",
+        "ct": "Qan",
+        "ru": "Кровь",
+        "uk": "Кров",
+        "img": "images/r0768.jpeg"
+      },
+      {
+        "en": "Blood circulation",
+        "ct": "Qan dönümi",
+        "ru": "Кровообращения",
+        "uk": "Кровообіг",
+        "img": "images/r0769.jpeg"
+      },
+      {
+        "en": "Blood vessel",
+        "ct": "Qan damarı",
+        "ru": "Кровеносный сосуд",
+        "uk": "Кровоносна судина",
+        "img": "images/r0770.jpeg"
+      },
+      {
+        "en": "Heart",
+        "ct": "Yürek",
+        "ru": "Сердце",
+        "uk": "Серце",
+        "img": "images/r0771.jpeg"
+      },
+      {
+        "en": "Lungs",
+        "ct": "Aqciger",
+        "ru": "Легкое",
+        "uk": "Легені",
+        "img": "images/r0772.jpeg"
+      },
+      {
+        "en": "Brain",
+        "ct": "Miy, dimağ",
+        "ru": "Мозг",
+        "uk": "Мозок",
+        "img": "images/r0773.jpeg"
+      },
+      {
+        "en": "Stomach",
+        "ct": "Mide, aşqazan",
+        "ru": "Желудок",
+        "uk": "Шлунок",
+        "img": "images/r0774.jpeg"
+      },
+      {
+        "en": "Bowels, intestines",
+        "ct": "Içekler",
+        "ru": "Кишечник",
+        "uk": "Кишечник, кишечник",
+        "img": "images/r0775.jpeg"
+      },
+      {
+        "en": "Small intestine",
+        "ct": "Ince içek",
+        "ru": "Тонкая кишка",
+        "uk": "Тонка кишка",
+        "img": "images/r0776.jpeg"
+      },
+      {
+        "en": "Large intestine",
+        "ct": "Qalın içek",
+        "ru": "Толстая кишка",
+        "uk": "Товста кишка",
+        "img": "images/r0777.jpeg"
+      },
+      {
+        "en": "Blind gut, appendix",
+        "ct": "Kör içek",
+        "ru": "Слепая кишка; приложение",
+        "uk": "Сліпа кишка, апендикс",
+        "img": "images/r0778.jpeg"
+      },
+      {
+        "en": "Bile",
+        "ct": "Öt, zafra",
+        "ru": "Желчь",
+        "uk": "Жовч",
+        "img": "images/r0779.jpeg"
+      },
+      {
+        "en": "Liver",
+        "ct": "Qara ciger",
+        "ru": "Печень",
+        "uk": "Печінка",
+        "img": "images/r0780.jpeg"
+      },
+      {
+        "en": "Kidney",
+        "ct": "Büyrek",
+        "ru": "Почка",
+        "uk": "Нирка",
+        "img": "images/r0781.png"
+      },
+      {
+        "en": "Skeleton",
+        "ct": "Taqlet",
+        "ru": "Скелет",
+        "uk": "Скелет",
+        "img": "images/r0782.jpeg"
+      },
+      {
+        "en": "Brachial bone",
+        "ct": "Omuz kemigi",
+        "ru": "Плечевая кость",
+        "uk": "Плечова кістка",
+        "img": "images/r0783.png"
+      },
+      {
+        "en": "Thorax",
+        "ct": "Qafes, köküs qafesi",
+        "ru": "Грудная клетка",
+        "uk": "Грудна клітка",
+        "img": "images/r0784.jpeg"
+      },
+      {
+        "en": "Backbone, spine",
+        "ct": "Belkemik, omurğa",
+        "ru": "Позвоночник позвоночник",
+        "uk": "Хребет, хребет",
+        "img": "images/r0785.jpeg"
+      },
+      {
+        "en": "Pelvis",
+        "ct": "Tas kemigi",
+        "ru": "Таз",
+        "uk": "Таз",
+        "img": "images/r0786.jpeg"
+      },
+      {
+        "en": "Femur",
+        "ct": "San kemigi",
+        "ru": "Бедренная кость",
+        "uk": "Стегнова кістка",
+        "img": "images/r0787.png"
+      },
+      {
+        "en": "Fibula, splint-bone",
+        "ct": "Ufaq qamış kemik",
+        "ru": "Малоберцовая кость",
+        "uk": "Малоберцовая кістка, шина-кістка",
+        "img": "images/r0788.png"
+      },
+      {
+        "en": "Tibia",
+        "ct": "San kemigi",
+        "ru": "Берцовая кость",
+        "uk": "Великогомілкової кістки",
+        "img": "images/r0789.png"
+      },
+      {
+        "en": "Rib",
+        "ct": "Qaburğa",
+        "ru": "Ребро",
+        "uk": "Ребро",
+        "img": "images/r0790.jpeg"
+      },
+      {
+        "en": "Muscle",
+        "ct": "Adale",
+        "ru": "Мышца",
+        "uk": "М'язи",
+        "img": "images/r0791.png"
+      },
+      {
+        "en": "Body",
+        "ct": "Beden, vucut, kevde, ten",
+        "ru": "Тело",
+        "uk": "Тіло",
+        "img": "images/r0792.jpeg"
+      },
+      {
+        "en": "Head",
+        "ct": "Baş",
+        "ru": "Гoлoва",
+        "uk": "Голова",
+        "img": "images/r0793.jpeg"
+      },
+      {
+        "en": "Face",
+        "ct": "Yüz, bet, çere, sıma",
+        "ru": "Лицо",
+        "uk": "Обличчя",
+        "img": "images/r0794.jpeg"
+      },
+      {
+        "en": "Forehead",
+        "ct": "Mañlay",
+        "ru": "Лоб",
+        "uk": "Лоб",
+        "img": "images/r0795.jpeg"
+      },
+      {
+        "en": "Back of the head",
+        "ct": "Eñse",
+        "ru": "Затылок",
+        "uk": "Потилицю",
+        "img": "images/r0796.jpeg"
+      },
+      {
+        "en": "Moustache",
+        "ct": "Mıyıq",
+        "ru": "Усы",
+        "uk": "Вуса",
+        "img": "images/r0797.jpeg"
+      },
+      {
+        "en": "Beard",
+        "ct": "Saqal",
+        "ru": "Борода",
+        "uk": "Борода",
+        "img": "images/r0798.jpeg"
+      },
+      {
+        "en": "Chin",
+        "ct": "Saqal tübü",
+        "ru": "Подбородок",
+        "uk": "Підборіддя",
+        "img": "images/r0799.jpeg"
+      },
+      {
+        "en": "Jaw",
+        "ct": "Çenge",
+        "ru": "Челюсть",
+        "uk": "Щелепа",
+        "img": "images/r0800.png"
+      },
+      {
+        "en": "Hair",
+        "ct": "Saçlar",
+        "ru": "Волосы",
+        "uk": "Волосся",
+        "img": "images/r0801.jpeg"
+      },
+      {
+        "en": "Ear",
+        "ct": "Qulaq",
+        "ru": "Ухо",
+        "uk": "Вухо",
+        "img": "images/r0802.jpeg"
+      },
+      {
+        "en": "Ear lobe",
+        "ct": "Qulaq memesi, sırğalıq",
+        "ru": "Мочка уха",
+        "uk": "Мочка вуха",
+        "img": "images/r0803.jpeg"
+      },
+      {
+        "en": "Cheek",
+        "ct": "Yanaq",
+        "ru": "Щека",
+        "uk": "Щока",
+        "img": "images/r0804.jpeg"
+      },
+      {
+        "en": "Eye",
+        "ct": "Köz",
+        "ru": "Глаз",
+        "uk": "Око",
+        "img": "images/r0805.jpeg"
+      },
+      {
+        "en": "Eyelash",
+        "ct": "Kirpik",
+        "ru": "Ресница",
+        "uk": "Вій",
+        "img": "images/r0806.jpeg"
+      },
+      {
+        "en": "Eyelid",
+        "ct": "Köz qapağı",
+        "ru": "Веко",
+        "uk": "Повіка",
+        "img": "images/r0807.jpeg"
+      },
+      {
+        "en": "Eyebrow",
+        "ct": "Qaş",
+        "ru": "Бровь",
+        "uk": "Брова",
+        "img": "images/r0808.jpeg"
+      },
+      {
+        "en": "Mouth",
+        "ct": "Ağız",
+        "ru": "Рот",
+        "uk": "Рот",
+        "img": "images/r0809.jpeg"
+      },
+      {
+        "en": "Lips",
+        "ct": "Dudaqlar",
+        "ru": "Губы",
+        "uk": "Губи",
+        "img": "images/r0810.jpeg"
+      },
+      {
+        "en": "Oral cavity",
+        "ct": "Ağız boşluğı",
+        "ru": "Полость рта",
+        "uk": "Ротова порожнина",
+        "img": "images/r0811.jpeg"
+      },
+      {
+        "en": "Palate",
+        "ct": "Damaq",
+        "ru": "Нёбо",
+        "uk": "Смак",
+        "img": "images/r0812.jpeg"
+      },
+      {
+        "en": "Nostril",
+        "ct": "Burun deligi, tamav",
+        "ru": "Ноздря",
+        "uk": "Ніздрю",
+        "img": "images/r0813.jpeg"
+      },
+      {
+        "en": "Nose",
+        "ct": "Burun",
+        "ru": "Нос",
+        "uk": "Ніс",
+        "img": "images/r0814.jpeg"
+      },
+      {
+        "en": "Tongue",
+        "ct": "Til",
+        "ru": "Язык",
+        "uk": "Язик",
+        "img": "images/r0815.jpeg"
+      },
+      {
+        "en": "Wisdom tooth",
+        "ct": "Aqıl tişi",
+        "ru": "Зуб мудрости",
+        "uk": "Зуб мудрості",
+        "img": "images/r0816.png"
+      },
+      {
+        "en": "Throat",
+        "ct": "Boğaz, tamaq",
+        "ru": "Горло",
+        "uk": "Горло",
+        "img": "images/r0817.jpeg"
+      },
+      {
+        "en": "Tooth",
+        "ct": "Tiş",
+        "ru": "Зуб",
+        "uk": "Зуб",
+        "img": "images/r0818.jpeg"
+      },
+      {
+        "en": "Neck",
+        "ct": "Boyun",
+        "ru": "Шея",
+        "uk": "Шия",
+        "img": "images/r0819.jpeg"
+      },
+      {
+        "en": "Shoulder",
+        "ct": "Omuz",
+        "ru": "Плечо",
+        "uk": "Плече",
+        "img": "images/r0820.jpeg"
+      },
+      {
+        "en": "Elbow",
+        "ct": "Tirsek",
+        "ru": "Локоть",
+        "uk": "Лікоть",
+        "img": "images/r0821.jpeg"
+      },
+      {
+        "en": "Arm",
+        "ct": "Qol, el",
+        "ru": "Рука",
+        "uk": "Рука",
+        "img": "images/r0822.jpeg"
+      },
+      {
+        "en": "Armpit",
+        "ct": "Qoltuq",
+        "ru": "Подмышка",
+        "uk": "Пахва",
+        "img": "images/r0823.png"
+      },
+      {
+        "en": "Hand • palm",
+        "ct": "El • avuç",
+        "ru": "Рука • ладонь",
+        "uk": "Рука • долоня",
+        "img": "images/r0824.jpeg"
+      },
+      {
+        "en": "Thumb",
+        "ct": "Baş parmaq",
+        "ru": "Большой палец руки",
+        "uk": "Великий палець",
+        "img": "images/r0825.jpeg"
+      },
+      {
+        "en": "Index finger",
+        "ct": "Işaret parmağı",
+        "ru": "Указательный палец",
+        "uk": "Вказівний палець",
+        "img": "images/r0826.jpeg"
+      },
+      {
+        "en": "Middle finger",
+        "ct": "Orta parmaq",
+        "ru": "Средний палец",
+        "uk": "Середній палець",
+        "img": "images/r0827.jpeg"
+      },
+      {
+        "en": "Ring finger",
+        "ct": "Yüzük parmaq",
+        "ru": "Безымянный палец",
+        "uk": "Безіменний палець",
+        "img": "images/r0828.jpeg"
+      },
+      {
+        "en": "Little finger",
+        "ct": "Çinatiy parmaq, kiçik parmaq",
+        "ru": "Мизинец",
+        "uk": "Мізинець",
+        "img": "images/r0829.png"
+      },
+      {
+        "en": "Fingertip",
+        "ct": "Parmaq ucu",
+        "ru": "Кончик пальца",
+        "uk": "Кінчик пальця",
+        "img": "images/r0830.jpeg"
+      },
+      {
+        "en": "Torso, trunk",
+        "ct": "Kevde",
+        "ru": "Торс, туловище",
+        "uk": "Тулуб, тулуб",
+        "img": "images/r0831.jpeg"
+      },
+      {
+        "en": "Back",
+        "ct": "Arqa, sırt",
+        "ru": "Спина",
+        "uk": "Назад",
+        "img": "images/r0832.jpeg"
+      },
+      {
+        "en": "Belly, abdomen",
+        "ct": "Qursaq, qarın",
+        "ru": "Живот, живот",
+        "uk": "Живіт, живіт",
+        "img": "images/r0833.jpeg"
+      },
+      {
+        "en": "Navel, umbilicus",
+        "ct": "Köbek",
+        "ru": "Пупок",
+        "uk": "Пупок, пупок",
+        "img": "images/r0834.jpeg"
+      },
+      {
+        "en": "Waist",
+        "ct": "Bel",
+        "ru": "Талия",
+        "uk": "Талія",
+        "img": "images/r0835.jpeg"
+      },
+      {
+        "en": "Hip",
+        "ct": "San",
+        "ru": "Бедро",
+        "uk": "Стегно",
+        "img": "images/r0836.jpeg"
+      },
+      {
+        "en": "Knee",
+        "ct": "Tiz",
+        "ru": "Колено",
+        "uk": "Коліно",
+        "img": "images/r0837.jpeg"
+      },
+      {
+        "en": "Leg",
+        "ct": "Bacaq",
+        "ru": "Нога",
+        "uk": "Ніжка",
+        "img": "images/r0838.jpeg"
+      },
+      {
+        "en": "Foot",
+        "ct": "Ayaq",
+        "ru": "Нога",
+        "uk": "Стопа",
+        "img": "images/r0839.jpeg"
+      },
+      {
+        "en": "Heel",
+        "ct": "Ökçe",
+        "ru": "Пятка",
+        "uk": "Каблук",
+        "img": "images/r0840.jpeg"
+      },
+      {
+        "en": "Big toe",
+        "ct": "Ayaq baş parmağı",
+        "ru": "Большой палец ноги",
+        "uk": "Великий палець на нозі",
+        "img": "images/r0841.jpeg"
+      },
+      {
+        "en": "Skin",
+        "ct": "Teri",
+        "ru": "Кожа",
+        "uk": "Шкіра",
+        "img": "images/r0842.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "flags",
+    "en": "Flags",
+    "ct": "Bayraqlar",
+    "ru": "Флаги",
+    "uk": "Прапори",
+    "words": [
+      {
+        "en": "Crimean tatar flag",
+        "ct": "Qırım tatar bayrağı",
+        "ru": "Крымскотатарский флаг",
+        "uk": "Кримськотатарський прапор",
+        "img": "images/r0843.jpeg"
+      },
+      {
+        "en": "Brazil",
+        "ct": "Braziliye",
+        "ru": "Бразилия",
+        "uk": "Бразилія",
+        "img": "images/r0844.png"
+      },
+      {
+        "en": "France",
+        "ct": "Frenkistan",
+        "ru": "Франция",
+        "uk": "Франція",
+        "img": "images/r0845.png"
+      },
+      {
+        "en": "Spain",
+        "ct": "Ispaniya",
+        "ru": "Испания",
+        "uk": "Іспанія",
+        "img": "images/r0846.png"
+      },
+      {
+        "en": "Turkey",
+        "ct": "Türkiye",
+        "ru": "Турция",
+        "uk": "Туреччина",
+        "img": "images/r0847.jpeg"
+      },
+      {
+        "en": "Azerbaijan",
+        "ct": "Azerbaycan",
+        "ru": "Азербайджан",
+        "uk": "Азербайджан",
+        "img": "images/r0848.png"
+      },
+      {
+        "en": "Georgia",
+        "ct": "Gürcistan",
+        "ru": "Грузия",
+        "uk": "Грузія",
+        "img": "images/r0849.png"
+      },
+      {
+        "en": "Japan",
+        "ct": "Yaponiya",
+        "ru": "Япония",
+        "uk": "Японія",
+        "img": "images/r0850.jpeg"
+      },
+      {
+        "en": "United states of america",
+        "ct": "Amerika qoşma ştatları",
+        "ru": "Соединенные штаты америки",
+        "uk": "Сполучені штати америки",
+        "img": "images/r0851.jpeg"
+      },
+      {
+        "en": "China",
+        "ct": "Çin",
+        "ru": "Китай",
+        "uk": "Китай",
+        "img": "images/r0852.png"
+      },
+      {
+        "en": "Russia",
+        "ct": "Rusiye",
+        "ru": "Россия",
+        "uk": "Росія",
+        "img": "images/r0853.jpeg"
+      },
+      {
+        "en": "Canada",
+        "ct": "Kanada",
+        "ru": "Канада",
+        "uk": "Канада",
+        "img": "images/r0854.png"
+      },
+      {
+        "en": "Poland",
+        "ct": "Lehistan",
+        "ru": "Польша",
+        "uk": "Польща",
+        "img": "images/r0855.png"
+      },
+      {
+        "en": "Switzerland",
+        "ct": "Isviçre",
+        "ru": "Швейцария",
+        "uk": "Швейцарія",
+        "img": "images/r0856.jpeg"
+      },
+      {
+        "en": "Australia",
+        "ct": "Avstraliya",
+        "ru": "Австралия",
+        "uk": "Австралія",
+        "img": "images/r0857.png"
+      },
+      {
+        "en": "Italy",
+        "ct": "Italiya",
+        "ru": "Италия",
+        "uk": "Італія",
+        "img": "images/r0858.png"
+      },
+      {
+        "en": "Kazakhstan",
+        "ct": "Qazahistan",
+        "ru": "Казахстан",
+        "uk": "Казахстан",
+        "img": "images/r0859.png"
+      },
+      {
+        "en": "Ukraine",
+        "ct": "Ukraina",
+        "ru": "Украина",
+        "uk": "Україна",
+        "img": "images/r0860.jpeg"
+      },
+      {
+        "en": "Netherlands/holland",
+        "ct": "Felemenk",
+        "ru": "Нидерланды/голландия",
+        "uk": "Нідерланди/голландія",
+        "img": "images/r0861.png"
+      },
+      {
+        "en": "Uzbekistan",
+        "ct": "Özbekistan",
+        "ru": "Узбекистан",
+        "uk": "Узбекистан",
+        "img": "images/r0862.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "adjectives",
+    "en": "Adjectives",
+    "ct": "Sıfatlar",
+    "ru": "Прилагательные",
+    "uk": "Прикметники",
+    "words": [
+      {
+        "en": "Poor",
+        "ct": "Faqır, yoqsul",
+        "ru": "Бедный",
+        "uk": "Бідний",
+        "img": null
+      },
+      {
+        "en": "Close",
+        "ct": "Yaqın",
+        "ru": "Близкий",
+        "uk": "Закрити",
+        "img": null
+      },
+      {
+        "en": "Big, large",
+        "ct": "Büyük, balaban, ziyade",
+        "ru": "Большой",
+        "uk": "Великий, великий",
+        "img": null
+      },
+      {
+        "en": "Important",
+        "ct": "Müim, emiyetli, kerekli",
+        "ru": "Важный",
+        "uk": "Важливо",
+        "img": null
+      },
+      {
+        "en": "Great",
+        "ct": "Ulu, yüce, büyük",
+        "ru": "Великий",
+        "uk": "Чудово",
+        "img": null
+      },
+      {
+        "en": "Whole",
+        "ct": "Bütün, cemi, episi",
+        "ru": "Весь",
+        "uk": "Цілий",
+        "img": null
+      },
+      {
+        "en": "Military",
+        "ct": "Arbiy",
+        "ru": "Военный",
+        "uk": "Військовий",
+        "img": null
+      },
+      {
+        "en": "Possible",
+        "ct": "Mümkün, imkânı olğan",
+        "ru": "Военный",
+        "uk": "Можливо",
+        "img": null
+      },
+      {
+        "en": "High",
+        "ct": "Yüksek",
+        "ru": "Высокий",
+        "uk": "Високий",
+        "img": null
+      },
+      {
+        "en": "General, main, major",
+        "ct": "Baş, esas",
+        "ru": "Главный",
+        "uk": "Загальні, основні, основні",
+        "img": null
+      },
+      {
+        "en": "Hot",
+        "ct": "Sıcaq",
+        "ru": "Горячий",
+        "uk": "Гаряче",
+        "img": null
+      },
+      {
+        "en": "Ready",
+        "ct": "Azır",
+        "ru": "Готовый",
+        "uk": "Готовий",
+        "img": null
+      },
+      {
+        "en": "Democratic",
+        "ct": "Demokratik",
+        "ru": "Демократический",
+        "uk": "Демократичний",
+        "img": null
+      },
+      {
+        "en": "Long",
+        "ct": "Uzun",
+        "ru": "Длинный",
+        "uk": "Довгий",
+        "img": null
+      },
+      {
+        "en": "Available",
+        "ct": "Irişilir",
+        "ru": "Доступный",
+        "uk": "В наявності",
+        "img": null
+      },
+      {
+        "en": "Other, different",
+        "ct": "Başqa, diger",
+        "ru": "Другой",
+        "uk": "Інший, інший",
+        "img": null
+      },
+      {
+        "en": "Single",
+        "ct": "Yekâne",
+        "ru": "Единая",
+        "uk": "Неодружений",
+        "img": null
+      },
+      {
+        "en": "Hard",
+        "ct": "Sert",
+        "ru": "Жесткий",
+        "uk": "Важко",
+        "img": null
+      },
+      {
+        "en": "Significant",
+        "ct": "Emiyetli",
+        "ru": "Значительный",
+        "uk": "Значний",
+        "img": null
+      },
+      {
+        "en": "Foreign",
+        "ct": "Çetel, ecnebiy, yabancı",
+        "ru": "Иностранный",
+        "uk": "Іноземні",
+        "img": null
+      },
+      {
+        "en": "Short",
+        "ct": "Qısqa",
+        "ru": "Короткий",
+        "uk": "Короткий",
+        "img": null
+      },
+      {
+        "en": "Cultural",
+        "ct": "Medeniy, medeniyetli",
+        "ru": "Культурный",
+        "uk": "Культурний",
+        "img": null
+      },
+      {
+        "en": "Left",
+        "ct": "Sol",
+        "ru": "Левый",
+        "uk": "Ліворуч",
+        "img": null
+      },
+      {
+        "en": "Easy",
+        "ct": "Qolay",
+        "ru": "Легко",
+        "uk": "Легко",
+        "img": null
+      },
+      {
+        "en": "Personal",
+        "ct": "Şahsiy, öz",
+        "ru": "Личный",
+        "uk": "Особистий",
+        "img": null
+      },
+      {
+        "en": "Best",
+        "ct": "Eñ yahşı, eñ güzel",
+        "ru": "Лучший",
+        "uk": "Найкращий",
+        "img": null
+      },
+      {
+        "en": "Small",
+        "ct": "Kiçik, kiçkene, ufaq",
+        "ru": "Маленький",
+        "uk": "Маленький",
+        "img": null
+      },
+      {
+        "en": "Little",
+        "ct": "Az",
+        "ru": "Мало",
+        "uk": "Мало",
+        "img": null
+      },
+      {
+        "en": "Medical",
+        "ct": "Tibbiy",
+        "ru": "Медицинский",
+        "uk": "Медичний",
+        "img": null
+      },
+      {
+        "en": "International",
+        "ct": "Halqara, devletlerara",
+        "ru": "Международный",
+        "uk": "Міжнародний",
+        "img": null
+      },
+      {
+        "en": "Dead",
+        "ct": "Ölü",
+        "ru": "Мёртвый",
+        "uk": "Мертвий",
+        "img": null
+      },
+      {
+        "en": "Local",
+        "ct": "Yerli, maalliy",
+        "ru": "Местный",
+        "uk": "Місцевий",
+        "img": null
+      },
+      {
+        "en": "Young",
+        "ct": "Yaş, genç",
+        "ru": "Молодой",
+        "uk": "Молодий",
+        "img": null
+      },
+      {
+        "en": "National",
+        "ct": "Milliye",
+        "ru": "Национальный",
+        "uk": "Національний",
+        "img": null
+      },
+      {
+        "en": "Recent",
+        "ct": "Keçende, keçenlerde",
+        "ru": "Недавний",
+        "uk": "Останні",
+        "img": null
+      },
+      {
+        "en": "Wrong",
+        "ct": "Yañlış, doğru olmağan",
+        "ru": "Неправильный",
+        "uk": "Неправильно",
+        "img": null
+      },
+      {
+        "en": "Low",
+        "ct": "Alçaq, basıq",
+        "ru": "Низкий",
+        "uk": "Низький",
+        "img": null
+      },
+      {
+        "en": "New",
+        "ct": "Yañı",
+        "ru": "Новый",
+        "uk": "Новий",
+        "img": null
+      },
+      {
+        "en": "Public, social",
+        "ct": "Içtimaiy",
+        "ru": "Общественный, социальный",
+        "uk": "Громадський, соціальний",
+        "img": null
+      },
+      {
+        "en": "Common",
+        "ct": "Umumiy, bütün",
+        "ru": "Общий",
+        "uk": "Поширений",
+        "img": null
+      },
+      {
+        "en": "Huge",
+        "ct": "Qocaman, pek büyük, muazzam",
+        "ru": "Огромный",
+        "uk": "Величезний",
+        "img": null
+      },
+      {
+        "en": "Similar",
+        "ct": "Aynı",
+        "ru": "Одинаковый",
+        "uk": "Схожі",
+        "img": null
+      },
+      {
+        "en": "Final",
+        "ct": "Kesen-kes",
+        "ru": "Окончательный",
+        "uk": "Остаточний",
+        "img": null
+      },
+      {
+        "en": "Certain",
+        "ct": "Kesin",
+        "ru": "Определенный",
+        "uk": "Певний",
+        "img": null
+      },
+      {
+        "en": "Bad",
+        "ct": "Yaramay, fena",
+        "ru": "Плохой",
+        "uk": "Погано",
+        "img": null
+      },
+      {
+        "en": "Late",
+        "ct": "Keç",
+        "ru": "Поздней",
+        "uk": "Пізно",
+        "img": null
+      },
+      {
+        "en": "Political",
+        "ct": "Siyasiy",
+        "ru": "Политический",
+        "uk": "Політичний",
+        "img": null
+      },
+      {
+        "en": "Full",
+        "ct": "Tolu",
+        "ru": "Полный",
+        "uk": "Повний",
+        "img": null
+      },
+      {
+        "en": "Popular",
+        "ct": "Populâr, rağbetli",
+        "ru": "Популярный",
+        "uk": "Популярний",
+        "img": null
+      },
+      {
+        "en": "Legal",
+        "ct": "Uquq, uquqiy",
+        "ru": "Правовой",
+        "uk": "Юридичний",
+        "img": null
+      },
+      {
+        "en": "Right",
+        "ct": "Sağ, aqlı",
+        "ru": "Правый",
+        "uk": "Правильно",
+        "img": null
+      },
+      {
+        "en": "Natural",
+        "ct": "Tabiiy",
+        "ru": "Природный",
+        "uk": "Природні",
+        "img": null
+      },
+      {
+        "en": "Simple",
+        "ct": "Yengil, sade, adiy",
+        "ru": "Простой",
+        "uk": "Просто",
+        "img": null
+      },
+      {
+        "en": "Past",
+        "ct": "Keçken, ötken",
+        "ru": "Прошлый",
+        "uk": "Минуле",
+        "img": null
+      },
+      {
+        "en": "Early",
+        "ct": "Erte",
+        "ru": "Ранний",
+        "uk": "Рано",
+        "img": null
+      },
+      {
+        "en": "Real",
+        "ct": "Kerçek, aqiqiy",
+        "ru": "Реальный",
+        "uk": "Справжня",
+        "img": null
+      },
+      {
+        "en": "Religious",
+        "ct": "Diniy, dindar",
+        "ru": "Религиозный",
+        "uk": "Релігійний",
+        "img": null
+      },
+      {
+        "en": "Free",
+        "ct": "Azat, serbest, ür",
+        "ru": "Свободный",
+        "uk": "Безкоштовно",
+        "img": null
+      },
+      {
+        "en": "Serious",
+        "ct": "Cidden, ciddiy olaraq",
+        "ru": "Серьезный",
+        "uk": "Серйозно",
+        "img": null
+      },
+      {
+        "en": "Strong",
+        "ct": "Küçlü, quvetli, taqatlı",
+        "ru": "Сильный",
+        "uk": "Сильний",
+        "img": null
+      },
+      {
+        "en": "Special",
+        "ct": "Mahsus, hususiy",
+        "ru": "Специальный",
+        "uk": "Особливий",
+        "img": null
+      },
+      {
+        "en": "Old",
+        "ct": "Qart, ihtiyar",
+        "ru": "Старый",
+        "uk": "Старий",
+        "img": null
+      },
+      {
+        "en": "Happy",
+        "ct": "Bahtlı, çastlı, seadetli,",
+        "ru": "Счастливый",
+        "uk": "Щаслива",
+        "img": null
+      },
+      {
+        "en": "Current",
+        "ct": "Şimdiki",
+        "ru": "Текущий",
+        "uk": "Поточний",
+        "img": null
+      },
+      {
+        "en": "Dark",
+        "ct": "Qara, qaranlıq",
+        "ru": "Темный",
+        "uk": "Темний",
+        "img": null
+      },
+      {
+        "en": "Traditional",
+        "ct": "Ananeviy",
+        "ru": "Традиционный",
+        "uk": "Традиційний",
+        "img": null
+      },
+      {
+        "en": "Difficult",
+        "ct": "Qıyın, zor",
+        "ru": "Трудный",
+        "uk": "Важко",
+        "img": null
+      },
+      {
+        "en": "Physical",
+        "ct": "Fizikiy",
+        "ru": "Физический",
+        "uk": "Фізичний",
+        "img": null
+      },
+      {
+        "en": "Financial",
+        "ct": "Maliyeviy",
+        "ru": "Финансовый",
+        "uk": "Фінансовий",
+        "img": null
+      },
+      {
+        "en": "Cold",
+        "ct": "Suvuq",
+        "ru": "Холодный",
+        "uk": "Холодний",
+        "img": null
+      },
+      {
+        "en": "Nice, good",
+        "ct": "Yahşı, eyi, güzel",
+        "ru": "Хороший",
+        "uk": "Гарно, добре",
+        "img": null
+      },
+      {
+        "en": "Central",
+        "ct": "Merkeziy",
+        "ru": "Центральный",
+        "uk": "Центральний",
+        "img": null
+      },
+      {
+        "en": "Private",
+        "ct": "Şahsiy, hususiy, öz",
+        "ru": "Частный",
+        "uk": "Приватний",
+        "img": null
+      },
+      {
+        "en": "Economic",
+        "ct": "Iqtisadiy",
+        "ru": "Экономический",
+        "uk": "Економічний",
+        "img": null
+      },
+      {
+        "en": "Clear, open",
+        "ct": "Açıq, belli",
+        "ru": "Ясный, открытый",
+        "uk": "Чисто, відкрито",
+        "img": null
+      }
+    ]
+  },
+  {
+    "id": "verbs",
+    "en": "Verbs",
+    "ct": "Fiiller",
+    "ru": "Глаголы",
+    "uk": "Дієслова",
+    "words": [
+      {
+        "en": "Take",
+        "ct": "Almaq, tutmaq",
+        "ru": "Брать",
+        "uk": "Візьміть",
+        "img": null
+      },
+      {
+        "en": "Run",
+        "ct": "Çapmaq",
+        "ru": "Бегать",
+        "uk": "Бігти",
+        "img": null
+      },
+      {
+        "en": "Be",
+        "ct": "Olmaq, bar olmaq",
+        "ru": "Быть",
+        "uk": "Бути",
+        "img": null
+      },
+      {
+        "en": "Believe",
+        "ct": "Inanmaq",
+        "ru": "Верить",
+        "uk": "Вірте",
+        "img": null
+      },
+      {
+        "en": "See",
+        "ct": "Körmek",
+        "ru": "Видеть",
+        "uk": "Див",
+        "img": null
+      },
+      {
+        "en": "Include",
+        "ct": "Kirsetmek, qoşmaq",
+        "ru": "Включать",
+        "uk": "Включати",
+        "img": null
+      },
+      {
+        "en": "Meet",
+        "ct": "Körüşmek, rastkelmek",
+        "ru": "Встретиться",
+        "uk": "Знайомтесь",
+        "img": null
+      },
+      {
+        "en": "Win",
+        "ct": "Qazanmaq",
+        "ru": "Выиграть",
+        "uk": "Виграти",
+        "img": null
+      },
+      {
+        "en": "Say",
+        "ct": "Demek, aytmaq, söylemek",
+        "ru": "Говоритть",
+        "uk": "Скажіть",
+        "img": null
+      },
+      {
+        "en": "Talk",
+        "ct": "Laf etmek, laqırdı etmek",
+        "ru": "Говорить",
+        "uk": "Говорити",
+        "img": null
+      },
+      {
+        "en": "Speak",
+        "ct": "Qonuşmaq",
+        "ru": "Говорить",
+        "uk": "Говорити",
+        "img": null
+      },
+      {
+        "en": "Give, provide",
+        "ct": "Bermek",
+        "ru": "Давать,",
+        "uk": "Дайте, надайте",
+        "img": null
+      },
+      {
+        "en": "Move",
+        "ct": "Areket etmek",
+        "ru": "Двигаться",
+        "uk": "Рухатися",
+        "img": null
+      },
+      {
+        "en": "Make, do",
+        "ct": "Yapmaq, işlemek",
+        "ru": "Делать",
+        "uk": "Робити, робити",
+        "img": null
+      },
+      {
+        "en": "Keep, hold",
+        "ct": "Tutmaq, tutıp turmaq",
+        "ru": "Держать",
+        "uk": "Тримай, тримай",
+        "img": null
+      },
+      {
+        "en": "Add",
+        "ct": "Ilâve etmek",
+        "ru": "Добавить",
+        "uk": "Додати",
+        "img": null
+      },
+      {
+        "en": "Reach",
+        "ct": "Yetişmek, barmaq",
+        "ru": "Достичь",
+        "uk": "Досяжність",
+        "img": null
+      },
+      {
+        "en": "Think",
+        "ct": "Tüşünmek, fikir etmek",
+        "ru": "Думать",
+        "uk": "Подумайте",
+        "img": null
+      },
+      {
+        "en": "Wait",
+        "ct": "Beklemek",
+        "ru": "Ждать",
+        "uk": "Зачекайте",
+        "img": null
+      },
+      {
+        "en": "Live",
+        "ct": "Yaşamaq",
+        "ru": "Жить",
+        "uk": "Жити",
+        "img": null
+      },
+      {
+        "en": "Remember",
+        "ct": "Aqılda tutmaq, hatırında tutmaq",
+        "ru": "Запомнить",
+        "uk": "Пам'ятайте",
+        "img": null
+      },
+      {
+        "en": "To call",
+        "ct": "Çalmaq",
+        "ru": "Звонить",
+        "uk": "Дзвонити",
+        "img": null
+      },
+      {
+        "en": "Know",
+        "ct": "Bilmek",
+        "ru": "Знать",
+        "uk": "Знати",
+        "img": null
+      },
+      {
+        "en": "Play",
+        "ct": "Oynamaq",
+        "ru": "Играть",
+        "uk": "Грати",
+        "img": null
+      },
+      {
+        "en": "Go",
+        "ct": "Barmaq, kelmek, yürmek, ketmek",
+        "ru": "Идти",
+        "uk": "Іди",
+        "img": null
+      },
+      {
+        "en": "To change",
+        "ct": "Deñiştirmek",
+        "ru": "Изменить",
+        "uk": "Щоб змінити",
+        "img": null
+      },
+      {
+        "en": "Have",
+        "ct": "Saip olmaq, malik olmaq",
+        "ru": "Иметь",
+        "uk": "Мати",
+        "img": null
+      },
+      {
+        "en": "Use",
+        "ct": "Qullanmaq, faydalanmaq",
+        "ru": "Использовать",
+        "uk": "Використання",
+        "img": null
+      },
+      {
+        "en": "Seem",
+        "ct": "Oşamaq",
+        "ru": "Казаться",
+        "uk": "Здається",
+        "img": null
+      },
+      {
+        "en": "Buy",
+        "ct": "Satın almaq",
+        "ru": "Купить",
+        "uk": "Купити",
+        "img": null
+      },
+      {
+        "en": "Love",
+        "ct": "Sevmek, begenmek",
+        "ru": "Любить",
+        "uk": "Кохання",
+        "img": null
+      },
+      {
+        "en": "Find",
+        "ct": "Tapmaq, bulmaq",
+        "ru": "Находить",
+        "uk": "Знайти",
+        "img": null
+      },
+      {
+        "en": "Begin",
+        "ct": "Başlamaq, kirişmek, açmaq",
+        "ru": "Начать",
+        "uk": "Почніть",
+        "img": null
+      },
+      {
+        "en": "To like",
+        "ct": "Begenmek, sevmek",
+        "ru": "Нравиться",
+        "uk": "Сподобатися",
+        "img": null
+      },
+      {
+        "en": "To need",
+        "ct": "Muhtac olmaq, ihtiyacı olmaq",
+        "ru": "Нуждаться",
+        "uk": "Потребувати",
+        "img": null
+      },
+      {
+        "en": "Expect",
+        "ct": "Beklemek, intizar etmek",
+        "ru": "Ожидать",
+        "uk": "Очікуйте",
+        "img": null
+      },
+      {
+        "en": "Leave",
+        "ct": "Qaldırmaq, taşlamaq",
+        "ru": "Оставлять",
+        "uk": "Залиште",
+        "img": null
+      },
+      {
+        "en": "Stop",
+        "ct": "Toqtamaq",
+        "ru": "Останавливаться",
+        "uk": "Стій",
+        "img": null
+      },
+      {
+        "en": "Stay, remain",
+        "ct": "Qalmaq",
+        "ru": "Остаться, оставаться",
+        "uk": "Залишайтеся, залишайтеся",
+        "img": null
+      },
+      {
+        "en": "Open",
+        "ct": "Açmaq",
+        "ru": "Открыть",
+        "uk": "Відчинено",
+        "img": null
+      },
+      {
+        "en": "Send",
+        "ct": "Ölmek, can bermek",
+        "ru": "Отправить",
+        "uk": "Надіслати",
+        "img": null
+      },
+      {
+        "en": "Fall",
+        "ct": "Tüşmek, yıqılmaq",
+        "ru": "Падать",
+        "uk": "Падіння",
+        "img": null
+      },
+      {
+        "en": "Write",
+        "ct": "Yazmaq",
+        "ru": "Писать",
+        "uk": "Напишіть",
+        "img": null
+      },
+      {
+        "en": "Pay",
+        "ct": "Ödemek, tölemek",
+        "ru": "Платить",
+        "uk": "Платити",
+        "img": null
+      },
+      {
+        "en": "To turn",
+        "ct": "Çevirmek, burmaq, aylandırmaq",
+        "ru": "Повернуть",
+        "uk": "Повертатися",
+        "img": null
+      },
+      {
+        "en": "Allow, let",
+        "ct": "Musaade etmek",
+        "ru": "Позволять",
+        "uk": "Дозвольте, дозвольте",
+        "img": null
+      },
+      {
+        "en": "Show",
+        "ct": "Köstermek",
+        "ru": "Показывать",
+        "uk": "Показати",
+        "img": null
+      },
+      {
+        "en": "Put",
+        "ct": "Qoymaq",
+        "ru": "Положить",
+        "uk": "Покласти",
+        "img": null
+      },
+      {
+        "en": "Get",
+        "ct": "Almaq",
+        "ru": "Получать",
+        "uk": "Отримати",
+        "img": null
+      },
+      {
+        "en": "To help",
+        "ct": "Yardım etmek",
+        "ru": "Помогать",
+        "uk": "Щоб допомогти",
+        "img": null
+      },
+      {
+        "en": "To understand",
+        "ct": "Añlamaq",
+        "ru": "Понимать",
+        "uk": "Щоб зрозуміти",
+        "img": null
+      },
+      {
+        "en": "Lose",
+        "ct": "Coymaq, ğayıp etmek",
+        "ru": "Потерять",
+        "uk": "Програти",
+        "img": null
+      },
+      {
+        "en": "Appear",
+        "ct": "Körünmek, peyda olmaq",
+        "ru": "Появляться",
+        "uk": "З'являтися",
+        "img": null
+      },
+      {
+        "en": "Offer",
+        "ct": "Teklif etmek, bermek, soramaq",
+        "ru": "Предложить",
+        "uk": "Пропозиція",
+        "img": null
+      },
+      {
+        "en": "Come",
+        "ct": "Kelmek, kelip çıqmaq",
+        "ru": "Приехать",
+        "uk": "Приходь",
+        "img": null
+      },
+      {
+        "en": "Bring",
+        "ct": "Ketirmek, alıp kelmek",
+        "ru": "Приносить",
+        "uk": "Принести",
+        "img": null
+      },
+      {
+        "en": "Spend",
+        "ct": "Keçirmek",
+        "ru": "Проводить",
+        "uk": "Витрачати",
+        "img": null
+      },
+      {
+        "en": "Continue",
+        "ct": "Devam ettirmek, uzatmaq",
+        "ru": "Продолжать",
+        "uk": "Продовжити",
+        "img": null
+      },
+      {
+        "en": "Happen",
+        "ct": "Olmaq, çıqmaq",
+        "ru": "Происходить",
+        "uk": "Трапляються",
+        "img": null
+      },
+      {
+        "en": "Try",
+        "ct": "Tırışmaq",
+        "ru": "Пытаться",
+        "uk": "Спробуй",
+        "img": null
+      },
+      {
+        "en": "To work",
+        "ct": "Çalışmaq",
+        "ru": "Работать",
+        "uk": "На роботу",
+        "img": null
+      },
+      {
+        "en": "Tell",
+        "ct": "Aytmaq, söylemek",
+        "ru": "Рассказать",
+        "uk": "Розкажіть",
+        "img": null
+      },
+      {
+        "en": "Consider",
+        "ct": "Körmek, tanımaq, sezmek, farq etmek",
+        "ru": "Рассматривать",
+        "uk": "Розглянемо",
+        "img": null
+      },
+      {
+        "en": "Grow",
+        "ct": "Ösmek, büyümek, yetişmek",
+        "ru": "Расти",
+        "uk": "Рости",
+        "img": null
+      },
+      {
+        "en": "Sit",
+        "ct": "Oturmaq",
+        "ru": "Сидеть",
+        "uk": "Сісти",
+        "img": null
+      },
+      {
+        "en": "Follow",
+        "ct": "Ketmek, yönemek, barmaq, yol almaq",
+        "ru": "Следовать",
+        "uk": "Слідуйте",
+        "img": null
+      },
+      {
+        "en": "Serve",
+        "ct": "Hızmet etmek",
+        "ru": "Служить",
+        "uk": "Подавайте",
+        "img": null
+      },
+      {
+        "en": "Hear",
+        "ct": "Eşitmek, duymaq",
+        "ru": "Слышать",
+        "uk": "Почуйте",
+        "img": null
+      },
+      {
+        "en": "Look, watch",
+        "ct": "Baqmaq",
+        "ru": "Смотреть",
+        "uk": "Дивіться, дивіться",
+        "img": null
+      },
+      {
+        "en": "Create",
+        "ct": "Yaratmaq, tizmek",
+        "ru": "Создать",
+        "uk": "Створити",
+        "img": null
+      },
+      {
+        "en": "Become",
+        "ct": "Olmaq, başlamaq",
+        "ru": "Стать",
+        "uk": "Стати",
+        "img": null
+      },
+      {
+        "en": "Stand",
+        "ct": "Turmaq",
+        "ru": "Стоять",
+        "uk": "Стенд",
+        "img": null
+      },
+      {
+        "en": "Build",
+        "ct": "Qurmaq",
+        "ru": "Строить",
+        "uk": "Будувати",
+        "img": null
+      },
+      {
+        "en": "Kill",
+        "ct": "Öldürmek",
+        "ru": "Убить",
+        "uk": "Вбити",
+        "img": null
+      },
+      {
+        "en": "Die",
+        "ct": "Ölmek, can bermek",
+        "ru": "Умереть",
+        "uk": "Померти",
+        "img": null
+      },
+      {
+        "en": "To set",
+        "ct": "Yerleştirmek",
+        "ru": "Устанавливать",
+        "uk": "Встановити",
+        "img": null
+      },
+      {
+        "en": "Learn",
+        "ct": "Ögretmek, oqutmaq, ders bermek",
+        "ru": "Учиться",
+        "uk": "Вчитися",
+        "img": null
+      },
+      {
+        "en": "Walk",
+        "ct": "Yürmek, barmaq, kezmek",
+        "ru": "Ходить",
+        "uk": "Прогулянка",
+        "img": null
+      },
+      {
+        "en": "Want",
+        "ct": "Istemek",
+        "ru": "Хотеть",
+        "uk": "Хочу",
+        "img": null
+      },
+      {
+        "en": "Read",
+        "ct": "Oqumaq",
+        "ru": "Читать",
+        "uk": "Прочитайте",
+        "img": null
+      },
+      {
+        "en": "Feel",
+        "ct": "Duymaq, sezmek",
+        "ru": "Чувствовать",
+        "uk": "Відчувати",
+        "img": null
+      }
+    ]
+  }
+]
