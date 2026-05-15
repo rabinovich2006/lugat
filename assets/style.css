@@ -153,6 +153,12 @@ header.site {
   color: var(--ivory);
   overflow: hidden;
 }
+.hero-bg {
+  position: absolute; inset: 0;
+  background-size: cover; background-position: center 60%;
+  opacity: 0.42;
+  filter: saturate(.85);
+}
 .hero::before {
   content: ''; position: absolute; inset: 0;
   opacity: 0.18;
@@ -162,7 +168,70 @@ header.site {
   content: ''; position: absolute; left: 0; right: 0; bottom: -1px;
   height: 80px;
   background: linear-gradient(180deg, transparent, var(--ivory));
+  z-index: 2;
 }
+.hero-inner { z-index: 3; }
+
+/* === Featured strip (cards immediately under hero) === */
+.featured-strip {
+  max-width: 1320px; margin: -60px auto 30px;
+  padding: 0 28px;
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  gap: 18px; position: relative; z-index: 5;
+}
+@media (max-width: 800px) { .featured-strip { grid-template-columns: 1fr; margin-top: -30px; } }
+.fs-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  display: flex; flex-direction: column;
+  transition: all .2s;
+}
+.fs-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-strong); border-color: var(--accent); }
+.fs-img { height: 180px; background: var(--ivory); overflow: hidden; }
+.fs-img img { width: 100%; height: 100%; object-fit: cover; }
+.fs-text { padding: 18px 20px 22px; }
+.fs-eyebrow { font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--terracotta); font-weight: 600; margin-bottom: 6px; }
+.fs-title { font-family: var(--font-display); font-size: 20px; font-weight: 700; line-height: 1.2; margin-bottom: 6px; color: var(--ink); }
+.fs-desc { font-size: 14px; color: var(--ink-soft); line-height: 1.55; }
+
+/* === Photo strip / image-with-caption blocks === */
+.photo-strip {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  max-width: 1180px; margin: 30px auto;
+}
+.photo-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.photo-card img { width: 100%; height: 220px; object-fit: cover; display: block; }
+.photo-card-caption { padding: 14px 16px 18px; }
+.photo-card-caption .title { font-family: var(--font-display); font-weight: 600; font-size: 15px; margin-bottom: 4px; }
+.photo-card-caption .meta { font-size: 12px; color: var(--ink-soft); }
+
+/* === Person tile with portrait === */
+.tile.with-portrait { padding: 0; overflow: hidden; display: grid; grid-template-rows: 220px auto; }
+.tile.with-portrait .portrait { background: var(--ivory); overflow: hidden; }
+.tile.with-portrait .portrait img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tile.with-portrait .tile-body { padding: 20px 22px 24px; }
+
+/* === Big photo banner inside a section === */
+.photo-banner {
+  max-width: 1180px; margin: 30px auto;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  position: relative;
+  box-shadow: var(--shadow);
+}
+.photo-banner img { width: 100%; height: 360px; object-fit: cover; display: block; }
+.photo-banner-caption {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(180deg, transparent, rgba(17,42,71,.85));
+  color: var(--ivory);
+  padding: 60px 28px 22px;
+}
+.photo-banner-caption h3 { font-size: 22px; margin-bottom: 4px; }
+.photo-banner-caption p { font-size: 13px; color: rgba(250,246,236,.85); }
 .hero-inner {
   position: relative; z-index: 1;
   max-width: 880px; padding: 90px 28px 120px;
@@ -378,6 +447,18 @@ header.site {
   background: var(--warm-soft);
   border-radius: 0 8px 8px 0;
   color: var(--ink);
+}
+.tl-photo {
+  margin-top: 18px;
+  border-radius: 10px; overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--ivory);
+}
+.tl-photo img { width: 100%; max-height: 360px; object-fit: cover; display: block; }
+.tl-photo figcaption {
+  padding: 10px 14px;
+  font-size: 12px; color: var(--ink-soft);
+  background: var(--surface); font-style: italic;
 }
 
 /* === Generic content (intro, prose pages) === */
