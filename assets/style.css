@@ -525,6 +525,105 @@ header.site {
   text-transform: uppercase;
 }
 
+/* === Alphabet table === */
+.alphabet-table-wrap, .phrases-table-wrap {
+  max-width: 1080px; margin: 0 auto;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+}
+.alphabet-table, .phrases-table {
+  width: 100%; border-collapse: collapse;
+  background: var(--surface);
+  font-size: 14px;
+}
+.alphabet-table th, .phrases-table th,
+.alphabet-table td, .phrases-table td {
+  padding: 12px 18px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+}
+.alphabet-table th, .phrases-table th {
+  background: var(--warm-soft);
+  font-family: var(--font-body);
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); font-weight: 600;
+}
+.alphabet-table tr:last-child td, .phrases-table tr:last-child td { border-bottom: none; }
+.al-latin { font-family: var(--font-display); font-weight: 700; font-size: 18px; color: var(--accent); width: 80px; }
+.al-cyr   { font-family: var(--font-display); font-size: 16px; color: var(--ink); width: 110px; }
+.al-ipa   { font-family: 'Courier New', monospace; color: var(--terracotta); width: 100px; }
+.al-hint  { color: var(--ink-soft); }
+.ph-ct { font-family: var(--font-display); font-weight: 600; font-size: 16px; color: var(--ink); width: 240px; }
+.ph-en { color: var(--ink-soft); }
+
+/* === Numbers row === */
+.number-row {
+  max-width: 1080px; margin: 0 auto;
+  display: grid; grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+}
+.num-cell {
+  background: var(--warm-soft);
+  border-radius: var(--radius);
+  padding: 22px 8px;
+  text-align: center;
+  border: 1px solid var(--line);
+}
+.num-ct { font-family: var(--font-display); font-weight: 700; font-size: 20px; color: var(--accent); margin-bottom: 4px; }
+.num-en { font-size: 12px; color: var(--ink-soft); letter-spacing: 0.04em; }
+@media (max-width: 700px) {
+  .number-row { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* === Recipe cards === */
+.recipe { max-width: 760px; margin: 0 auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 32px 36px; margin-bottom: 36px; box-shadow: var(--shadow-sm); }
+.recipe h3 { font-size: 26px; margin-bottom: 6px; }
+.recipe .sub { font-family: var(--font-display); font-style: italic; color: var(--ink-soft); margin-bottom: 18px; }
+.recipe-meta { display: flex; gap: 24px; padding: 12px 0; margin-bottom: 18px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-size: 13px; color: var(--ink-soft); }
+.recipe-meta strong { color: var(--ink); display: block; font-family: var(--font-display); font-size: 16px; }
+.recipe-section h4 { font-family: var(--font-body); font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin: 18px 0 10px; font-weight: 700; }
+.recipe-section p { margin-bottom: 12px; line-height: 1.7; }
+.recipe-section ul, .recipe-section ol { margin: 0 0 14px 24px; }
+.recipe-section li { margin-bottom: 6px; line-height: 1.6; }
+.recipe-section ol li { margin-bottom: 12px; }
+
+/* === Poem display === */
+.poem {
+  max-width: 760px; margin: 30px auto;
+  background: var(--surface); border-radius: var(--radius-lg);
+  border: 1px solid var(--line);
+  padding: 32px 36px;
+}
+.poem-stanza { margin-bottom: 18px; line-height: 1.7; }
+.poem-stanza.ct { font-family: var(--font-display); font-size: 17px; color: var(--ink); font-style: italic; }
+.poem-stanza.en, .poem-stanza.ru { font-size: 14px; color: var(--ink-soft); }
+.poem-title { font-family: var(--font-display); font-size: 22px; margin-bottom: 4px; }
+.poem-source { font-size: 12px; color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 18px; }
+.poem-divider { height: 1px; background: var(--line); margin: 16px 0; }
+
+/* === Testimonial card === */
+.testimonial {
+  background: var(--surface); border-left: 4px solid var(--terracotta);
+  padding: 22px 28px; border-radius: 0 var(--radius) var(--radius) 0;
+  margin-bottom: 22px;
+}
+.testimonial-quote { font-family: var(--font-display); font-style: italic; font-size: 17px; line-height: 1.7; color: var(--ink); margin-bottom: 10px; }
+.testimonial-source { font-size: 12px; color: var(--ink-soft); letter-spacing: 0.06em; }
+
+/* === Tale (folk story) === */
+.tale {
+  max-width: 760px; margin: 30px auto;
+  background: var(--warm-soft);
+  border-radius: var(--radius-lg);
+  padding: 32px 36px;
+  border-left: 4px solid var(--gold);
+}
+.tale h3 { font-size: 24px; margin-bottom: 6px; }
+.tale .tale-sub { font-family: var(--font-display); font-style: italic; color: var(--ink-soft); margin-bottom: 18px; }
+.tale p { line-height: 1.75; margin-bottom: 14px; }
+.tale p:first-of-type::first-letter { font-family: var(--font-display); font-size: 52px; font-weight: 700; float: left; line-height: 0.9; padding: 4px 8px 0 0; color: var(--accent); }
+
 /* === Footer === */
 footer {
   background: var(--indigo-deep);
